@@ -503,6 +503,8 @@ http://hotfm.live24.gr:80/hotfm
 http://n03.radiojar.com/2uh8e4akb?rj-ttl=5&rj-tok=AAABcUU2XFMA0rFMshvhXqgxKQ
 #EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="Melody FM Rodos - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/f2e7cf72-3910-4e95-a9f1-46bacaceaaf0.png",Melody FM Rodos - Ρόδος
 http://cast.radiohost.ovh:9080
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="MixMania Radio" tvg-logo="https://www.mixmaniaradio.com/images/logo1.png",MixMania Radio
+https://neos.win:37930/stream
 #EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="Radio Gold - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/80f185d1-d7a3-4637-8bb6-a22406431719.bmp",Radio Gold - Αθήνα
 http://radiogold.live24.gr:80/radiogold
 #EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="Ράδιο ΜέΡΑ" tvg-logo="https://mera25.gr/wp-content/uploads/2021/01/SLIDER_radio_launch-1-2-768x429.jpg",Ράδιο ΜέΡΑ

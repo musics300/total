@@ -473,8 +473,8 @@ http://8.38.78.173:8156/1?1609601322297
 http://eu1.fastcast4u.com:9326/stream
 #EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="80sMania Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/b7f246d3-780f-4969-8d78-d2c1ec563917.png",80sMania Radio
 http://151.80.44.127:8048/;
-#EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="80s Radio" tvg-logo="https://scontent.fath2-1.fna.fbcdn.net/v/t1.0-9/61441728_2425118601049440_2527548555313283072_n.png?_nc_cat=106&_nc_sid=7aed08&_nc_eui2=AeFe1N27gNV49GbCamLJzicTHZPmqQT_3Z62Op1tWpkCs9RFvGGNC70Ox-Hu5U6m281x-fMKmUICJV_FOPFp3E3p5iTH8wH0CfOShYqxcYBpgQ&_nc_ohc=iAhRdJX0HDYAX-NVUZO&_nc_ht=scontent.fath2-1.fna&oh=ef677285e7b3c9ddd1a6ddc428f19018&oe=5EAD58D8",80s Radio
-https://radio.streamings.gr:9083/stream?fbclid=IwAR25nxRdppxpaH796Q2c2WiS6EwcnvmJoEV-nJ5w5Eb_P4x7xAWnnbUkrfU&1585823891195
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="90s Heaven Web Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/b2c23b2c-1d52-422c-8b84-f2cb172e4a7c.jpg",90s Heaven Web Radio
+http://node-12.zeno.fm/7vnwha308vzuv?rj-ttl=5&rj-tok=AAABd8SpdfQAchssPf1ywXhZlw
 #EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="902 Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/b55b8c21-1f9a-4c8f-befe-05ccc8cf4ab5.png",902 Radio
 http://icecast.902.gr:8000/902.gr
 #EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="Arion Kids" tvg-logo="https://www.arionradio.com/_img/logos/arionkids_2.png",Arion Kids
@@ -483,7 +483,7 @@ http://live.arionradio.com/arionkids
 http://mmr.yourstreaming.gr:9300/;
 #EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="Athens Party" tvg-logo="http://resources.live24.gr/resources/images/stations/0512dc28-bc89-4ee0-b272-5993c7f8a8d8.png",Athens Party
 http://ice.onestreaming.com/athensparty
-#EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="Believe Radio - Χαλκίδα" tvg-logo="http://www.blvradio.gr/wp-content/uploads/2018/12/blv-radio-logo-sidebar.png",Believe Radio - Χαλκίδα
+#EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="Believe Radio - Χαλκίδα" tvg-logo="https://www.blvradio.gr/wp-content/uploads/believe-radio-logo-master.png",Believe Radio - Χαλκίδα
 http://s4.onweb.gr:8484/stream.mp3
 #EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="Classic Radio Greece" tvg-logo="http://resources.live24.gr/resources/images/stations/66571b2e-aee0-423b-ac20-bd15462b0350.png",Classic Radio Greece
 http://streaming.radionomy.com/JamendoLounge

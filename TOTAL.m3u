@@ -507,6 +507,8 @@ http://n03.radiojar.com/2uh8e4akb?rj-ttl=5&rj-tok=AAABcUU2XFMA0rFMshvhXqgxKQ
 http://cast.radiohost.ovh:9080
 #EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="MixMania Radio" tvg-logo="https://www.mixmaniaradio.com/images/logo1.png",MixMania Radio
 https://neos.win:37930/stream
+#EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="Πρώτο Ραδιόφωνο" tvg-logo="http://resources.live24.gr/resources/images/stations/3b44c6c9-149a-4ab7-a7c3-465235c446d2.png",Πρώτο Ραδιόφωνο
+http://n08.radiojar.com/zgpr6b3v6k8uv?rj-ttl=5&rj-tok=AAABd_grG7EAKfT8BVj3ygaeZg
 #EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="Radio Gold - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/80f185d1-d7a3-4637-8bb6-a22406431719.bmp",Radio Gold - Αθήνα
 http://radiogold.live24.gr:80/radiogold
 #EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="Ράδιο ΜέΡΑ" tvg-logo="https://mera25.gr/wp-content/uploads/2021/01/SLIDER_radio_launch-1-2-768x429.jpg",Ράδιο ΜέΡΑ
@@ -519,6 +521,8 @@ https://stream.radiojar.com/afg1g3aayvduv.mp3
 http://streaming.radionomy.com/JamendoLounge
 #EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="Samano Radio" tvg-logo="https://samano-radio.gr/wp-content/uploads/2020/04/Samano-LogoLight.png",Samano Radio
 https://streams.radio.co/s8a6d959b1/listen
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Status Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/fb8dca15-d5b0-43bc-a4e5-81a695a8e3af.png",Status Radio
+https://cast5.magicstreams.gr/sc/statuswe/stream
 #EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="Thess Radio - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/d6b15d47-660e-40e9-a9ae-fd738938ce87.png",Thess Radio - Θεσσαλονίκη
 http://noc.ezhellas.com:30570/thessradio?type=http&nocache=37038
 #EXTINF:-0 group-title="RADIO ΑΥΣΤΡΑΛΙΑ" tvg-name="ABC Radio Sydney" tvg-logo="https://www.abc.net.au/cm/rimage/7893524-1x1-thumbnail.png?v=8",ABC Radio Sydney

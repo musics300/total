@@ -519,8 +519,10 @@ http://radiogold.live24.gr:80/radiogold
 https://uk1.streamingpulse.com/ssl/RadioMera
 #EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="Republic Radio - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/548cc5b1-bf78-4b02-8f88-54af327d9916.png",Republic Radio - Θεσσαλονίκη
 http://netradio.live24.gr/republicthess
-#EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="Ρυθμός Web Χορευτικά" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmrS32LO-SkW4hJw186HJmMuq2b_cv-GJanNusKkrGF9PwNY1yA&s",Ρυθμός Web Χορευτικά
+#EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="Ρυθμός Κασετόφωνο" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmrS32LO-SkW4hJw186HJmMuq2b_cv-GJanNusKkrGF9PwNY1yA&s",Ρυθμός Web Χορευτικά
 https://stream.radiojar.com/afg1g3aayvduv.mp3
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Ρυθμός Νon Stop Mix" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1616426140/brand_manager/stations/a0ayi4emb5b3yyby0m0r.png",Ρυθμός Νon Stop Mix
+https://stream.rcs.revma.com/pg5mvxz71k8uv?direct=true
 #EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="Σαλονικιός Ράδιο - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/cd469932-89e8-4486-8bc1-44582afd3f29.jpg",Σαλονικιός Ράδιο - Θεσσαλονίκη
 http://streaming.radionomy.com/JamendoLounge
 #EXTINF:-0 group-title="RADIO WEB RADIOS" tvg-name="Samano Radio" tvg-logo="https://samano-radio.gr/wp-content/uploads/2020/04/Samano-LogoLight.png",Samano Radio

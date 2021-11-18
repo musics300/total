@@ -17,7 +17,7 @@ https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
 https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:800 group-title="TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN BEYOND" tvg-logo="https://i.imgur.com/c9hgL1c.jpg",OPEN TV HD
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
-#EXTINF:400 group-title="ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.mtv.gr" tvg-logo="https://i.imgur.com/dh22Dj8.png",M.TV
+#EXTINF:400 group-title="TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="digea.mtv.gr" tvg-logo="https://i.imgur.com/dh22Dj8.png",M.TV
 https://antennaamdnoenc.akamaized.net/maktv_akamai/abr/playlist.m3u8
 #EXTINF:8 group-title="TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Vouli" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI 
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
@@ -351,7 +351,7 @@ http://live3.istoikona.com:8183/stream
 http://stream.radiojar.com/menta.aac?1457987195
 #EXTINF:-0 group-title="RADIO ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μουσικός 98.6 - Αθήνα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3X4VNYIT7hX_owAW1B7JjKBvrjKOiUmBB6kr-K_SzHIVWS_YKAg&s",Μουσικός 98.6 - Αθήνα
 http://netradio.live24.gr:80/mousikos986
-#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="My Radio 104.6 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/6affe598-3e11-4475-ae36-937e044b3a1c.png",My Radio 104.6 - Αθήνα
+#EXTINF:-0 group-title="RADIO ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="My Radio 104.6 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/6affe598-3e11-4475-ae36-937e044b3a1c.png",My Radio 104.6 - Αθήνα
 http://streaming.myradio1046.fm/myradio1046
 #EXTINF:-0 group-title="RADIO ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Πανόραμα 98.4 FM - Θεσσαλονίκη" tvg-logo="http://live24.gr/resrc/styles/custom-popups/panorama/images/logo.jpg",Πανόραμα 98.4 FM - Θεσσαλονίκη
 http://netradio.live24.gr/panorama984

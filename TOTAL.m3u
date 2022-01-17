@@ -398,7 +398,7 @@ http://eco.onestreaming.com:8037
 #EXTINF:-0 group-title="RADIO ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Power 92.6 FM - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/4841f343-37c7-4de0-8026-7778255ba97d.png",Power 92.6 FM - Κοζάνη
 http://radio.power926.gr:55479/Powerfm
 #EXTINF:-0 group-title="RADIO ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ρυθμός 94.9 - Αθήνα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnmrS32LO-SkW4hJw186HJmMuq2b_cv-GJanNusKkrGF9PwNY1yA&s",Ρυθμός 94.9 - Αθήνα
-https://stream.rcs.revma.com/0btynq5r4a0uv?direct=false
+https://stream.rcs.revma.com/0btynq5r4a0uv.mp3?direct=true
 #EXTINF:-0 group-title="RADIO ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ρόδος FM 90.7 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/952ef0d2-ed2f-4a60-af70-b36bf860726c.jpg",Ρόδος FM 90.7 - Ρόδος
 http://i.streams.ovh:9327/stream
 #EXTINF:-0 group-title="RADIO ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Siera FM 105.3 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/26ba748b-9fa2-402e-ae46-0f8b523b39f5.png",Siera FM 105.3 - Κοζάνη

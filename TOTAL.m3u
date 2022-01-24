@@ -509,7 +509,7 @@ http://sportfm.live24.gr/sportfm7712
 http://live3.istoikona.com:8376/
 #EXTINF:-0 group-title="RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Yellow Radio 101.7 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/15ee1acc-83de-40eb-9962-b85b3c61914a.png",Yellow Radio 101.7 - Θεσσαλονίκη
 https://ice.greekstream.net/yellow
-#EXTINF:-0 group-title="ΕΚΚΛΗΣΙΑ" tvg-name="Εκκλησία Της Ελλάδος 89.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/963bef80-b381-4de6-9612-ea3a283c64e8.jpg",Εκκλησία Της Ελλάδος 89.5 - Αθήνα
+#EXTINF:-0 group-title="RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Εκκλησία Της Ελλάδος 89.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/963bef80-b381-4de6-9612-ea3a283c64e8.jpg",Εκκλησία Της Ελλάδος 89.5 - Αθήνα
 http://85.10.206.222:8002
 #EXTINF:-0 group-title="RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Ιερά Μητρόπολη Πατρών 88.4 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/4a5752c9-10b7-4d43-b95a-1efe2ece5b6b.png",Ιερά Μητρόπολη Πατρών 88.4 - Πάτρα
 http://eco.onestreaming.com:8468/;listen.pls'
@@ -525,7 +525,7 @@ https://impradio.bytemasters.gr/8002/stream
 http://8.38.78.173:8156/1?1609601322297
 #EXTINF:-0 group-title="RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Χριστιανισμός FM 104.3 -Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/11bf1694-f82e-4708-a856-24407c62f74e.png",Χριστιανισμός FM 104.3 -Αθήνα
 http://eu1.fastcast4u.com:9326/stream
-#EXTINF:-0 group-title="RADIOS RADIOS WEB RADIOS" tvg-name="80sMania Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/b7f246d3-780f-4969-8d78-d2c1ec563917.png",80sMania Radio
+#EXTINF:-0 group-title="RADIOS WEB RADIOS" tvg-name="80sMania Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/b7f246d3-780f-4969-8d78-d2c1ec563917.png",80sMania Radio
 http://151.80.44.127:8048/;
 #EXTINF:-0 group-title="RADIOS WEB RADIOS" tvg-name="90s Heaven Web Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/b2c23b2c-1d52-422c-8b84-f2cb172e4a7c.jpg",90s Heaven Web Radio
 http://node-12.zeno.fm/7vnwha308vzuv?rj-ttl=5&rj-tok=AAABd8SpdfQAchssPf1ywXhZlw

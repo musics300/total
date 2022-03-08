@@ -459,8 +459,6 @@ http://n05.radiojar.com/qt9gf4hhdwzuv?rj-ttl=5&rj-tok=AAABfoLoVhwAxSDRhEKCdAEA_w
 http://i.streams.ovh:9331/stream
 #EXTINF:-0 group-title="RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Νοtos News 97.8 Web TV - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/45562d7d-c034-4dc5-b1e0-d9ef9a804fac.jpg",Νοtos News 97.8 Web TV - Ρόδος
 https://eco.streams.ovh/notos/notos/chunklist_w1265351016.m3u8
-#EXTINF:-0 group-title="RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Παλμός 99.5 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/2d8ab631-3cbf-4c7a-9234-2762c89a247c.jpg",Παλμός 99.5 - Ρόδος
-http://netradio.live24.gr:80/palmos995-rho
 #EXTINF:-0 group-title="RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Παραπολιτικά FM 90.1 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/0163c59b-62d4-46e4-93e7-71916c770e91.png",Παραπολιτικά FM 90.1 - Αθήνα
 http://netradio.live24.gr/athinaradio
 #EXTINF:-0 group-title="RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Πρακτορείο 104.9 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/81f02cbe-bbc5-46bd-8076-a2e396782611.png",Πρακτορείο 104.9 - Θεσσαλονίκη
@@ -473,6 +471,8 @@ http://eu7.fastcast4u.com:6156/;
 http://realfm2.live24.gr:80/realfm
 #EXTINF:-0 group-title="RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Real FM 107.1 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/1e003776-8316-4860-be64-bab7caf188a1.png",Real FM 107.1 - Θεσσαλονίκη
 http://realfmthess.live24.gr/realthess
+#EXTINF:-0 group-title="ΕΙΔΗΣΕΙΣ" tvg-name="Real Voice 99.5 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/1552b723-f3d3-49e7-89f0-0a182c70d3c0.png",Real Voice 99.5 - Ρόδος
+http://netradio.live24.gr/realvoice995
 #EXTINF:-0 group-title="RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="ΡΙΚ 1 - Κύπρος" tvg-logo="http://resources.live24.gr/resources/images/stations/e4f812f2-b8fd-4e0a-b49b-4967e5c55006.png",ΡΙΚ 1 - Κύπρος
 http://r1.cloudskep.com/cybcr/cybc1/icecast.audio
 #EXTINF:-0 group-title="RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="ΡΙΚ 2 - Κύπρος" tvg-logo="http://resources.live24.gr/resources/images/stations/2054fe2b-f404-4231-a92a-5eae903ea035.png",ΡΙΚ 2 - Κύπρος

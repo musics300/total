@@ -315,6 +315,8 @@ http://kissfm.live24.gr:80/kissfmathens
 http://loveradio.live24.gr/loveradio-1000
 #EXTINF:-0 group-title="RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="MAD Radio 106.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/85be2a5c-a969-4afd-8e5e-e9d431004bed.png",MAD Radio 106.2 - Αθήνα
 http://mediaserver.mad.tv/stream
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Melody 88.8 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/5f4963d3-da61-474a-a67a-2a7754d78098.png",Melody 88.8 - Πάτρα
+http://stream.melody888.gr:48500/melody.mp3
 #EXTINF:-0 group-title="RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="More 103 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/1577ea9e-abe6-4d5c-9ef6-428cd43c0a66.png",More 103 - Θεσσαλονίκη
 http://eco.onestreaming.com:8041
 #EXTINF:-0 group-title="RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Music 89.2 - Αθήνα" tvg-logo="https://www.music892.gr/wp-content/uploads/2020/08/thenewlogo-293x300.png",Music 89.2 - Αθήνα
@@ -353,8 +355,6 @@ http://eco.onestreaming.com:8550/;
 https://cast5.magicstreams.gr:2200/sc/vfm/stream
 #EXTINF:-0 group-title="RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Yes Radio 91.2 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/88abcc46-05f7-4692-9cc0-50e14b761fee.png",Yes Radio 91.2 - Πάτρα
 http://5.9.17.142:8024
-#EXTINF:-0 group-title="RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="You FM 100.1 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/2eab7eda-5095-4900-a14c-a97e3ef84d15.png",You FM 100.1 - Πάτρα
-http://www.youfmradio.gr:8880/stream
 #EXTINF:-0 group-title="RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Zeppelin 106.7 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/1e92d193-695c-4866-ac67-fe9057c584bc.png",Zeppelin 106.7 - Αθήνα
 https://radiostreaming.ert.gr/ert-zeppelin
 #EXTINF:-0 group-title="RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="ZOO RADIO 90.8 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/90ece538-7c04-4e05-819e-af886671cfef.png",ZOO RADIO 90.8 - Θεσσαλονίκη

@@ -24,7 +24,7 @@ https://streaming.onetv.gr/show/onetv_hd720/index.m3u8
 #EXTINF:3004 group-title="TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="Action 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
 https://www.dailymotion.com/embed/video/x61fbhs#tab_embed.m3u8
 #EXTINF:3074 group-title="TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΑΡΤ" tvg-logo="http://greektv.pbworks.com/f/ART.png",APT
-http://tv3.streampulse.eu:1935/tilesport/movie2/playlist.m3u8
+https://www.twitch.tv/arttileorasi
 #EXTINF:3038 group-title="TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="KONTRA" tvg-logo="http://greektv.pbworks.com/f/KONTRA.png",KONTRA
 http://flashcloud.mediacdn.com/live/kontratv/.m3u8
 #EXTINF:3034 group-title="TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="HIGHTV"tvg-logo="http://greektv.pbworks.com/f/HIGH.png",HIGH TV
@@ -391,8 +391,6 @@ http://netradio.live24.gr:80/mousikos986
 http://streaming.myradio1046.fm/myradio1046
 #EXTINF:-0 group-title="RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Πανόραμα 98.4 FM - Θεσσαλονίκη" tvg-logo="http://live24.gr/resrc/styles/custom-popups/panorama/images/logo.jpg",Πανόραμα 98.4 FM - Θεσσαλονίκη
 http://netradio.live24.gr/panorama984
-#EXTINF:-0 group-title="RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Party FM 104 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/57597f4b-478f-4e66-8752-680b5cc3ca1d.png",Party FM 104 - Αθήνα
-https://radio.streamings.gr:9006/stream?1572449650982
 #EXTINF:-0 group-title="RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ράδιο 1 99 FM - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/22ca2fd7-6978-425c-96af-0345d0c6515a.png",Ράδιο 1 99 FM - Θεσσαλονίκη
 http://n0a.radiojar.com/t0x7dyqmsuhvv?rj-ttl=5&rj-tok=AAABhGJzBRYAUpQqLmk0O8p9BA
 #EXTINF:-0 group-title="RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ράδιο Αρχάγγελος 94.1 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/d8b5ba1e-c19d-4ab0-b5a5-7bc8c1c7d64f.jpg",Ράδιο Αρχάγγελος 94.1 - Ρόδος
@@ -575,6 +573,8 @@ https://streams.radio.co/s8a6d959b1/listen
 https://cast5.magicstreams.gr/sc/statuswe/stream
 #EXTINF:-0 group-title="RADIOS WEB RADIOS" tvg-name="Thess Radio - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/aa08071b-0ab5-4329-89c6-fb801a98e2f9.png",Thess Radio - Θεσσαλονίκη
 http://noc.ezhellas.com:30570/thessradio?type=http&nocache=37038
+#EXTINF:-0 group-title="WEB RADIOS" tvg-name="Trito Maestro" tvg-logo="https://www.ert.gr/wp-content/uploads/2022/12/TRITO_MAESTRO_LOGO-640x360-1.jpg",Trito Maestro
+https://radiostreaming.ert.gr/ert-trito-maestro
 #EXTINF:-0 group-title="RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="ABC Radio Sydney" tvg-logo="https://www.abc.net.au/cm/rimage/7893524-1x1-thumbnail.png?v=8",ABC Radio Sydney
 https://abcradiolivehls-lh.akamaihd.net/i/localsydney_1@327264/index_48_a-p.m3u8?sd=10&rebase=on
 #EXTINF:-0 group-title="RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="Kiss FM 87.6" tvg-logo="https://kissfm.com.au/wp-content/uploads/2016/05/kiss-logo-105px.png",Kiss FM 87.6

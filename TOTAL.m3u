@@ -301,6 +301,8 @@ http://178.33.135.244:3062/;
 http://galaxy.live24.gr/galaxy9292
 #EXTINF:-0 group-title="RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Galaxy FM 106.1 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/92d80f85-9d0c-42a1-b31b-2c8a50d46305.png",Galaxy FM 106.1 - Πάτρα
 https://sh.onweb.gr/8818/stream
+#EXTINF:-0 group-title="ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Happy 104 FM - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/9f10b2e9-d8da-450b-ab0a-62114bb38863.jpeg",Happy 104 FM - Αθήνα
+https://ath10400fm.live24.gr/ath10400fm
 #EXTINF:-0 group-title="RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="HiT 88.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/6b663430-c361-43aa-a7fa-0bfb862512d4.jpg",HiT 88.9 - Αθήνα
 http://stream.radiojar.com:80/hit889
 #EXTINF:-0 group-title="RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Home 89.1 - Χαλκίδα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRZ__S5LBg3BoWFMLFDy4SYEZ9pWXy-afYZ26oGoxZ8cAs4ygSB&usqp=CAU",Home 89.1 - Χαλκίδα

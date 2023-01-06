@@ -294,7 +294,7 @@ https://stream.radiojar.com/srzwv225e3quv
 #EXTINF:-0 group-title="RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Feel Good Radio 104.9 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/d5708a4c-acc4-4fea-ab65-9d842343cbf9.jpg",Feel Good Radio 104.9 - Ρόδος
 https://feelgood.radioca.st/stream
 #EXTINF:-0 group-title="RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="FLY 104 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/ee26ac2c-c625-4395-babc-3e66041a8eb5.jpg",FLY 104 - Θεσσαλονίκη
-https://eu9.fastcast4u.com/proxy/nicper00?mp=/1
+https://imagine2.radioca.st/;
 #EXTINF:-0 group-title="RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Fresh 92.9 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/4ef26bba-a8c6-41e7-a2dc-84080d8143d7.jpg",Fresh 92.9 - Κοζάνη
 http://178.33.135.244:3062/;
 #EXTINF:-0 group-title="RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Galaxy FM 92 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/galaxy/logo-156x75.png",Galaxy FM 92 - Αθήνα
@@ -399,6 +399,8 @@ http://n0a.radiojar.com/t0x7dyqmsuhvv?rj-ttl=5&rj-tok=AAABhGJzBRYAUpQqLmk0O8p9BA
 http://eco.onestreaming.com:8536/;listen.pls'
 #EXTINF:-0 group-title="RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ράδιο Λυχνάρι 91.4 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/67df9a42-33f9-4ce0-842a-d39310db1a9c.jpg",Ράδιο Λυχνάρι 91.4 - Ρόδος
 http://eco.onestreaming.com:8037
+#EXTINF:-0 group-title="ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ράδιο Μέλι 106.6 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/ec2e6dac-580e-4038-b54a-8e95c477b1ed.jpg",Ράδιο Μέλι 106.6 - Κοζάνη
+https://i3.streams.ovh:12064/live
 #EXTINF:-0 group-title="RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ρυθμός 94.9 - Αθήνα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSe0D-a1cEZk0_b9aHXGUacyMa8mwoc8IW4dA&usqp=CAU",Ρυθμός 94.9 - Αθήνα
 https://stream.rcs.revma.com/0btynq5r4a0uv.mp3?direct=true
 #EXTINF:-0 group-title="RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ρυθμός 104.4 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/eca90f55-d2bc-4750-bda9-28c7a4a09dda.png",Ρυθμός 104.4 - Κοζάνη

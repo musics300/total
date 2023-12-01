@@ -35,6 +35,12 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="VOULI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI 
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="VOULI 2" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI 2
+https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="VOULI 2" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",VOULI 3
+https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="OPEN SPORT 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvWT3g_9dVNvW-HkMrgnK7Ugfb3qAfIzOZ2A&usqp=CAU",OPEN SPORT 1
+https://opentvlive1.siliconweb.com/opentvliveabr/openlatin2/opentvlive/openlatin2/chunks.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ONE TV" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
 https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ACTION 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
@@ -124,19 +130,19 @@ http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="BERGINA TV" tvg-logo="",BERGINA TV
 https://www.twitch.tv/verginachannel
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="DION TV" tvg-logo="",DION TV
-http://127.0.0.1:88/https://www.twitch.tv/diontvkentrikismakedonias
+https://www.twitch.tv/diontvkentrikismakedonias
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="STAR B.E" tvg-logo="",STAR B.E.
-http://127.0.0.1:88/https://www.twitch.tv/tvstarfm
+https://www.twitch.tv/tvstarfm
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="FLASH TV" tvg-logo="",FLASH TV
-http://127.0.0.1:88/https://www.twitch.tv/flashtvgr
+https://www.twitch.tv/flashtvgr
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ASTRA TV" tvg-logo="",ASTRA TV
-http://127.0.0.1:88/https://www.twitch.tv/astratv2019
+https://www.twitch.tv/astratv2019
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="CENTER TV" tvg-logo="",CENTER TV
-http://127.0.0.1:88/https://www.twitch.tv/centertv
+https://www.twitch.tv/centertv
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="THESSALIA TV" tvg-logo="",THESSALIA TV
-http://127.0.0.1:88/https://www.twitch.tv/thessaliatv
+https://www.twitch.tv/thessaliatv
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="IONIA TV" tvg-logo="",IONIA TV
-http://127.0.0.1:88/https://www.twitch.tv/tvioniathessalonikis
+https://www.twitch.tv/tvioniathessalonikis
 #EXTINF:-1 group-title="03TV ΠΑΓΚΥΠΡΙΑ" tvg-name="RIK SAT CY" tvg-logo="http://greektv.pbworks.com/w/file/fetch/52186869/RikSat.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="03TV ΠΑΓΚΥΠΡΙΑ" tvg-name="SIGMA CY" tvg-logo="https://i.imgur.com/uAIsqsP.png",SIGMA CY

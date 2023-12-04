@@ -21,7 +21,7 @@ http://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
 https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="11MAKTV" tvg-logo="https://digea.gr/cms/uploads/2023/08/MAKTV_Logo.jpg",11MAKTV
 http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="12VOULI" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",12VOULI 
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="12VOULI" tvg-logo="https://www.iathens.gr/wp-content/uploads/2020/04/vouli.jpg",12VOULI 
 http://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="13ΕRT SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/2/25/Ertsports1.png/800px-Ertsports1.png",13ERT SPORTS 1
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports1/ert_sports1_main/mainabr/ert_sports1_main/main_1080/chunks.m3u8
@@ -41,9 +41,9 @@ https://opentvlive1.siliconweb.com/opentvliveabr/openlatin3/opentvlive/openlatin
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news2/ert_news2_main/mainabr/ert_news2_main/main_1080/chunks_dvr.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="21ΕRT WORLD" tvg-logo="https://www.penalty.gr/photos/475193/0402202316.jpg",21ERT WORLD
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="22VOULI 2" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",22VOULI 2
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="22VOULI 2" tvg-logo="https://i.ytimg.com/vi/jYC7uvHWS50/mqdefault.jpg",22VOULI 2
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="23VOULI 2" tvg-logo="http://greektv.pbworks.com/w/file/fetch/45020116/Vouli.png",23VOULI 3
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="23VOULI 2" tvg-logo="https://i.ytimg.com/vi/_oIHL1J0ciA/hqdefault.jpg",23VOULI 3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ONE TV" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
 https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8

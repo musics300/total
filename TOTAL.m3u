@@ -45,6 +45,8 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainab
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="23VOULI 2" tvg-logo="https://i.ytimg.com/vi/_oIHL1J0ciA/hqdefault.jpg",23VOULI 3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="24 FAME STORY LIVE" tvg-logo="https://i.ytimg.com/vi/_oIHL1J0ciA/hqdefault.jpg",24 FAME STORY LIVE
+https://new.cache-stream.workers.dev/stream/UC-wFPR52W6wKGM9G03I_dDg/live.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ONE TV" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
 https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ACTION 24" tvg-logo="http://greektv.pbworks.com/f/ACTION24.png",ACTION 24
@@ -181,12 +183,20 @@ https://vdo.alphaserver.gr:3203/stream/play.m3u8
 https://s1.cystream.net/live/34100/playlist.m3u8
 #EXTINF:-1 group-title="05TV CINEMA" tvg-logo="https://i.imgur.com/B7YOyLN.jpg",MPAXALO TV
 https://itv.streams.ovh/mpaxalotv/mpaxalotv/playlist.m3u8
-#EXTINF:-1 group-title="05TV ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/DOOVBu5.png",SMILE TV CY
-https://s1.cystream.net/live/smile/playlist.m3u8
 #EXTINF:-1 group-title="05TV ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/xHdfbl6.jpg",BOOBA
-https://www.youtube.com/watch?v=XK8METRgK_U
+https://new.cache-stream.workers.dev/stream/UCKS1HX4moHCcDBZnM9k4giw/live.m3u8
+#EXTINF:-1 group-title="05TV ΠΑΙΔΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",DISNEY JUNIOR
+https://new.cache-stream.workers.dev/stream/UCNcdbMyA59zE-Vk668bKWOg/live.m3u8
+#EXTINF:-1 group-title="05TV ΠΑΙΔΙΚΑ" tvg-logo="https://vhx.imgix.net/zouzouniatv/assets/d70feae9-8676-4a9d-85ec-6d4941128977.jpg?auto=format%2Ccompress&fit=crop&h=720&w=1280",ZOUZOUNIA TV 1
+https://new.cache-stream.workers.dev/stream/UC9QSJuIBLUT2GbjgKymkTaQ/live.m3u8
 #EXTINF:-1 group-title="05TV ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
-http://wpso.com:1936/hls/kidshd.m3u8
+http://65.108.62.57:8080/live/kidshd.m3u8
+#EXTINF:-1 group-title="05TV ΠΑΙΔΙΚΑ" tvg-logo="https://static.wikia.nocookie.net/p__/images/0/06/1618209642054.png/revision/latest/thumbnail/width/360/height/360?cb=20210412064150&path-prefix=protagonist",OGGY
+https://new.cache-stream.workers.dev/stream/UCNEKMkg_DG8eAyR1BNWsSvw/live.m3u8
+#EXTINF:-1 group-title="05TV ΠΑΙΔΙΚΑ" tvg-logo="https://i.ytimg.com/vi/-jcG5fd9di4/maxresdefault.jpg",ΠΑΙΔΙΚΑ ΤΡΑΓΟΥΔΙΑ
+https://new.cache-stream.workers.dev/stream/UCt5lQhCcAEQhvauv6lkWYCw/live.m3u8
+#EXTINF:-1 group-title="05TV ΠΑΙΔΙΚΑ" tvg-logo="https://play-lh.googleusercontent.com/aikcFU98JDbgQLxoKSOXJ7kC4qNFf2fFSo9di7S2y8qccKbB3ceAmwQaAjIli34HbA",TALKING TOM
+https://new.cache-stream.workers.dev/stream/UCm3hAp1m1xlAz0ve_EKAo4g/live.m3u8
 #EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",AKTINA TV
 https://5e8dfce185af1.streamlock.net/webtv/webtv/chunklist_w1376005365.m3u8
 #EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV

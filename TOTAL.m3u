@@ -367,7 +367,7 @@ http://radio.sierafm.gr:55469/Sierafm
 http://eco.onestreaming.com:8550/;
 #EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="V 91.1 FM - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/c50c1f31-a8e6-4f86-8602-ad2211478791.png",V 91.1 FM - Θεσσαλονίκη
 https://cast5.magicstreams.gr:2200/sc/vfm/stream
-#EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Athens Voice 102.5 - Αθήνα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWMfOoITYZ_0BApqlPCpCB5nMN-dgkUfVcl2RiDPG7f01eeJ4fUqXnlOmPatpEvJkmXn8&usqp=CAU",Athens Voice 102.5 - Αθήνα
+#EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Voice 102.5 - Αθήνα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWMfOoITYZ_0BApqlPCpCB5nMN-dgkUfVcl2RiDPG7f01eeJ4fUqXnlOmPatpEvJkmXn8&usqp=CAU",Voice 102.5 - Αθήνα
 http://nitro.live24.gr/nitro4555
 #EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Yes Radio 91.2 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/88abcc46-05f7-4692-9cc0-50e14b761fee.png",Yes Radio 91.2 - Πάτρα
 http://5.9.17.142:8024

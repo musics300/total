@@ -297,7 +297,7 @@ https://ice.streams.ovh:1195/stream
 http://94.23.0.114:41972
 #EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Best Radio 92.6 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/best/best926.jpg",Best Radio 92.6 - Αθήνα
 http://best.live24.gr/best1222
-#EXTINF:-0 group-title="RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Diva 91.6 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/11773098-d13f-4b74-900a-2c9464c99a48.jpg",Diva 91.6 - Κοζάνη
+#EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Diva 91.6 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/11773098-d13f-4b74-900a-2c9464c99a48.jpg",Diva 91.6 - Κοζάνη
 http://176.31.120.166:6404
 #EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Easy 97.2 - Αθήνα" tvg-logo="http://www.radiofono-live.gr/files/radio/3.jpg",Easy 97.2 - Αθήνα
 https://stream.radiojar.com/cthtwxk5yvduv
@@ -307,7 +307,7 @@ https://stream.radiojar.com/srzwv225e3quv
 https://feelgood.radioca.st/stream
 #EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="FLY 104 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/ee26ac2c-c625-4395-babc-3e66041a8eb5.jpg",FLY 104 - Θεσσαλονίκη
 https://imagine2.radioca.st/;
-#EXTINF:-0 group-title="RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Fresh 92.9 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/4ef26bba-a8c6-41e7-a2dc-84080d8143d7.jpg",Fresh 92.9 - Κοζάνη
+#EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Fresh 92.9 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/4ef26bba-a8c6-41e7-a2dc-84080d8143d7.jpg",Fresh 92.9 - Κοζάνη
 http://178.33.135.244:3062/;
 #EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Galaxy FM 92 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/galaxy/logo-156x75.png",Galaxy FM 92 - Αθήνα
 http://galaxy.live24.gr/galaxy9292
@@ -333,7 +333,7 @@ http://mediaserver.mad.tv/stream
 http://stream.melody888.gr:48500/melody.mp3
 #EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="More 103 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/1577ea9e-abe6-4d5c-9ef6-428cd43c0a66.png",More 103 - Θεσσαλονίκη
 http://eco.onestreaming.com:8041
-#EXTINF:-0 group-title="07ΡΑΔΙΟ ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Music 89.2 - Αθήνα" tvg-logo="https://www.music892.gr/wp-content/uploads/2020/08/thenewlogo-293x300.png",Music 89.2 - Αθήνα
+#EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Music 89.2 - Αθήνα" tvg-logo="https://www.music892.gr/wp-content/uploads/2020/08/thenewlogo-293x300.png",Music 89.2 - Αθήνα
 https://stream.radiojar.com/k0hua7u1yk5tv
 #EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Nostos 100.6 FM - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/e2db1653-69f0-4ee8-8c62-6f852e5681be.png",Nostos 100.6 FM - Αθήνα
 https://neos.win:37878/stream
@@ -531,7 +531,7 @@ http://eco.onestreaming.com:8468/;listen.pls'
 http://eu1.radiolydia.com:1086/stream
 #EXTINF:-0 group-title="11RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Ορθοδοξία και Παράδοση 103 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/ee71b5de-129c-44b3-9f98-95f45d8591ee.jpg",Ορθοδοξία και Παράδοση 103 - Κοζάνη
 http://radio.lts-group.eu:52390/ANS'
-#EXTINF:-0 group-title="RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Ορθόδοξη Παρουσία 106.8 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/221df493-b08c-46e1-9975-51aedf6d7809.jpg",Ορθόδοξη Παρουσία 106.8 - Θεσσαλονίκη
+#EXTINF:-0 group-title="11RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Ορθόδοξη Παρουσία 106.8 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/221df493-b08c-46e1-9975-51aedf6d7809.jpg",Ορθόδοξη Παρουσία 106.8 - Θεσσαλονίκη
 http://www.gwebstream.net:8008/stream
 #EXTINF:-0 group-title="11RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Πειραική Εκκλησία 91.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/5a6f217c-1ba7-4c76-ba33-b7a9bd710fd4.jpg",Πειραική Εκκλησία 91.2 - Αθήνα
 https://impradio.bytemasters.gr/8002/stream

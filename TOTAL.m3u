@@ -299,11 +299,11 @@ http://94.23.0.114:41972
 http://best.live24.gr/best1222
 #EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Diva 91.6 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/11773098-d13f-4b74-900a-2c9464c99a48.jpg",Diva 91.6 - Κοζάνη
 http://176.31.120.166:6404
-#EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Easy 97.2 - Αθήνα" tvg-logo="http://www.radiofono-live.gr/files/radio/3.jpg",Easy 97.2 - Αθήνα
+#EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Easy 97.2 - Αθήνα" tvg-logo="https://resources.live24.gr/resources/images/stations/3bd13d11-b2c8-43c4-b335-36fe7c7dc357.png",Easy 97.2 - Αθήνα
 https://stream.radiojar.com/cthtwxk5yvduv
 #EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="EN LEYKO 87.7 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/e4abbfeb-d333-48ce-911e-753154aa7bd8.jpg",EN LEYKO 87.7 - Αθήνα
 https://stream.radiojar.com/srzwv225e3quv
-#EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Feel Good Radio 104.9 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/d5708a4c-acc4-4fea-ab65-9d842343cbf9.jpg",Feel Good Radio 104.9 - Ρόδος
+#EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Feel Good Radio 104.9 - Ρόδος" tvg-logo="https://resources.live24.gr/resources/images/stations/21c3cdd5-ee2f-4885-986a-c5177d782e29.jpg",Feel Good Radio 104.9 - Ρόδος
 https://feelgood.radioca.st/stream
 #EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="FLY 104 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/ee26ac2c-c625-4395-babc-3e66041a8eb5.jpg",FLY 104 - Θεσσαλονίκη
 https://imagine2.radioca.st/;
@@ -333,7 +333,7 @@ http://mediaserver.mad.tv/stream
 http://stream.melody888.gr:48500/melody.mp3
 #EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="More 103 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/1577ea9e-abe6-4d5c-9ef6-428cd43c0a66.png",More 103 - Θεσσαλονίκη
 http://eco.onestreaming.com:8041
-#EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Music 89.2 - Αθήνα" tvg-logo="https://www.music892.gr/wp-content/uploads/2020/08/thenewlogo-293x300.png",Music 89.2 - Αθήνα
+#EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Music 89.2 - Αθήνα" tvg-logo="https://play-lh.googleusercontent.com/x1vU1KVBC1yKIQwx3e05cFIsKB8unaz1Tz6KqtG4A4xK5S3vq_6sBqQix389gZEYzq8k=w240-h480",Music 89.2 - Αθήνα
 https://stream.radiojar.com/k0hua7u1yk5tv
 #EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Nostos 100.6 FM - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/e2db1653-69f0-4ee8-8c62-6f852e5681be.png",Nostos 100.6 FM - Αθήνα
 https://neos.win:37878/stream
@@ -343,9 +343,9 @@ http://i4.streams.ovh:8078
 https://s3.yesstreaming.net:17062/stream
 #EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Pepper 96.6 - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/pepper/pepper-115x115.jpg",Pepper 96.6 - Αθήνα
 http://pepper966.live24.gr/pepper9660
-#EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Plus Radio 102.6 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/612fea9f-cad5-42c8-a333-fddc6ab84613.png",Plus Radio 102.6 - Θεσσαλονίκη
+#EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Plus Radio 102.6 - Θεσσαλονίκη" tvg-logo="https://resources.live24.gr/resources/images/stations/e90b7fc0-fa82-48e4-bf32-6c1e95941ed7.png",Plus Radio 102.6 - Θεσσαλονίκη
 http://eco.onestreaming.com:8039
-#EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Radio1 88 FM - Ρόδος" tvg-logo="http://www.radio1.gr/images/template/logo.png",Radio1 88 FM - Ρόδος
+#EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Radio1 88 FM - Ρόδος" tvg-logo="https://resources.live24.gr/resources/images/stations/4d4142bb-7a2d-4f22-8ea4-396194c029d5.png",Radio1 88 FM - Ρόδος
 http://www.111.gr:8000
 #EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Radio Galaxy 99 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/99def176-7da3-4869-875c-35f2ea77330e.jpg",Radio Galaxy 99 - Ρόδος
 http://solid1.streamupsolutions.com:11074/stream

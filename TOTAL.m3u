@@ -161,19 +161,19 @@ https://s1.cystream.net/live/tvmall/playlist.m3u8
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist.m3u8
 #EXTINF:-1 group-title="04TV ΔΙΕΘΝΗ ΔΙΚΤΥΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/4EvDoaG.png",EURONEWS 
 https://new.cache-stream.workers.dev/stream/UC8HJZNfDPoySgW9DN3YGNaA/live.m3u8
-#EXTINF:-1 group-title="05TV CINEMA" tvg-logo="",CINEMA CLASSICS
+#EXTINF:-1 group-title="05TV CINEMA" tvg-logo="https://yt3.googleusercontent.com/FJVN-SVo3if3gcZ6-RdRDYCAktj90AslHj8Xq8-IZrWn7ct2Vct3ExYYGSyd89YbKNwN5td1pg=s900-c-k-c0x00ffffff-no-rj",CINEMA CLASSICS
 https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/chunklist_w1183279843.m3u8
-#EXTINF:-1 group-title="05TV CINEMA" tvg-logo="",CINEMA TIME
+#EXTINF:-1 group-title="05TV CINEMA" tvg-logo="https://previews.123rf.com/images/woters/woters1705/woters170500015/77226875-cinema-time-vector-logo-symbol-or-emblem.jpg",CINEMA TIME
 https://s1.cystream.net/live/34100/chunks.m3u8
-#EXTINF:-1 group-title="05TV CINEMA" tvg-logo="",ΔΙΑΒΑΤΑ TV
+#EXTINF:-1 group-title="05TV CINEMA" tvg-logo="https://www.lakatamia.tv/media/images/articles2/diavata.jpg",ΔΙΑΒΑΤΑ TV
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 #EXTINF:-1 group-title="05TV CINEMA" tvg-logo="https://i.imgur.com/dwF0jlz.png",GALAXY GR
 https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/chunklist_w1308142730.m3u8
 #EXTINF:-1 group-title="05TV CINEMA" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 https://web.onair-radio.eu/groovytv/groovytv/chunklist_w760456499.m3u8
-#EXTINF:-1 group-title="05TV CINEMA" tvg-logo="https://i.imgur.com/Wad6CD4.png",NETMAX TV
+#EXTINF:-1 group-title="05TV CINEMA" tvg-logo="https://play-lh.googleusercontent.com/ezIADQ2eTzu53Nv_3wBj9FFUNyLwN4LC0WVmPubr-fCT1_zyV4dVbjGhs9iOw5SPbD2W",NETMAX TV
 http://live.netmaxtv.com:8080/live/live/playlist.m3u8
-#EXTINF:-1 group-title="05TV CINEMA" tvg-logo="",NET TV
+#EXTINF:-1 group-title="05TV CINEMA" tvg-logo="https://play-lh.googleusercontent.com/279oVDD1QsgRj2Cmlveq3oQAB8RV8S-VJp7HhiqKLvz_fb6nF3G3zHGdSlE_bcuclqY",NET TV
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
 #EXTINF:-1 group-title="05TV CINEMA" tvg-logo="https://i.imgur.com/eLlhT4f.png",NET TV EUROPE
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/chunklist_w843104146.m3u8

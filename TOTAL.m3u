@@ -37,15 +37,21 @@ https://opentvlive1.siliconweb.com/opentvliveabr/openlatin/opentvlive/openlatin/
 https://opentvlive1.siliconweb.com/opentvliveabr/openlatin2/opentvlive/openlatin2/chunks.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="19OPEN SPORT 3" tvg-logo="https://typologies.gr/wp-content/uploads/2022/08/OPEN-SPORT_LOGO_2022.png",19OPEN SPORT 3
 https://opentvlive1.siliconweb.com/opentvliveabr/openlatin3/opentvlive/openlatin3/chunks.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="20ΕRT NEWS 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/ERT_News_2_Logo.png/revision/latest?cb=20220423213529",20ERT NEWS 2
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="20COSMOTE TV LIVE" tvg-logo="https://upload.wikimedia.org/wikipedia/el/thumb/b/b5/COSMOTE_TV.svg/800px-COSMOTE_TV.svg.png",20COSMOTE TV LIVE
+https://new.cache-stream.workers.dev/stream/UCgMUmr7uLDalwVk63Sf6pBw/live.m3u8
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="21SPORT 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCo4q7IeS9BWFyR3FOzlJTumJIcJKGCdu3EfZzTAJ7XbFr6vssuXWm0iCCiKVqDa6xVYA&usqp=CAU",21SPORT 24
+https://new.cache-stream.workers.dev/stream/UCywkBMWa6nCMrGqkZGYGrWw/live.m3u8
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="22ΕRT NEWS 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/ERT_News_2_Logo.png/revision/latest?cb=20220423213529",22ERT NEWS 2
 https://cbd537474fbad4634b64787657ff6456.msvdn.net/news2/ert_news2_main/mainabr/ert_news2_main/main_1080/chunks_dvr.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="21ΕRT WORLD" tvg-logo="https://www.penalty.gr/photos/475193/0402202316.jpg",21ERT WORLD
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="23ΕRT NEWS 3" tvg-logo="https://marketingweek.gr/wp-content/uploads/2023/08/ert_news-1-3.jpg",23ΕRT NEWS 3
+https://cbd537474fbad4634b64787657ff6456.msvdn.net/news3/ert_news3_main/mainabr/ert_news3_main/main_1080/chunks_dvr.m3u8
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="24ΕRT WORLD" tvg-logo="https://www.penalty.gr/photos/475193/0402202316.jpg",24ERT WORLD
 http://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="22VOULI 2" tvg-logo="https://i.ytimg.com/vi/jYC7uvHWS50/mqdefault.jpg",22VOULI 2
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="25VOULI 2" tvg-logo="https://i.ytimg.com/vi/jYC7uvHWS50/mqdefault.jpg",25VOULI 2
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="23VOULI 2" tvg-logo="https://i.ytimg.com/vi/_oIHL1J0ciA/hqdefault.jpg",23VOULI 3
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="26VOULI 2" tvg-logo="https://i.ytimg.com/vi/_oIHL1J0ciA/hqdefault.jpg",26VOULI 3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="24 FAME STORY LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Swe5UFyozSIs7YT9N0LAd7-6rfngoRJ83A&usqp=CAU",24 FAME STORY LIVE
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="27FAME STORY LIVE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6Swe5UFyozSIs7YT9N0LAd7-6rfngoRJ83A&usqp=CAU",27FAME STORY LIVE
 https://new.cache-stream.workers.dev/stream/UC-wFPR52W6wKGM9G03I_dDg/live.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ONE TV" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
 https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8

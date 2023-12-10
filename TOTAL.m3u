@@ -407,6 +407,8 @@ https://stream.rcs.revma.com/10q3enqxbfhvv
 http://orange.live24.gr/orange9320
 #EXTINF:-0 group-title="08RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Καλαμαριά FM 101.7 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/373a1cc9-b111-48f1-a4b7-c97124ad8b04.png",Καλαμαριά FM 101.7 - Θεσσαλονίκη
 http://www.kalamariafm.gr/kalamariafm_mp3.asx
+#EXTINF:-0 group-title="08RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Kids Radio 88.6 - Αθήνα" tvg-logo="https://mmo.aiircdn.com/342/624d44a0a09e8.png",Kids Radio 88.6 - Αθήνα
+https://stream.rcs.revma.com/n7d6z9ez1duvv
 #EXTINF:-0 group-title="08RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Κοσμοράδιο 95.1 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/e3cb9aad-de0a-46f5-997b-b4f33a91ab73.png",Κοσμοράδιο 95.1 - Θεσσαλονίκη
 http://sc5.greekstream.net:5000/;
 #EXTINF:-0 group-title="08RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Κρήτη FM 87.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/fbaef4b4-78f4-4cba-b934-2c55e8e3ecd6.jpg",Κρήτη FM 87.5 - Αθήνα
@@ -427,6 +429,8 @@ http://netradio.live24.gr:80/mousikos986
 http://streaming.myradio1046.fm/myradio1046
 #EXTINF:-0 group-title="08RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Πανόραμα 98.4 FM - Θεσσαλονίκη" tvg-logo="http://live24.gr/resrc/styles/custom-popups/panorama/images/logo.jpg",Πανόραμα 98.4 FM - Θεσσαλονίκη
 http://netradio.live24.gr/panorama984
+#EXTINF:-0 group-title="08RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Paidaki 97.5 - Θεσσαλονίκη" tvg-logo="https://resources.live24.gr/resources/images/stations/994110f3-e43e-44d8-8595-06afe15fb57c.jpg",Paidaki 97.5 - Θεσσαλονίκη
+https://paidaki975.radioca.st/;
 #EXTINF:-0 group-title="08RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ράδιο 1 99 FM - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/22ca2fd7-6978-425c-96af-0345d0c6515a.png",Ράδιο 1 99 FM - Θεσσαλονίκη
 http://n0a.radiojar.com/t0x7dyqmsuhvv?rj-ttl=5&rj-tok=AAABhGJzBRYAUpQqLmk0O8p9BA
 #EXTINF:-0 group-title="08RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Ράδιο Αρχάγγελος 94.1 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/d8b5ba1e-c19d-4ab0-b5a5-7bc8c1c7d64f.jpg",Ράδιο Αρχάγγελος 94.1 - Ρόδος

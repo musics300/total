@@ -297,24 +297,30 @@ https://live.cast-control.eu/organismos/organismos/chunklist_w860079051.m3u8
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
 #EXTINF:-1 group-title="06TV WEB TV" tvg-logo="",Greek USA TV
 https://vse2-eu-all70.secdn.net/tvsw3-chorigin/play/prod-2dc768a5889045e08f06695b0d446bf3/chunklist_sess283199406.m3u8
-#EXTINF:-1 group-title="06TV WEB TV" tvg-logo="",Greek Voice
+#EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/DcleTdR.png",Greek Voice
 http://65.108.62.57:8080/live/greektv1.m3u8
 #EXTINF:-1 group-title="06TV WEB TV" tvg-logo="",Hellenic TV
 https://am3.cloudskep.com/hellenictv/htv/l5/htv1/chunks.m3u8?nimblesessionid=38096612
 #EXTINF:-1 group-title="06TV WEB TV" tvg-logo="",Ηλέκτρα TV
 https://stream.sy3dud.com:5443/LiveApp/streams/677642681062064684605047.m3u8
+#EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",HORSE RACES
+https://opaphlslive1msl4.akamaized.net/hls/live/233406/odie3/odie_1000.m3u8
+#EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",IME Web TV
+http://theagenis.fhw.gr:8080/maintv.mp4
+#EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",MESSINIA TV
+https://til.pp.ua:3303/live/messiniatvlive.m3u8
+#EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/y58Jkj8.png",MONTREAL GREEK TV
+http://live.greektv.ca/hls1/greektv.m3u8
+#EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://www.topontiki.gr/wp-content/uploads/2022/08/aftemporiki-2-new.jpg",Ναυτεμπορική TV
+http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
+#EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/dW1bcD2.jpg",NOTIOI TV
+https://srv.streamserver.gr:3451/stream/play.m3u8
 #EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/tZnziRp.jpg",NS TV
 http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
-#EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/y58Jkj8.png",MONTREAL GREEK TV
-http://94.130.180.175:8081/live/greektv/playlist.m3u8
-#EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/DcleTdR.png",GREEK VOICE 
-http://wpso.com:1936/hls/wzra.m3u8
 #EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/dW1bcD2.jpg",NOTIOI TV
 https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 #EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/3UTMBVx.jpg",TV FILOPOLI
 http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",HORSE RACES
-https://odiehls-i.akamaihd.net/hls/live/233406/odie3/odie_1000.m3u8
 #EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/wtW3zkz.png",TV NOTOS
 https://eco.streams.ovh/notos/notos/chunklist_w1265351016.m3u8
 #EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE

@@ -315,16 +315,23 @@ http://live.greektv.ca/hls1/greektv.m3u8
 http://naftemporiki-live.cdn.vustreams.com/live/a4b4a88a-681c-4a2d-8e74-33daa5f2cb61/live.isml/.m3u8
 #EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/dW1bcD2.jpg",NOTIOI TV
 https://srv.streamserver.gr:3451/stream/play.m3u8
-#EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/tZnziRp.jpg",NS TV
-http://176.9.123.140:1935/nstv1/stream/playlist.m3u8
-#EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/dW1bcD2.jpg",NOTIOI TV
-https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
-#EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/3UTMBVx.jpg",TV FILOPOLI
-http://live.streams.ovh:1935/tvfilopoli/tvfilopoli/playlist.m3u8
-#EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/wtW3zkz.png",TV NOTOS
+#EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://notosmedia.gr/wp-content/uploads/2021/08/logo-notosnews-1.jpg",NOTOS FM WEB TV
 https://eco.streams.ovh/notos/notos/chunklist_w1265351016.m3u8
+#EXTINF:-1 group-title="06TV WEB TV" tvg-name="OPEN SPORT 1" tvg-logo="https://typologies.gr/wp-content/uploads/2022/08/OPEN-SPORT_LOGO_2022.png",OPEN SPORT 1
+https://opentvlive1.siliconweb.com/opentvliveabr/openlatin/opentvlive/openlatin/chunks.m3u8
+#EXTINF:-1 group-title="06TV WEB TV" tvg-name="OPEN SPORT 2" tvg-logo="https://typologies.gr/wp-content/uploads/2022/08/OPEN-SPORT_LOGO_2022.png",OPEN SPORT 2
+https://opentvlive1.siliconweb.com/opentvliveabr/openlatin2/opentvlive/openlatin2/chunks.m3u8
+#EXTINF:-1 group-title="06TV WEB TV" tvg-name="OPEN SPORT 3" tvg-logo="https://typologies.gr/wp-content/uploads/2022/08/OPEN-SPORT_LOGO_2022.png",OPEN SPORT 3
+https://opentvlive1.siliconweb.com/opentvliveabr/openlatin3/opentvlive/openlatin3/chunks.m3u8
+#EXTINF:-1 group-title="06TV WEB TV" tvg-name="Πεμπτουσία TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSt6SaYWOW42hDRRqAf0159r-9lRU-Te3PYog&usqp=CAU",Πεμπτουσία TV
+#EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8voy2kkEOAOuq92b3BAHA6GMS0sIl1JniQJsFir2f9APHZnbmuCulS0QtTPZHlNrLfNw&usqp=CAU",Stent TV
+https://live.stent.net.gr/mistserver/hls/obsteliko/1_0/index.m3u8?sessId=16111
+#EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/3UTMBVx.jpg",Φιλόπολη TV
+https://live.streams.ovh/tvfilopoli/tvfilopoli/chunklist_w2097994609.m3u8
 #EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
 http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+#EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/ErFj6rR.png",XPLORE
+https://www.twitch.tv/xtvision
 #EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="1055 Rock 105.5 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/200d45ee-9c83-47b1-ac59-3aeeafbb7e41.jpg",1055 Rock 105.5 - Θεσσαλονίκη
 http://radio.1055rock.gr:30000/1055
 #EXTINF:-0 group-title="07RADIOS ΞΕΝΗ ΜΟΥΣΙΚΗ" tvg-name="Aμβρακία FM 91.9 - Άρτα" tvg-logo="http://resources.live24.gr/resources/images/stations/865c2760-9389-4879-b634-f9ac091ae511.jpg",Aμβρακία FM 91.9 - Άρτα
@@ -609,6 +616,8 @@ http://radio2.discomaniaradio.com:7000/live
 http://hotfm.live24.gr:80/hotfm
 #EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Join Radio - Αθήνα" tvg-logo="https://joinradio.gr/wp-content/uploads/2019/12/joinradio-main-logo.png",Join Radio - Αθήνα
 http://n03.radiojar.com/2uh8e4akb?rj-ttl=5&rj-tok=AAABcUU2XFMA0rFMshvhXqgxKQ
+#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Kasseta Radio" tvg-logo="https://resources.live24.gr/resources/images/stations/c28fea15-107a-4c60-a9c9-6fd0657cd9ca.png",Kasseta Radio
+https://politismedia-sec.live24.gr/streameekasetta
 #EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="MixMania Radio" tvg-logo="https://www.mixmaniaradio.com/images/logo1.png",MixMania Radio
 https://neos.win:37930/stream
 #EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Πρώτο Ραδιόφωνο" tvg-logo="http://resources.live24.gr/resources/images/stations/3b44c6c9-149a-4ab7-a7c3-465235c446d2.png",Πρώτο Ραδιόφωνο

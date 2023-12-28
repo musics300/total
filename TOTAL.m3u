@@ -614,8 +614,6 @@ https://stream1.468.gr/8004/stream
 http://radio2.discomaniaradio.com:7000/live
 #EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Hot FM - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/efb80f12-1f46-491d-90f3-b8f1bcdaaed4.jpg",Hot FM - Αθήνα
 http://hotfm.live24.gr:80/hotfm
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Join Radio - Αθήνα" tvg-logo="https://joinradio.gr/wp-content/uploads/2019/12/joinradio-main-logo.png",Join Radio - Αθήνα
-http://n03.radiojar.com/2uh8e4akb?rj-ttl=5&rj-tok=AAABcUU2XFMA0rFMshvhXqgxKQ
 #EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Kasseta Radio" tvg-logo="https://resources.live24.gr/resources/images/stations/c28fea15-107a-4c60-a9c9-6fd0657cd9ca.png",Kasseta Radio
 https://politismedia-sec.live24.gr/streameekasetta
 #EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="MixMania Radio" tvg-logo="https://www.mixmaniaradio.com/images/logo1.png",MixMania Radio

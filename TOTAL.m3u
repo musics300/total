@@ -511,8 +511,6 @@ http://ant1patra.live24.gr/ant1patra1053
 https://stream.webmonster.gr/artfm906
 #EXTINF:-0 group-title="09RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="City International 106.1 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/e669f256-9fd7-43cf-b9c8-4c489324e2c2.png",City International 106.1 - Θεσσαλονίκη
 http://radio.lancom.gr:8012/stream5
-#EXTINF:-0 group-title="09RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Ελλάδα FM 94.3 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/c67e30a9-22a1-43fb-a168-8e94d01b7e4a.jpg",Ελλάδα FM 94.3 - Αθήνα
-http://stream.ellada943.gr:10198/;listen.pls
 #EXTINF:-0 group-title="09RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ 1 105.8 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/92fd1eb5-deee-45d1-8743-0617108e36c0.png",ΕΡΑ 1 105.8 - Αθήνα
 http://radiostreaming.ert.gr/ert-proto
 #EXTINF:-0 group-title="09RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="ΕΡΑ 2 103.7 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/ce59fde0-c321-454b-beb6-27cfd9d30361.png",ΕΡΑ 2 103.7 - Αθήνα
@@ -577,6 +575,8 @@ http://148.251.179.119:8000/stream
 http://stream.radiojar.com/kokkino-ath.mp3
 #EXTINF:-0 group-title="09RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Φωνή της Ελλάδας - Αθήνα" tvg-logo="https://webradio.ert.gr/wp-content/uploads/2016/06/VoiceOgGreece.png",Φωνή της Ελλάδας - Αθήνα
 http://radiostreaming.ert.gr/ert-voiceofgreece
+#EXTINF:-0 group-title="10RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Ellada Sports FM 94.3 - Αθήνα" tvg-logo="https://resources.live24.gr/resources/images/stations/c6f2cc65-ab7e-40c7-9269-b9591c1997c6.png",Ellada Sports FM 94.3 - Αθήνα
+https://stream.ellada943.gr:10198/radio.mp3
 #EXTINF:-0 group-title="10RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="EPA σπορ 101.8 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/49821270-1155-47f0-bc02-cc5f8a584ad8.png",EPA σπορ 101.8 - Αθήνα
 http://radiostreaming.ert.gr/ert-erasport
 #EXTINF:-0 group-title="10RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Libero 107.4 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/9ddb173b-38b6-4a4a-8ce4-c92447bb8265.png",Libero 107.4 - Θεσσαλονίκη
@@ -587,6 +587,8 @@ http://metropolis.live24.gr/metropolis955thess
 http://netradio.live24.gr/overfm-internet
 #EXTINF:-0 group-title="10RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Pressing 90.1 Λάρισα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSia7ogvekqvW-xPsdKjjeuROKe4gjsi1GHGg&usqp=CAU",Pressing 90.1 - Λάρισα
 http://s4.onweb.gr:8840/;
+#EXTINF:-0 group-title="10RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Super Sport FM 104 - Κύπρος" tvg-logo="https://sport-fm.com.cy/wp-content/uploads/2021/12/Super-Sport-FM-LOGO-2021-WHITE-1.png",Super Sport FM 104 - Κύπρος
+https://r1.cloudskep.com/radio3/supersportfm/icecast.audio
 #EXTINF:-0 group-title="10RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Sport FM 94.6 - Αθήνα" tvg-logo="http://www.sport-fm.gr/resrc/v4/logo-normal.png",Sport FM 94.6 - Αθήνα
 http://sportfm.live24.gr/sportfm7712
 #EXTINF:-0 group-title="10RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="TOP FM 102.4 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/db0c245a-d899-46cf-857b-78eba56fb794.jpg",TOP FM 102.4 - Ρόδος

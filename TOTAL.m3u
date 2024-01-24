@@ -15,8 +15,6 @@ http://cbd537474fbad4634b64787657ff6456.msvdn.net/sports4/ert_sports4_main/maina
 http://d1nfykbwa3n98t.cloudfront.net/out/v1/6e5667da5a6843899a337dea72adb61b/antenna.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="06MEGA HD" tvg-logo="https://i.imgur.com/yyp6tS5.png",06MEGA HD
 http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S86713049/gonOwuUacAxM/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="06MEGA PLAY XMAS" tvg-logo="https://i.imgur.com/yyp6tS5.png",06MEGA PLAY XMAS
-https://streamcdnh10-c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="07ALPHA HD" tvg-logo="https://digea.gr/cms/uploads/2021/11/alpha.png",07ALPHA HD
 http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="08STAR HD" tvg-logo="https://digea.gr/cms/uploads/2021/11/star.png",08STAR HD 
@@ -229,7 +227,7 @@ https://new.cache-stream.workers.dev/stream/UCNEKMkg_DG8eAyR1BNWsSvw/live.m3u8
 https://new.cache-stream.workers.dev/stream/UCt5lQhCcAEQhvauv6lkWYCw/live.m3u8
 #EXTINF:-1 group-title="05TV ΠΑΙΔΙΚΑ" tvg-logo="https://play-lh.googleusercontent.com/aikcFU98JDbgQLxoKSOXJ7kC4qNFf2fFSo9di7S2y8qccKbB3ceAmwQaAjIli34HbA",TALKING TOM
 https://new.cache-stream.workers.dev/stream/UCm3hAp1m1xlAz0ve_EKAo4g/live.m3u8
-#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",AKTINA TV
+#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="",AKTINA TV
 https://5e8dfce185af1.streamlock.net/webtv/webtv/chunklist_w1376005365.m3u8
 #EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV
 https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/chunklist_w2048113365.m3u8
@@ -241,27 +239,27 @@ https://rtmp.streams.ovh:1936/barazarelax/barazarelax/chunklist_w1189710088.m3u8
 https://ssh101.bozztv.com/ssh101/relaxing/chunks.m3u8
 #EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV GREEK TRAP
 https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/chunklist_w1807958566.m3u
-#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",CHOICE TV
+#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="",CHOICE TV
 https://vod.streams.ovh:3528/stream/play.m3u8
-#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",ELLINIKOS FM
+#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="",ELLINIKOS FM
 https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
-#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",KLIK TV
+#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="",KLIK TV
 https://cdns.istoikona.com/klikfmcy/klikfmcyprus/chunks.m3u8
-#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",MAD WORLD
-https://ellastvmax.better-than.tv/freetv/madworldtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://ellastvmax.com/wp-content/uploads/2022/05/madworld.png",MAD WORLD
+https://c4.wallpaperflare.com/wallpaper/843/827/737/simple-background-text-typography-quote-wallpaper-preview.jpg
 #EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/kjhj78D.png",MAGIC TV
 https://itv.streams.ovh/magictv/magictv/chunklist_w1756689548.m3u8
 #EXTINF:-1 group-title="06TV WEB TV" tvg-logo="https://i.imgur.com/H0VDfpb.jpg",MESSINIA TV
 https://til.pp.ua:3303/live/messiniatvlive.m3u8
 #EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/hzaXhNV.png",NG TV
 https://live.streams.ovh/NGradio/NGradio/chunklist_w1107658015.m3u8
-#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/1Zl1OJ5.png",NRG TV
+#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZUzr4sjdmM41ey2jqSYW62ylUNVj2xKoVNg&usqp=CAU",NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/chunklist_w2015352463.m3u8
-#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/8tiiDJJ.jpg",PANIK TV
+#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-knRAxWQhUKdYi8ybO7pwdGreDcum97aAg&usqp=CAU",PANIK TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/8tiiDJJ.jpg",RED MUSIC
 https://eu1.vectromdigital.com:1936/redmusic/redmusic/chunklist_w585560764.m3u8
-#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/fwPUazv.jpg",REAL MUSIC TV
+#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="",REAL MUSIC TV
 https://www.youtube.com/watch?v=m3kSzto1HxU
 #EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/fwPUazv.jpg",RELOAD TV
 https://web.onair-radio.eu/video/video/chunklist_w2109272656.m3u8
@@ -503,7 +501,7 @@ http://sokfm.lalala.gr:8000/;listen.pls'
 http://netradio.live24.gr/tranzistor1003thess
 #EXTINF:-0 group-title="09RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Αθήνα 98.4 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/10138d0b-ce3f-4eee-8f8c-11ea5b92500e.jpg",Αθήνα 98.4 - Αθήνα
 http://athina984.live24.gr/athina984
-#EXTINF:-0 group-title="09RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Alpha 98.9 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/43323e4d-ef2d-46ff-97e3-344104a6c1ca.png",Alpha 98.9 - Αθήνα
+#EXTINF:-0 group-title="09RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Talk Radio 98.9 - Αθήνα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo4R4UEpXVAU4uTtivw-eamcKHc619eXqqLt7YHDl6nenAj6Nd6QCq-yF8awrEaUjUXZ0&usqp=CAU",Talk Radio 98.9 - Αθήνα
 https://n07.radiojar.com/xcdg6yggzfeuv?rj-ttl=5&rj-tok=AAABdtfr9qcAi6XL2aOmFvsiBA
 #EXTINF:-0 group-title="09RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Alpha 96.5 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/ec2034aa-db5c-4081-9d98-3d688decf59c.png",Alpha 96.5 - Θεσσαλονίκη
 https://streamingv2.shoutcast.com/alpha-965

@@ -64,7 +64,7 @@ https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ACTION 24" tvg-logo="https://digea.gr/cms/uploads/2023/08/ACTION24-id-5000_.png",ACTION 24
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΑΡΤ" tvg-logo="https://digea.gr/cms/uploads/2021/11/image69-111.jpeg",APT
-https://hugh.cdn.rumble.cloud/live/d5a20b4d/slot-54/n5w0-cz0w_720p/chunklist.m3u8
+https://hugh.cdn.rumble.cloud/live/v13wgnv6/slot-48/x8qn-sovx_720p/chunklist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="KONTRA" tvg-logo="https://digea.gr/cms/uploads/2021/11/image73-115.png",KONTRA
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="HIGH TV"tvg-logo="https://digea.gr/cms/uploads/2021/11/image72-114.png",HIGH TV

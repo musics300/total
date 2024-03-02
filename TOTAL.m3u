@@ -233,16 +233,18 @@ https://new.cache-stream.workers.dev/stream/UCt5lQhCcAEQhvauv6lkWYCw/live.m3u8
 https://new.cache-stream.workers.dev/stream/UCm3hAp1m1xlAz0ve_EKAo4g/live.m3u8
 #EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="",AKTINA TV
 https://5e8dfce185af1.streamlock.net/webtv/webtv/chunklist_w1376005365.m3u8
-#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV
-https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/chunklist_w2048113365.m3u8
-#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV HD GREEK MUSIC HITS
-https://eco.streams.ovh/BarazaTV/BarazaTV/chunklist_w970028366.m3u8
+#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV GREEK
+https://eco.streams.ovh:8081/barazatv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV GOLD
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/chunklist_w1090012064.m3u8
+#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV DEEP
+https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/chunklist_w1477406354.m3u8
+#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV DEEP HOUSE MUSIC
+https://rpn3.bozztv.com/ssh101/ssh101/relaxing/chunks.m3u8?nimblesessionid=150182635
 #EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV RELAXING
 https://rtmp.streams.ovh:1936/barazarelax/barazarelax/chunklist_w1189710088.m3u8
-#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV RNB
+#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV RNB HIP HOP
 https://ssh101.bozztv.com/ssh101/relaxing/chunks.m3u8
-#EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="https://i.imgur.com/FNNCrTI.png",BARAZA TV GREEK TRAP
-https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/chunklist_w1807958566.m3u
 #EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="",CHOICE TV
 https://vod.streams.ovh:3528/stream/play.m3u8
 #EXTINF:-1 group-title="05TV ΜΟΥΣΙΚΗ" tvg-logo="",ELLINIKOS FM

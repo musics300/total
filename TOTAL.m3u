@@ -163,6 +163,8 @@ https://cdn.istoikona.com/aeolostv/live/chunks.m3u8
 https://new.cache-stream.workers.dev/stream/UCHblWnb-6Rt904hFql5cM5Q/live.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="SYROS TV1" tvg-logo="https://digea.gr/cms/uploads/2021/11/image95-144.jpeg",SYROS TV1
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΚΡΗΤΗ 1" tvg-logo="",KPHTH 1
+https://livetv.streams.ovh:8081/kriti/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΚΡΗΤΗ TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image81-126.jpeg",KPHTH TV
 http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="NEA TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image87-135.png",NEA TV

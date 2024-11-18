@@ -53,16 +53,16 @@ http://ertflix.s.llnwi.net/ertlive/dw/default/playlist.m3u8
 http://ertflix.s.llnwi.net/ertlive/tv5/default/playlist.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="25ΑΝΤΕ ΓΕΙΑ" tvg-logo="https://yt3.googleusercontent.com/BKbpb3fdLjOtECipgarfjEKnzzM-z1eUxnpFddCsEpDtkHs2Es9h7kj8akADfI1lL9C_TwxZkNo=s900-c-k-c0x00ffffff-no-rj",25ΑΝΤΕ ΓΕΙΑ
 https://new.cache-stream.workers.dev/stream/UCa-t8ek0GIZxqpLH7Z6QSyA/live.m3u8
-#EXTINF:-1 group-title="TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID (NOT 24/7)
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID (NOT 24/7)
 https://skai-live-sports.siliconweb.com/skai/livesport2/chunks.m3u8
-#EXTINF:-1 group-title="TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID (NOT 24/7) BUP
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID (NOT 24/7) BUP
 https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8
-#EXTINF:-1 group-title="TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID 2 (NOT 24/7) BUP
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/JGTSM7v.png",SKAI HYBRID 2 (NOT 24/7) BUP
 https://skai-ligue1.siliconweb.com/skai/livesport1/playlist.m3u8
-#EXTINF:-1 group-title="TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/huMK9of.png",MONOBALA.GR (NOT 24/7)
-https://live-monobala.siliconweb.com/monobala/livesport2/playlist.m3u8
-#EXTINF:-1 group-title="TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/huMK9of.png",MONOBALA.GR 2(NOT 24/7)
-https://live-monobala.siliconweb.com/monobala/livesport1/playlist.m3u8
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/huMK9of.png",MONOBALA 1 (NOT 24/7)
+https://live-world-monobala.siliconweb.com/monobala/livesport1/chunks.m3u8
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-logo="https://i.imgur.com/huMK9of.png",MONOBALA 2(NOT 24/7)
+https://live-world-monobala.siliconweb.com/monobala/livesport2/chunks.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ONE TV" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV
 https://onechannel.siliconweb.com/one/stream/chunks_dvr.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ACTION 24" tvg-logo="https://digea.gr/cms/uploads/2023/08/ACTION24-id-5000_.png",ACTION 24

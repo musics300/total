@@ -110,7 +110,7 @@ https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΕΔ ΑΜΘ" tvg-logo="https://digea.gr/cms/uploads/2021/11/-%CE%91%CE%9D.-%CE%9C%CE%91%CE%9A.-%CE%98%CE%A1%CE%91%CE%9A%CE%97%CE%A3-e1642703817924.png",ΕΔ ΑΜΘ
 https://eu1.vectromdigital.com:1936/tvdelta/tvdelta/chunklist_w1248942578.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ENA CHANNEL" tvg-logo="https://digea.gr/cms/uploads/2021/11/ena.png",ENA CHANNEL
-http://176.9.123.140:1935/1c/stream/master.m3u8
+https://cdn5.smart-tv-data.com/local/ena_channel/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΕΠΙΛΟΓΕΣ TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/epiloges.jpeg",ΕΠΙΛΟΓΕΣ TV
 https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="THRAKINET" tvg-logo="https://digea.gr/cms/uploads/2021/11/thrakinet.jpeg",THRAKINET

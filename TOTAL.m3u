@@ -188,7 +188,9 @@ https://www.twitch.tv/kostv2024
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="SAMIAKI TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image89-138.jpeg",SAMIAKI TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TV KOSMOS" tvg-logo="https://digea.gr/cms/uploads/2021/11/image92-141.jpeg",TV KOSMOS
-https://tw.nickstamp93.workers.dev/channel/tvkosmosgr.m3u8
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/tvkosmosgr.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TV KOSMOS" tvg-logo="https://digea.gr/cms/uploads/2021/11/image92-141.jpeg",TV KOSMOS
+http://localhost:88/https://www.twitch.tv/tvkosmosgr
 #EXTINF:-1 group-title="03TV ΠΑΓΚΥΠΡΙΑ" tvg-name="ALPHA CY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a2/City_Channel_%28Dublin%29.png",ALPHA CY
 https://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 #EXTINF:-1 group-title="03TV ΠΑΓΚΥΠΡΙΑ" tvg-name="ALFA SPORT CY" tvg-logo="https://alfasports.tv/wp-content/uploads/2017/07/19650478_10213391687526137_730682022_o.png",ALFA SPORT CY

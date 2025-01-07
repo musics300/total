@@ -92,7 +92,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/DionTvKentrik
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="EGNATIA TV" tvg-logo="https://www.alf.gr/wp-content/uploads/2019/04/%CE%B5%CE%B3%CE%BD%CE%B1%CF%84%CE%AF%CE%B1-tv.jpg",EGNATIA TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="EURO TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/eurotv.jpeg",EURO TV
-https://www.twitch.tv/eurochannel
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/eurochgreece/chunks.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="GNOMI TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/gnomi.jpeg",GNOMI TV
 https://channel.streams.ovh:1936/gnomitv/gnomitv/chunklist_w1472585296.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TV 100" tvg-logo="https://digea.gr/cms/uploads/2021/11/tv100.jpeg",TV 100

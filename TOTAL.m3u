@@ -126,7 +126,7 @@ https://eco.streams.ovh:8081/tvrodopi/index.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ASTRA TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/astra.png",ASTRA TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Astra_TV.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΘΕΣΣΑΛΙΑ TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image62-100.jpeg",ΘΕΣΣΑΛΙΑ TV
-https://www.twitch.tv/livethess16
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/thessaliatv.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TRT TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image60-97.jpeg",TRT TV
 https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ETV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image65-104.jpeg",ETV

@@ -104,7 +104,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/FlashTV.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TOP CHANNEL" tvg-logo="https://digea.gr/cms/uploads/2021/11/top.jpeg",TOP CHANNEL
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Top_Channel_Greece.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ALFA TV" tvg-logo="https://i.imgur.com/39l3uRU.jpg",ALFA TV
-https://www.hellasnet.tv/rest2.live.hn/w2r.alf/playlist.m3u8
+https://av.hellasnet.tv/rest2.live.hn/alf/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="CENTER TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/CENTER-%CE%A4%CE%97%CE%9B%CE%95%CE%9F%CE%A1%CE%91%CE%A3%CE%97-id-5710-scaled.jpg",CENTER TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/centertv.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="DELTA TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/diktio-1.jpeg",DELTA TV
@@ -128,7 +128,7 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Astra_TV.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΘΕΣΣΑΛΙΑ TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image62-100.jpeg",ΘΕΣΣΑΛΙΑ TV
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/thessaliatv.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TRT TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image60-97.jpeg",TRT TV
-https://www.hellasnet.tv/rest.live.hn/trt2/playlist.m3u8
+https://av.hellasnet.tv/rest2.live.hn/trt/playlist.m3u8 
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ETV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image65-104.jpeg",ETV
 https://channel.streams.ovh:1936/epsilontv/epsilontv/chunklist_w1622013672.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="STAR K.E." tvg-logo="https://digea.gr/cms/uploads/2022/01/STAR-KE-id-5108.png",STAR K.E.
@@ -160,7 +160,7 @@ https://eu1.vectromdigital.com:1936/ort/ort/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="PATRA TV" tvg-logo="https://i.imgur.com/OnB6n3C.jpg",PATRA TV
 https://www.twitch.tv/patratv_
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="PLP" tvg-logo="https://i.imgur.com/qa3Lurc.png",PLP
-https://www.hellasnet.tv/rest.live.hn/ws.plp/playlist.m3u8
+https://av.hellasnet.tv/rest2.live.hn/w2r.plp/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="PRO NEWS" tvg-logo="https://digea.gr/cms/uploads/2021/11/PRONEWS-logo-new-4-shadow.png",PRO NEWS
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/ProNews.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="RTP ΚΕΝΤΡΟ" tvg-logo="https://digea.gr/cms/uploads/2021/11/image52-87.jpeg",RTP ΚΕΝΤΡΟ
@@ -182,7 +182,7 @@ http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="AIGAIO TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image88-136.jpeg",AIGAIO TV
 https://rpn3.bozztv.com/ssh101/ssh101/aigaiotv/chunks.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="IRIDA TV" tvg-logo="https://i.imgur.com/gn5sdCt.png",IRIDA TV
-https://www.hellasnet.tv/rest.live.hn/ws.iri/playlist.m3u8
+https://av.hellasnet.tv/rest2.live.hn/iri/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="KOS TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image91-140.jpeg",KOS TV
 https://www.twitch.tv/kostv2024
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="SAMIAKI TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image89-138.jpeg",SAMIAKI TV

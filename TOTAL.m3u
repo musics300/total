@@ -88,7 +88,7 @@ http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1009120550_b74600
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="BERGINA TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/vergina.png",BERGINA TV
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/verginachannel.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="DION TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/dion.jpeg",DION TV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/DionTvKentrikisMakedonias.m3u8
+https://www.twitch.tv/dionthleorash
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="EGNATIA TV" tvg-logo="https://www.alf.gr/wp-content/uploads/2019/04/%CE%B5%CE%B3%CE%BD%CE%B1%CF%84%CE%AF%CE%B1-tv.jpg",EGNATIA TV
 https://video.streams.ovh:1936/egnatiatv/egnatiatv/index.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="EURO TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/eurotv.jpeg",EURO TV

@@ -154,7 +154,7 @@ https://rpn3.bozztv.com/ssh101/ssh101/hlektra/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΙΟΝΙΑΝ CHANNEL" tvg-logo="https://digea.gr/cms/uploads/2021/11/%CE%99%CE%9F%CE%9D%CE%99%CE%91%CE%9D.png",IONIAN CHANNEL
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="LEPANTO TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image81-126.jpeg",LEPANTO TV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/LePanto.m3u8
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/LePanto.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="LYCHNOS" tvg-logo="https://digea.gr/cms/uploads/2021/11/image58-94.png",LYCHNOS
 http://erato.multiserver.gr:1935/imp/imp/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="MESOGEIOS TV" tvg-logo="https://i.imgur.com/OnB6n3C.jpg",MESOGEIOS TV

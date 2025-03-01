@@ -57,18 +57,44 @@ https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
 https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="22MEGA NEWS" tvg-logo="https://i.imgur.com/bZTT75j.png",22MEGA NEWS
 http://vid1.megatv-ctv.com/mega/meganews/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="23SKAI HYBRID (NOT 24/7)" tvg-logo="https://i.imgur.com/JGTSM7v.png",23SKAI HYBRID (NOT 24/7)
-https://skai-live-sports.siliconweb.com/skai/livesport2/chunks.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="24SKAI HYBRID (NOT 24/7) BUP" tvg-logo="https://i.imgur.com/JGTSM7v.png",24SKAI HYBRID (NOT 24/7) BUP
+#EXTINF:-1 group-title="03TV ΑΘΛΗΤΙΚΑ" tvg-name="01ERT SPORTS 1" tvg-logo="https://i.imgur.com/AZiKB0X.png",01ERT SPORTS 1
+https://ertflix.akamaized.net/ertlive/ertsports1/clrdef24724a/index.m3u8
+#EXTINF:-1 group-title="03TV ΑΘΛΗΤΙΚΑ" tvg-name="01ERT SPORTS 1 BUP" tvg-logo="https://i.imgur.com/AZiKB0X.png",01ERT SPORTS 1 BUP
+http://hbbtv.ert.gr/stream.php/v/vid_ertsports_mpeg.2ts
+#EXTINF:-1 group-title="03TV ΑΘΛΗΤΙΚΑ" tvg-name="02ERT SPORTS 2" tvg-logo="https://i.imgur.com/qNYGMoc.png",02ERT SPORTS 2
+https://ertflix.akamaized.net/ertlive/ertsports2/clrdef24724b/index.m3u8
+#EXTINF:-1 group-title="03TV ΑΘΛΗΤΙΚΑ" tvg-name="02ERT SPORTS 2 BUP" tvg-logo="https://i.imgur.com/qNYGMoc.png",02ERT SPORTS 2 BUP
+http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
+#EXTINF:-1 group-title="03TV ΑΘΛΗΤΙΚΑ" tvg-name="03ERT SPORTS 3" tvg-logo="https://i.imgur.com/IGqJDwD.png",03ERT SPORTS 3
+https://ertflix.akamaized.net/ertlive/ertsports3/default/index.m3u8
+#EXTINF:-1 group-title="03TV ΑΘΛΗΤΙΚΑ" tvg-name="03ERT SPORTS 3 BUP" tvg-logo="https://i.imgur.com/IGqJDwD.png",03ERT SPORTS 3 BUP
+http://hbbtv.ert.gr/stream.php/v/vid_ertplay3_mpeg.2ts
+#EXTINF:-1 group-title="03TV ΑΘΛΗΤΙΚΑ" tvg-name="04SKAI HYBRID (NOT 24/7)" tvg-logo="https://i.imgur.com/JGTSM7v.png",04SKAI HYBRID (NOT 24/7)
 https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="25SKAI HYBRID 2 (NOT 24/7) BUP" tvg-logo="https://i.imgur.com/JGTSM7v.png",25SKAI HYBRID 2 (NOT 24/7) BUP
+#EXTINF:-1 group-title="03TV ΑΘΛΗΤΙΚΑ" tvg-name="04SKAI HYBRID (NOT 24/7) BUP" tvg-logo="https://i.imgur.com/JGTSM7v.png",04SKAI HYBRID (NOT 24/7) BUP
 https://skai-ligue1.siliconweb.com/skai/livesport1/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="26MONOBALA 1 (NOT 24/7)" tvg-logo="https://i.imgur.com/huMK9of.png",26MONOBALA 1 (NOT 24/7)
+#EXTINF:-1 group-title="03TV ΑΘΛΗΤΙΚΑ" tvg-name="05SKAI HYBRID 2 (NOT 24/7)" tvg-logo="https://i.imgur.com/JGTSM7v.png",05SKAI HYBRID 2 (NOT 24/7)
+https://skai-live-sports.siliconweb.com/skai/livesport2/playlist.m3u8
+#EXTINF:-1 group-title="03TV ΑΘΛΗΤΙΚΑ" tvg-name="05SKAI HYBRID 2 (NOT 24/7) BUP" tvg-logo="https://i.imgur.com/JGTSM7v.png",05SKAI HYBRID 2 (NOT 24/7) BUP
+http://cdn5.smart-tv-data.com/skai/skaisport2/mpeg.2ts
+#EXTINF:-1 group-title="03TV ΑΘΛΗΤΙΚΑ" tvg-name="05SKAI HYBRID 3 (NOT 24/7)" tvg-logo="https://i.imgur.com/JGTSM7v.png",05SKAI HYBRID 3 (NOT 24/7)
+http://cdn5.smart-tv-data.com/skai/skaisport3/mpeg.2ts
+#EXTINF:-1 group-title="03TV ΑΘΛΗΤΙΚΑ" tvg-name="06MONOBALA 1 (NOT 24/7)" tvg-logo="https://i.imgur.com/huMK9of.png",06MONOBALA 1 (NOT 24/7)
 https://live-world-monobala.siliconweb.com/monobala/livesport1/chunks.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="27MONOBALA 2(NOT 24/7)" tvg-logo="https://i.imgur.com/huMK9of.png",27MONOBALA 2(NOT 24/7)
+#EXTINF:-1 group-title="03TV ΑΘΛΗΤΙΚΑ" tvg-name="07MONOBALA 2(NOT 24/7)" tvg-logo="https://i.imgur.com/huMK9of.png",07MONOBALA 2(NOT 24/7)
 https://live-world-monobala.siliconweb.com/monobala/livesport2/chunks.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="27MONOBALA 3(NOT 24/7)" tvg-logo="https://i.imgur.com/huMK9of.png",27MONOBALA 3(NOT 24/7)
+#EXTINF:-1 group-title="03TV ΑΘΛΗΤΙΚΑ" tvg-name="08MONOBALA 3(NOT 24/7)" tvg-logo="https://i.imgur.com/huMK9of.png",08MONOBALA 3(NOT 24/7)
+https://live-monobala.siliconweb.com/monobala/livesport3/playlist.m3u8
+#EXTINF:-1 group-title="03TV ΑΘΛΗΤΙΚΑ" tvg-name="09MONOBALA 4(NOT 24/7)" tvg-logo="https://i.imgur.com/huMK9of.png",09MONOBALA 4(NOT 24/7)
 https://live-monobala.siliconweb.com/monobala/shows/chunks.m3u8
+#EXTINF:-1 group-title="03TV ΑΘΛΗΤΙΚΑ" tvg-name="10ΠΑΜΕ ΣΤΟΙΧΗΜΑ RACING (ΙΠΠΟΔΡΟΜΙΕΣ)" tvg-logo="https://i.imgur.com/bvEkbRI.png",10ΠΑΜΕ ΣΤΟΙΧΗΜΑ RACING (ΙΠΠΟΔΡΟΜΙΕΣ)
+https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
+#EXTINF:-1 group-title="03TV ΑΘΛΗΤΙΚΑ" tvg-name="11ΟΠΑΠ TV" tvg-logo="https://i.imgur.com/Jtc6poN.png",11ΟΠΑΠ TV
+https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
+#EXTINF:-1 group-title="03TV ΑΘΛΗΤΙΚΑ" tvg-name="12ALFA SPORTS CY" tvg-logo="https://i.imgur.com/Gl7PuMJ.png",12ALFA SPORTS CY
+https://dev.aftermind.xyz/hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
+#EXTINF:-1 group-title="03TV ΑΘΛΗΤΙΚΑ" tvg-name="13ΑΡΓΟΛΙΔΑ SPORT TV" tvg-logo="https://i.imgur.com/Jm0SnfX.png",13ΑΡΓΟΛΙΔΑ SPORT TV
+https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="28VOULI 2" tvg-logo="https://i.ytimg.com/vi/jYC7uvHWS50/mqdefault.jpg",28VOULI 2
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="29VOULI 2" tvg-logo="https://i.ytimg.com/vi/_oIHL1J0ciA/hqdefault.jpg",29VOULI 3

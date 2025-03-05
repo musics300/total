@@ -75,8 +75,6 @@ http://195.226.218.163/vid/dw-hbbtv/mpeg.2ts
 https://ertflix.akamaized.net/ertlive/tv5/default/playlist.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="21TV5 EUROPE BUP" tvg-logo="https://i.imgur.com/aJslK4N.png",21TV5 EUROPE BUP
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay6_mpeg.2ts
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="20ERT KIDS" tvg-logo="https://files2.app.ertflix.gr/2023/kidschannel/ertflix-kids-tv-800x300.png?m=resize&w=240&h=136",20ERT KIDS
-https://ertflix.akamaized.net/ertlive/kids/default/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ACTION 24" tvg-logo="https://digea.gr/cms/uploads/2023/08/ACTION24-id-5000_.png",ACTION 24
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ACTION 24 BUP" tvg-logo="https://digea.gr/cms/uploads/2023/08/ACTION24-id-5000_.png",ACTION 24 BUP
@@ -525,7 +523,7 @@ http://65.108.62.57:8080/live/greektv1.m3u8
 https://am3.cloudskep.com/hellenictv/htv/l5/htv1/chunks.m3u8?nimblesessionid=38096612
 #EXTINF:-1 group-title="09TV WEB TV" tvg-logo="",Ηλέκτρα TV
 https://stream.sy3dud.com:5443/LiveApp/streams/677642681062064684605047.m3u8
-#EXTINF:-1 group-title="09TV WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",IME Web TV
+#EXTINF:-1 group-title="09TV WEB TV" tvg-logo="",IME WEB TV
 http://theagenis.fhw.gr:8080/maintv.mp4
 #EXTINF:-1 group-title="09TV WEB TV" tvg-logo="",MARON TV
 https://tw.nickstamp93.workers.dev/channel/marontvgr.m3u8

@@ -83,6 +83,8 @@ http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 http://cdn5.smart-tv-data.com/local/action24/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ATTICA TV" tvg-logo="https://i.imgur.com/s3qWC9W.png",ATTICA TV
 http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ATTICA TV BUP" tvg-logo="https://i.imgur.com/s3qWC9W.png",ATTICA TV BUP
+http://cdn5.smart-tv-data.com/local/atticatv/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ALERT" tvg-logo="https://digea.gr/cms/uploads/2021/11/image78-121.png",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ALERT BUP" tvg-logo="https://digea.gr/cms/uploads/2021/11/image78-121.png",ALERT BUP
@@ -175,16 +177,26 @@ https://ythls-v4.onrender.com/channel/UCNOhkH_rCIj8KiVrlGpga7Q.m3u8
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/tvstarfm.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TV ΡΟΔΟΠΗ" tvg-logo="https://digea.gr/cms/uploads/2021/11/tv-rodopi.png",TV ΡΟΔΟΠΗ
 https://eco.streams.ovh:8081/tvrodopi/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ASTRA TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/astra.png",ASTRA TV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/Astra_TV.m3u8
-#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΘΕΣΣΑΛΙΑ TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image62-100.jpeg",ΘΕΣΣΑΛΙΑ TV
-https://raw.githubusercontent.com/jimgate07/grtv/master/streams/thessaliatv.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ASTRA TV" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/astra-tv-id5-4680.png?itok=xngWornz",ASTRA TV
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/Astra_TV.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ASTRA TV BUP" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/astra-tv-id5-4680.png?itok=xngWornz",ASTRA TV BUP
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Astra_TV_bup.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ASTRA TV BUP 2" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/astra-tv-id5-4680.png?itok=xngWornz",ASTRA TV BUP 2
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/astratv/playlist.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΘΕΣΣΑΛΙΑ TV" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/thessalia-tileorasi-id-4670.png?itok=hJ5WQKS7",ΘΕΣΣΑΛΙΑ TV
+http://th.cloudskep.com/th/thess_hd/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TRT TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image60-97.jpeg",TRT TV
 https://av.hellasnet.tv/rest2.live.hn/trt/playlist.m3u8 
-#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ETV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image65-104.jpeg",ETV
-https://channel.streams.ovh:1936/epsilontv/epsilontv/chunklist_w1622013672.m3u8
-#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="STAR K.E." tvg-logo="https://digea.gr/cms/uploads/2022/01/STAR-KE-id-5108.png",STAR K.E.
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ETV" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-e-tv.jpg?itok=HD3hFjya",ETV
+https://neon.streams.gr:8081/epsilontv/index.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ETV BUP" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-e-tv.jpg?itok=HD3hFjya",ETV BUP
+http://cdn5.smart-tv-data.com/local/epsilontv/playlist.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="STAR K.E." tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/star-ke-id-4810.png?itok=fhZRj_J9",STAR K.E.
 http://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="STAR K.E. BUP" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/star-ke-id-4810.png?itok=fhZRj_J9",STAR K.E. BUP
+https://cdn5.smart-tv-data.com/tvstar/tvstar/playlist.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="STAR K.E. BUP 2" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/star-ke-id-4810.png?itok=fhZRj_J9",STAR K.E. BUP 2
+https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/starkebup.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ART TV" tvg-logo="https://i.imgur.com/ZgKZ5u9.jpg",ART TV
 https://til.pp.ua:3711/live/arttvgr70live.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="AXELWOS TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/acheloos.jpeg",AXELWOS TV
@@ -200,11 +212,21 @@ https://til.pp.ua:3928/live/epiruslive.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="START TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image41-74.jpeg",START TV
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="BEST TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image57-93.jpeg",BEST TV
-https://stream.net7.gr/hls/best/index.m3u8
+https://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="BEST TV BUP" tvg-logo="https://digea.gr/cms/uploads/2021/11/image57-93.jpeg",BEST TV BUP
+http://cdn5.smart-tv-data.com/best/hybrid3/best/mpeg.2ts
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="BEST TV BUP 2" tvg-logo="https://digea.gr/cms/uploads/2021/11/image57-93.jpeg",BEST TV BUP 2
+https://opentv-livehybrid.siliconweb.com/openTvLive/bestTV/playlist.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="BEST TV BUP 3" tvg-logo="https://digea.gr/cms/uploads/2021/11/image57-93.jpeg",BEST TV BUP 3
+https://opentv-livehybrid.siliconweb.com/openTvLive/bestTV/manifest.mpd
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="HLEKTRA TV" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKZOdBbIINdNAdQLNaVtaMbf5Iwm4-4blSi8fBFD8A=s900-c-k-c0x00ffffff-no-rj",HLEKTRA TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/hlektra/chunks.m3u8
-#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΙΟΝΙΑΝ CHANNEL" tvg-logo="https://digea.gr/cms/uploads/2021/11/%CE%99%CE%9F%CE%9D%CE%99%CE%91%CE%9D.png",IONIAN CHANNEL
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΙΟΝΙΑΝ CHANNEL" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/ionian-id-4520.png?itok=ccHImTyJ",IONIAN CHANNEL
 https://stream.ioniantv.gr/ionian/live_abr/playlist.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΙΟΝΙΑΝ CHANNEL BUP" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/ionian-id-4520.png?itok=ccHImTyJ",IONIAN CHANNEL BUP
+https://cdn5.smart-tv-data.com/local/ioniansrt/playlist.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΙΟΝΙΑΝ CHANNEL BUP 2" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/ionian-id-4520.png?itok=ccHImTyJ",IONIAN CHANNEL BUP 2
+https://cdn5.smart-tv-data.com/local/ioniansrt/manifest.mpd
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="LEPANTO TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image81-126.jpeg",LEPANTO TV
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/LePanto.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="LYCHNOS" tvg-logo="https://digea.gr/cms/uploads/2021/11/image58-94.png",LYCHNOS
@@ -215,12 +237,10 @@ https://ythls-v4.onrender.com/channel/UC8WYI1OlMaNQiGmi8yFtGZg.m3u8
 https://til.pp.ua:3872/live/mesogeiostvlive.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="OPT TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image44-79.jpeg",OPT TV
 https://fr.crystalweb.net:1936/ort/ort/playlist.m3u8
-#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="PATRA TV" tvg-logo="https://i.imgur.com/OnB6n3C.jpg",PATRA TV
-https://www.twitch.tv/patratv_
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="SUPER TV (NOT 24/7)" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-super.jpg?itok=GDn08W8Z",SUPER TV (NOT 24/7)
+https://ythls-v4.onrender.com/channel/UC4OD3anBwEt0N_gYmkmrtJQ.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="PLP" tvg-logo="https://i.imgur.com/qa3Lurc.png",PLP
 https://av.hellasnet.tv/rest2.live.hn/plp/playlist.m3u8
-#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="PRO NEWS" tvg-logo="https://digea.gr/cms/uploads/2021/11/PRONEWS-logo-new-4-shadow.png",PRO NEWS
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/ProNews.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="RTP ΚΕΝΤΡΟ" tvg-logo="https://digea.gr/cms/uploads/2021/11/image52-87.jpeg",RTP ΚΕΝΤΡΟ
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/rtpkentro/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="RTP ΚΕΝΤΡΟ BUP" tvg-logo="https://digea.gr/cms/uploads/2021/11/image52-87.jpeg",RTP ΚΕΝΤΡΟ BUP
@@ -233,12 +253,24 @@ https://new.cache-stream.workers.dev/stream/UCHblWnb-6Rt904hFql5cM5Q/live.m3u8
 http://176.9.123.140:1935/msg116s/msg116s/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΚΡΗΤΗ 1" tvg-logo="",KPHTH 1
 https://livetv.streams.ovh:8081/kriti/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΚΡΗΤΗ TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image81-126.jpeg",KPHTH TV
-http://live.cretetv.gr:1935/cretetv/myStream/playlist.m3u8
-#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="NEA TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image87-135.png",NEA TV
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΚΡΗΤΗ TV" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-kriti-tv.jpg?itok=mSC0NhQP",KPHTH TV
+https://cretetvlive.siliconweb.com/cretetv/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΚΡΗΤΗ TV BUP" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-kriti-tv.jpg?itok=mSC0NhQP",KPHTH TV BUP
+https://cdn5.smart-tv-data.com/regio/CreteTV/playlist.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΚΡΗΤΗ TV BUP 2" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-kriti-tv.jpg?itok=mSC0NhQP",KPHTH TV BUP 2
+https://opentv-livehybrid.siliconweb.com/openTvLive/kritiTV/playlist.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="ΚΡΗΤΗ TV BUP 3" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-kriti-tv.jpg?itok=mSC0NhQP",KPHTH TV BUP 3
+https://opentv-livehybrid.siliconweb.com/openTvLive/kritiTV/manifest.mpd
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="NEA TV" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/-nea-tv-kritis-id-5600.png?itok=b6LtpjMZ",NEA TV
 https://live.neatv.gr:8888/hls/neatv.m3u8
-#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="TV CRETA" tvg-logo="https://digea.gr/cms/uploads/2021/11/image83-129.png",TV CRETA
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="NEA TV BUP" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/-nea-tv-kritis-id-5600.png?itok=b6LtpjMZ",NEA TV BUP
+http://cdn5.smart-tv-data.com/local/neatv/playlist.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="CRETA ΤΗΛΕΟΡΑΣΗ" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-creta-tv.png?itok=0Tc4TvJL",CRETA ΤΗΛΕΟΡΑΣΗ
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="CRETA ΤΗΛΕΟΡΑΣΗ BUP" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-creta-tv.png?itok=0Tc4TvJL",CRETA ΤΗΛΕΟΡΑΣΗ BUP
+http://cdn5.smart-tv-data.com/local/tvcreta/playlist.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="CRETA ΤΗΛΕΟΡΑΣΗ BUP 2" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-creta-tv.png?itok=0Tc4TvJL",CRETA ΤΗΛΕΟΡΑΣΗ BUP 2
+https://cdn5.smart-tv-data.com/local/tvcreta/manifest.mpd
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="AIGAIO TV" tvg-logo="https://digea.gr/cms/uploads/2021/11/image88-136.jpeg",AIGAIO TV
 https://rpn3.bozztv.com/ssh101/ssh101/aigaiotv/chunks.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="IRIDA TV" tvg-logo="https://i.imgur.com/gn5sdCt.png",IRIDA TV

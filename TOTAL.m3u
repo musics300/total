@@ -53,27 +53,27 @@ https://ertflix.akamaized.net/ertlive/ertworld/default/playlist.m3u8
 http://hbbtv.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="17ΒΟΥΛΗ 2" tvg-logo="https://i.ytimg.com/vi/jYC7uvHWS50/mqdefault.jpg",17ΒΟΥΛΗ 2
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="18ΒΟΥΛΗ 3" tvg-logo="https://i.ytimg.com/vi/_oIHL1J0ciA/hqdefault.jpg",18ΒΟΥΛΗ 3
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="17ΒΟΥΛΗ 3" tvg-logo="https://i.ytimg.com/vi/jYC7uvHWS50/mqdefault.jpg",17ΒΟΥΛΗ 3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="17EURONEWS GR" tvg-logo="https://i.imgur.com/ztyDDH1.png",17EURONEWS GR
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="18EURONEWS GR" tvg-logo="https://i.imgur.com/ztyDDH1.png",18EURONEWS GR
 https://ertflix.akamaized.net/ertlive/euronewsgr/default/index.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="17EURONEWS GR BUP" tvg-logo="https://i.imgur.com/ztyDDH1.png",17EURONEWS GR BUP
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="18EURONEWS GR BUP" tvg-logo="https://i.imgur.com/ztyDDH1.png",18EURONEWS GR BUP
 http://195.226.218.163/vid/euronewsgr/mpeg.2ts
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="17EURONEWS GR BUP 2" tvg-logo="https://i.imgur.com/ztyDDH1.png",17EURONEWS GR BUP 2
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="18EURONEWS GR BUP 2" tvg-logo="https://i.imgur.com/ztyDDH1.png",18EURONEWS GR BUP 2
 https://ythls-v4.onrender.com/channel/UC8HJZNfDPoySgW9DN3YGNaA.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="18EURONEWS UK" tvg-logo="https://i.ytimg.com/vi/_oIHL1J0ciA/hqdefault.jpg",18EURONEWS UK
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="19EURONEWS UK" tvg-logo="https://i.ytimg.com/vi/_oIHL1J0ciA/hqdefault.jpg",19EURONEWS UK
 https://ertflix.akamaized.net/ertlive/euronewsuk/default/index.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="18EURONEWS UK BUP" tvg-logo="https://i.imgur.com/mofBxUA.png",18EURONEWS UK BUP
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="19EURONEWS UK BUP" tvg-logo="https://i.imgur.com/mofBxUA.png",19EURONEWS UK BUP
 https://euronews-euronews-world-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="18EURONEWS UK BUP 2" tvg-logo="https://i.imgur.com/mofBxUA.png",18EURONEWS UK BUP 2
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="19EURONEWS UK BUP 2" tvg-logo="https://i.imgur.com/mofBxUA.png",19EURONEWS UK BUP 2
 http://195.226.218.160/vid/euronewsen/mpeg.2ts
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="19DW ENGLISH" tvg-logo="https://i.imgur.com/hF7IZid.png",19DW ENGLISH
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="20DW ENGLISH" tvg-logo="https://i.imgur.com/hF7IZid.png",20DW ENGLISH
 https://ertflix.akamaized.net/ertlive/dw/default/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="19DW ENGLISH BUP" tvg-logo="https://i.imgur.com/hF7IZid.png",19DW ENGLISH BUP
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="20DW ENGLISH BUP" tvg-logo="https://i.imgur.com/hF7IZid.png",20DW ENGLISH BUP
 http://195.226.218.163/vid/dw-hbbtv/mpeg.2ts
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="20TV5 EUROPE" tvg-logo="https://i.imgur.com/aJslK4N.png",20TV5 EUROPE
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="21TV5 EUROPE" tvg-logo="https://i.imgur.com/aJslK4N.png",21TV5 EUROPE
 https://ertflix.akamaized.net/ertlive/tv5/default/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="20TV5 EUROPE BUP" tvg-logo="https://i.imgur.com/aJslK4N.png",20TV5 EUROPE BUP
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="21TV5 EUROPE BUP" tvg-logo="https://i.imgur.com/aJslK4N.png",21TV5 EUROPE BUP
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay6_mpeg.2ts
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="20ERT KIDS" tvg-logo="https://files2.app.ertflix.gr/2023/kidschannel/ertflix-kids-tv-800x300.png?m=resize&w=240&h=136",20ERT KIDS
 https://ertflix.akamaized.net/ertlive/kids/default/playlist.m3u8
@@ -479,6 +479,8 @@ https://zouglalive-lh.akamaihd.net/i/zouglalive_1@340792/master.m3u8
 https://new.cache-stream.workers.dev/stream/UCKS1HX4moHCcDBZnM9k4giw/live.m3u8
 #EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/Disney_Junior.svg/1200px-Disney_Junior.svg.png",DISNEY JUNIOR
 https://new.cache-stream.workers.dev/stream/UCNcdbMyA59zE-Vk668bKWOg/live.m3u8
+#EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-name="ERT KIDS" tvg-logo="https://files2.app.ertflix.gr/2023/kidschannel/ertflix-kids-tv-800x300.png?m=resize&w=240&h=136",ERT KIDS
+https://ertflix.akamaized.net/ertlive/kids/default/playlist.m3u8
 #EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-logo="https://vhx.imgix.net/zouzouniatv/assets/d70feae9-8676-4a9d-85ec-6d4941128977.jpg?auto=format%2Ccompress&fit=crop&h=720&w=1280",ZOUZOUNIA TV 1
 https://new.cache-stream.workers.dev/stream/UC9QSJuIBLUT2GbjgKymkTaQ/live.m3u8
 #EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
@@ -767,111 +769,111 @@ http://148.251.179.119:8000/stream
 http://stream.radiojar.com/kokkino-ath.mp3
 #EXTINF:-0 group-title="12RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Φωνή της Ελλάδας - Αθήνα" tvg-logo="https://webradio.ert.gr/wp-content/uploads/2016/06/VoiceOgGreece.png",Φωνή της Ελλάδας - Αθήνα
 http://radiostreaming.ert.gr/ert-voiceofgreece
-#EXTINF:-0 group-title="10RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Ellada Sports FM 94.3 - Αθήνα" tvg-logo="https://resources.live24.gr/resources/images/stations/c6f2cc65-ab7e-40c7-9269-b9591c1997c6.png",Ellada Sports FM 94.3 - Αθήνα
+#EXTINF:-0 group-title="13RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Ellada Sports FM 94.3 - Αθήνα" tvg-logo="https://resources.live24.gr/resources/images/stations/c6f2cc65-ab7e-40c7-9269-b9591c1997c6.png",Ellada Sports FM 94.3 - Αθήνα
 https://stream.ellada943.gr:10198/radio.mp3
-#EXTINF:-0 group-title="10RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="EPA σπορ 101.8 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/49821270-1155-47f0-bc02-cc5f8a584ad8.png",EPA σπορ 101.8 - Αθήνα
+#EXTINF:-0 group-title="13RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="EPA σπορ 101.8 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/49821270-1155-47f0-bc02-cc5f8a584ad8.png",EPA σπορ 101.8 - Αθήνα
 http://radiostreaming.ert.gr/ert-erasport
-#EXTINF:-0 group-title="10RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Libero 107.4 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/9ddb173b-38b6-4a4a-8ce4-c92447bb8265.png",Libero 107.4 - Θεσσαλονίκη
+#EXTINF:-0 group-title="13RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Libero 107.4 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/9ddb173b-38b6-4a4a-8ce4-c92447bb8265.png",Libero 107.4 - Θεσσαλονίκη
 https://radio.libero.fm:10750/live
-#EXTINF:-0 group-title="10RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Metropolis 95.5 Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/73fc95ae-ab99-4b2d-8fa3-e0310ca554dd.png",Metropolis 95.5 Θεσσαλονίκη
+#EXTINF:-0 group-title="13RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Metropolis 95.5 Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/73fc95ae-ab99-4b2d-8fa3-e0310ca554dd.png",Metropolis 95.5 Θεσσαλονίκη
 http://metropolis.live24.gr/metropolis955thess
-#EXTINF:-0 group-title="10RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Over FM - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/05882f35-a5d6-4b1a-8c6b-3eee44707d06.jpg",Over FM 104.9 - Αθήνα
+#EXTINF:-0 group-title="13RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Over FM - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/05882f35-a5d6-4b1a-8c6b-3eee44707d06.jpg",Over FM 104.9 - Αθήνα
 http://netradio.live24.gr/overfm-internet
-#EXTINF:-0 group-title="10RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Pressing 90.1 Λάρισα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSia7ogvekqvW-xPsdKjjeuROKe4gjsi1GHGg&usqp=CAU",Pressing 90.1 - Λάρισα
+#EXTINF:-0 group-title="13RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Pressing 90.1 Λάρισα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSia7ogvekqvW-xPsdKjjeuROKe4gjsi1GHGg&usqp=CAU",Pressing 90.1 - Λάρισα
 http://s4.onweb.gr:8840/;
-#EXTINF:-0 group-title="10RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Super Sport FM 104 - Κύπρος" tvg-logo="https://sport-fm.com.cy/wp-content/uploads/2021/12/Super-Sport-FM-LOGO-2021-WHITE-1.png",Super Sport FM 104 - Κύπρος
+#EXTINF:-0 group-title="13RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Super Sport FM 104 - Κύπρος" tvg-logo="https://sport-fm.com.cy/wp-content/uploads/2021/12/Super-Sport-FM-LOGO-2021-WHITE-1.png",Super Sport FM 104 - Κύπρος
 https://r1.cloudskep.com/radio3/supersportfm/icecast.audio
-#EXTINF:-0 group-title="10RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Sport FM 94.6 - Αθήνα" tvg-logo="http://www.sport-fm.gr/resrc/v4/logo-normal.png",Sport FM 94.6 - Αθήνα
+#EXTINF:-0 group-title="13RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Sport FM 94.6 - Αθήνα" tvg-logo="http://www.sport-fm.gr/resrc/v4/logo-normal.png",Sport FM 94.6 - Αθήνα
 http://sportfm.live24.gr/sportfm7712
-#EXTINF:-0 group-title="10RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="TOP FM 102.4 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/db0c245a-d899-46cf-857b-78eba56fb794.jpg",TOP FM 102.4 - Ρόδος
+#EXTINF:-0 group-title="13RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="TOP FM 102.4 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/db0c245a-d899-46cf-857b-78eba56fb794.jpg",TOP FM 102.4 - Ρόδος
 http://live3.istoikona.com:8376/
-#EXTINF:-0 group-title="10RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Yellow Radio 101.7 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/15ee1acc-83de-40eb-9962-b85b3c61914a.png",Yellow Radio 101.7 - Θεσσαλονίκη
+#EXTINF:-0 group-title="13RADIOS ΑΘΛΗΤΙΚΑ" tvg-name="Yellow Radio 101.7 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/15ee1acc-83de-40eb-9962-b85b3c61914a.png",Yellow Radio 101.7 - Θεσσαλονίκη
 https://ice.greekstream.net/yellow
-#EXTINF:-0 group-title="11RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Εκκλησία Της Ελλάδος 89.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/963bef80-b381-4de6-9612-ea3a283c64e8.jpg",Εκκλησία Της Ελλάδος 89.5 - Αθήνα
+#EXTINF:-0 group-title="14RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Εκκλησία Της Ελλάδος 89.5 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/963bef80-b381-4de6-9612-ea3a283c64e8.jpg",Εκκλησία Της Ελλάδος 89.5 - Αθήνα
 http://85.10.206.222:8002
-#EXTINF:-0 group-title="11RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Ιερά Μητρόπολη Πατρών 88.4 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/4a5752c9-10b7-4d43-b95a-1efe2ece5b6b.png",Ιερά Μητρόπολη Πατρών 88.4 - Πάτρα
+#EXTINF:-0 group-title="1RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Ιερά Μητρόπολη Πατρών 88.4 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/4a5752c9-10b7-4d43-b95a-1efe2ece5b6b.png",Ιερά Μητρόπολη Πατρών 88.4 - Πάτρα
 http://eco.onestreaming.com:8468/;listen.pls'
-#EXTINF:-0 group-title="11RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Λυδία η Φιλιππησία 94.2 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/32467e44-f554-4493-9c40-64bc44e070fb.png",Λυδία η Φιλιππησία 94.2 - Θεσσαλονίκη
+#EXTINF:-0 group-title="14RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Λυδία η Φιλιππησία 94.2 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/32467e44-f554-4493-9c40-64bc44e070fb.png",Λυδία η Φιλιππησία 94.2 - Θεσσαλονίκη
 http://eu1.radiolydia.com:1086/stream
-#EXTINF:-0 group-title="11RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Ορθοδοξία και Παράδοση 103 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/ee71b5de-129c-44b3-9f98-95f45d8591ee.jpg",Ορθοδοξία και Παράδοση 103 - Κοζάνη
+#EXTINF:-0 group-title="14RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Ορθοδοξία και Παράδοση 103 - Κοζάνη" tvg-logo="http://resources.live24.gr/resources/images/stations/ee71b5de-129c-44b3-9f98-95f45d8591ee.jpg",Ορθοδοξία και Παράδοση 103 - Κοζάνη
 http://radio.lts-group.eu:52390/ANS'
-#EXTINF:-0 group-title="11RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Ορθόδοξη Παρουσία 106.8 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/221df493-b08c-46e1-9975-51aedf6d7809.jpg",Ορθόδοξη Παρουσία 106.8 - Θεσσαλονίκη
+#EXTINF:-0 group-title="14RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Ορθόδοξη Παρουσία 106.8 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/221df493-b08c-46e1-9975-51aedf6d7809.jpg",Ορθόδοξη Παρουσία 106.8 - Θεσσαλονίκη
 http://www.gwebstream.net:8008/stream
-#EXTINF:-0 group-title="11RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Πειραική Εκκλησία 91.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/5a6f217c-1ba7-4c76-ba33-b7a9bd710fd4.jpg",Πειραική Εκκλησία 91.2 - Αθήνα
+#EXTINF:-0 group-title="14RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Πειραική Εκκλησία 91.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/5a6f217c-1ba7-4c76-ba33-b7a9bd710fd4.jpg",Πειραική Εκκλησία 91.2 - Αθήνα
 https://impradio.bytemasters.gr/8002/stream
-#EXTINF:-0 group-title="11RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Χριστιανισμός 90 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/52f9f1d7-baf5-4332-8dad-53778e8a4d58.png",Χριστιανισμός 90 - Ρόδος
+#EXTINF:-0 group-title="14RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Χριστιανισμός 90 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/52f9f1d7-baf5-4332-8dad-53778e8a4d58.png",Χριστιανισμός 90 - Ρόδος
 http://8.38.78.173:8156/1?1609601322297
-#EXTINF:-0 group-title="11RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Χριστιανισμός FM 104.3 -Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/11bf1694-f82e-4708-a856-24407c62f74e.png",Χριστιανισμός FM 104.3 -Αθήνα
+#EXTINF:-0 group-title="14RADIOS ΕΚΚΛΗΣΙΑ" tvg-name="Χριστιανισμός FM 104.3 -Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/11bf1694-f82e-4708-a856-24407c62f74e.png",Χριστιανισμός FM 104.3 -Αθήνα
 http://eu1.fastcast4u.com:9326/stream
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="80sMania Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/b7f246d3-780f-4969-8d78-d2c1ec563917.png",80sMania Radio
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="80sMania Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/b7f246d3-780f-4969-8d78-d2c1ec563917.png",80sMania Radio
 http://151.80.44.127:8048/;
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="90s Heaven Web Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/b2c23b2c-1d52-422c-8b84-f2cb172e4a7c.jpg",90s Heaven Web Radio
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="90s Heaven Web Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/b2c23b2c-1d52-422c-8b84-f2cb172e4a7c.jpg",90s Heaven Web Radio
 http://node-12.zeno.fm/7vnwha308vzuv?rj-ttl=5&rj-tok=AAABd8SpdfQAchssPf1ywXhZlw
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="902 Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/b55b8c21-1f9a-4c8f-befe-05ccc8cf4ab5.png",902 Radio
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="902 Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/b55b8c21-1f9a-4c8f-befe-05ccc8cf4ab5.png",902 Radio
 http://icecast.902.gr:8000/902.gr
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Arion Kids" tvg-logo="https://www.arionradio.com/_img/logos/arionkids_2.png",Arion Kids
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Arion Kids" tvg-logo="https://www.arionradio.com/_img/logos/arionkids_2.png",Arion Kids
 http://live.arionradio.com/arionkids
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Athens Metro Mall Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/37d146e6-dbf3-4d0a-b5bd-0e6f125703a3.png",Athens Metro Mall Radio
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Athens Metro Mall Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/37d146e6-dbf3-4d0a-b5bd-0e6f125703a3.png",Athens Metro Mall Radio
 http://mmr.yourstreaming.gr:9300/;
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Athens Party" tvg-logo="http://resources.live24.gr/resources/images/stations/0512dc28-bc89-4ee0-b272-5993c7f8a8d8.png",Athens Party
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Athens Party" tvg-logo="http://resources.live24.gr/resources/images/stations/0512dc28-bc89-4ee0-b272-5993c7f8a8d8.png",Athens Party
 http://ice.onestreaming.com/athensparty
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Believe Radio - Χαλκίδα" tvg-logo="https://www.blvradio.gr/wp-content/uploads/believe-radio-logo-master.png",Believe Radio - Χαλκίδα
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Believe Radio - Χαλκίδα" tvg-logo="https://www.blvradio.gr/wp-content/uploads/believe-radio-logo-master.png",Believe Radio - Χαλκίδα
 http://s4.onweb.gr:8484/stream.mp3
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Classic Radio Greece" tvg-logo="http://resources.live24.gr/resources/images/stations/66571b2e-aee0-423b-ac20-bd15462b0350.png",Classic Radio Greece
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Classic Radio Greece" tvg-logo="http://resources.live24.gr/resources/images/stations/66571b2e-aee0-423b-ac20-bd15462b0350.png",Classic Radio Greece
 http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Crash Radio" tvg-logo="https://crashonline.gr/wp-content/uploads/2021/01/radio-400x208.jpg",Crash Radio
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Crash Radio" tvg-logo="https://crashonline.gr/wp-content/uploads/2021/01/radio-400x208.jpg",Crash Radio
 http://n03.radiojar.com/rbx9n33vdg0uv?1611512776764=&rj-tok=AAABdzWuqk4AoqyZqps80JFznw&rj-ttl=5
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Diamond Web Radio - Ρόδος" tvg-logo="https://cdn.simplesite.com/i/c7/87/286541533836576711/i286541539357773886._szw2560h1600_.jpg",Diamond Web Radio - Ρόδος
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Diamond Web Radio - Ρόδος" tvg-logo="https://cdn.simplesite.com/i/c7/87/286541533836576711/i286541539357773886._szw2560h1600_.jpg",Diamond Web Radio - Ρόδος
 http://n0c.radiojar.com/ws24by435bhvv?rj-ttl=5&rj-tok=AAABfofPYgMAx12RgbvCKbKqfg
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Disco FM" tvg-logo="http://resources.live24.gr/resources/images/stations/6c457cf0-ce85-43a9-9a5c-834b2ccbc4de.png",Disco FM
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Disco FM" tvg-logo="http://resources.live24.gr/resources/images/stations/6c457cf0-ce85-43a9-9a5c-834b2ccbc4de.png",Disco FM
 http://eco.onestreaming.com:8015/stream
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Disco Net Radio Athens" tvg-logo="http://resources.live24.gr/resources/images/stations/cde82ef1-c5e0-4b19-919a-cc2c3c2fc491.jpg",Disco Net Radio Athens
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Disco Net Radio Athens" tvg-logo="http://resources.live24.gr/resources/images/stations/cde82ef1-c5e0-4b19-919a-cc2c3c2fc491.jpg",Disco Net Radio Athens
 https://stream1.468.gr/8004/stream
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Discomania" tvg-logo="http://resources.live24.gr/resources/images/stations/4e370f00-589b-4a2f-a513-69e526b04ebb.jpg",Discomania
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Discomania" tvg-logo="http://resources.live24.gr/resources/images/stations/4e370f00-589b-4a2f-a513-69e526b04ebb.jpg",Discomania
 http://radio2.discomaniaradio.com:7000/live
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Hot FM - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/efb80f12-1f46-491d-90f3-b8f1bcdaaed4.jpg",Hot FM - Αθήνα
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Hot FM - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/efb80f12-1f46-491d-90f3-b8f1bcdaaed4.jpg",Hot FM - Αθήνα
 http://hotfm.live24.gr:80/hotfm
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Kasseta Radio" tvg-logo="https://resources.live24.gr/resources/images/stations/c28fea15-107a-4c60-a9c9-6fd0657cd9ca.png",Kasseta Radio
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Kasseta Radio" tvg-logo="https://resources.live24.gr/resources/images/stations/c28fea15-107a-4c60-a9c9-6fd0657cd9ca.png",Kasseta Radio
 https://politismedia-sec.live24.gr/streameekasetta
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="MixMania Radio" tvg-logo="https://www.mixmaniaradio.com/images/logo1.png",MixMania Radio
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="MixMania Radio" tvg-logo="https://www.mixmaniaradio.com/images/logo1.png",MixMania Radio
 https://neos.win:37930/stream
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Πρώτο Ραδιόφωνο" tvg-logo="http://resources.live24.gr/resources/images/stations/3b44c6c9-149a-4ab7-a7c3-465235c446d2.png",Πρώτο Ραδιόφωνο
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Πρώτο Ραδιόφωνο" tvg-logo="http://resources.live24.gr/resources/images/stations/3b44c6c9-149a-4ab7-a7c3-465235c446d2.png",Πρώτο Ραδιόφωνο
 http://n08.radiojar.com/zgpr6b3v6k8uv?rj-ttl=5&rj-tok=AAABd_gmo-cAjNtw1dCt4UzN3A
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Radio Gold - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/80f185d1-d7a3-4637-8bb6-a22406431719.bmp",Radio Gold - Αθήνα
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Radio Gold - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/80f185d1-d7a3-4637-8bb6-a22406431719.bmp",Radio Gold - Αθήνα
 http://radiogold.live24.gr:80/radiogold
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Ράδιο ΜέΡΑ" tvg-logo="https://mera25.gr/wp-content/uploads/2021/01/SLIDER_radio_launch-1-2-768x429.jpg",Ράδιο ΜέΡΑ
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Ράδιο ΜέΡΑ" tvg-logo="https://mera25.gr/wp-content/uploads/2021/01/SLIDER_radio_launch-1-2-768x429.jpg",Ράδιο ΜέΡΑ
 https://uk1.streamingpulse.com/ssl/RadioMera
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Republic Radio - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/548cc5b1-bf78-4b02-8f88-54af327d9916.png",Republic Radio - Θεσσαλονίκη
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Republic Radio - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/548cc5b1-bf78-4b02-8f88-54af327d9916.png",Republic Radio - Θεσσαλονίκη
 http://netradio.live24.gr/republicthess
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Ρυθμός στο Κασετόφωνο" tvg-logo="http://resources.live24.gr/resources/images/stations/aa82dcb8-bd05-4720-a4c9-6fe99ae9833f.png",Ρυθμός Κασετόφωνο
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Ρυθμός στο Κασετόφωνο" tvg-logo="http://resources.live24.gr/resources/images/stations/aa82dcb8-bd05-4720-a4c9-6fe99ae9833f.png",Ρυθμός Κασετόφωνο
 https://stream.radiojar.com/afg1g3aayvduv.mp3
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Ρυθμός Νon Stop Mix" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1616426140/brand_manager/stations/a0ayi4emb5b3yyby0m0r.png",Ρυθμός Νon Stop Mix
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Ρυθμός Νon Stop Mix" tvg-logo="https://media.bauerradio.com/image/upload/c_crop,g_custom/v1616426140/brand_manager/stations/a0ayi4emb5b3yyby0m0r.png",Ρυθμός Νon Stop Mix
 https://stream.rcs.revma.com/pg5mvxz71k8uv?direct=true
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Σαλονικιός Ράδιο - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/cd469932-89e8-4486-8bc1-44582afd3f29.jpg",Σαλονικιός Ράδιο - Θεσσαλονίκη
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Σαλονικιός Ράδιο - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/cd469932-89e8-4486-8bc1-44582afd3f29.jpg",Σαλονικιός Ράδιο - Θεσσαλονίκη
 http://streaming.radionomy.com/JamendoLounge
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Samano Radio" tvg-logo="https://samano-radio.gr/wp-content/uploads/2020/04/Samano-LogoLight.png",Samano Radio
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Samano Radio" tvg-logo="https://samano-radio.gr/wp-content/uploads/2020/04/Samano-LogoLight.png",Samano Radio
 https://streams.radio.co/s8a6d959b1/listen
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Status Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/fb8dca15-d5b0-43bc-a4e5-81a695a8e3af.png",Status Radio
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Status Radio" tvg-logo="http://resources.live24.gr/resources/images/stations/fb8dca15-d5b0-43bc-a4e5-81a695a8e3af.png",Status Radio
 https://cast5.magicstreams.gr/sc/statuswe/stream
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Thess Radio - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/aa08071b-0ab5-4329-89c6-fb801a98e2f9.png",Thess Radio - Θεσσαλονίκη
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Thess Radio - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/aa08071b-0ab5-4329-89c6-fb801a98e2f9.png",Thess Radio - Θεσσαλονίκη
 http://noc.ezhellas.com:30570/thessradio?type=http&nocache=37038
-#EXTINF:-0 group-title="12RADIOS WEB RADIOS" tvg-name="Trito Maestro" tvg-logo="https://www.ert.gr/wp-content/uploads/2022/12/TRITO_MAESTRO_LOGO-640x360-1.jpg",Trito Maestro
+#EXTINF:-0 group-title="15RADIOS WEB RADIOS" tvg-name="Trito Maestro" tvg-logo="https://www.ert.gr/wp-content/uploads/2022/12/TRITO_MAESTRO_LOGO-640x360-1.jpg",Trito Maestro
 https://radiostreaming.ert.gr/ert-trito-maestro
-#EXTINF:-0 group-title="13RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="ABC Radio Sydney" tvg-logo="https://www.abc.net.au/cm/rimage/7893524-1x1-thumbnail.png?v=8",ABC Radio Sydney
+#EXTINF:-0 group-title="16RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="ABC Radio Sydney" tvg-logo="https://www.abc.net.au/cm/rimage/7893524-1x1-thumbnail.png?v=8",ABC Radio Sydney
 https://abcradiolivehls-lh.akamaihd.net/i/localsydney_1@327264/index_48_a-p.m3u8?sd=10&rebase=on
-#EXTINF:-0 group-title="13RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="Kiss FM 87.6" tvg-logo="https://kissfm.com.au/wp-content/uploads/2016/05/kiss-logo-105px.png",Kiss FM 87.6
+#EXTINF:-0 group-title="16RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="Kiss FM 87.6" tvg-logo="https://kissfm.com.au/wp-content/uploads/2016/05/kiss-logo-105px.png",Kiss FM 87.6
 https://s9.nexuscast.com:9565/kissfm.aac
-#EXTINF:-0 group-title="13RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="Mix FM 94.5 Perth" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2FBr58NFwjlto65UlHSpO8rLIn_so5ZpCeg&usqp=CAU",Mix FM 94.5 Perth
+#EXTINF:-0 group-title="16RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="Mix FM 94.5 Perth" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2FBr58NFwjlto65UlHSpO8rLIn_so5ZpCeg&usqp=CAU",Mix FM 94.5 Perth
 https://ais15.scahw.com.au/live/6mix_128.stream/playlist.m3u8?listeningSessionID=5fdb064b08f9665b_873535_jEy8U9B1__00000008Eki&downloadSessionID=0
-#EXTINF:-0 group-title="13RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="Net FM Sydney" tvg-logo="http://www.netfm.net/images/logo.png",Net FM Sydney
+#EXTINF:-0 group-title="16RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="Net FM Sydney" tvg-logo="http://www.netfm.net/images/logo.png",Net FM Sydney
 http://lin2.san.fast-serv.com:6014/stream?listening-from-radio-garden=1609063427387
-#EXTINF:-0 group-title="13RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="Nova 96.9 Sydney" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTANULy9ryNajfY77LUeR8UjxHLp7ZC805s_g&usqp=CAU",Nova 96.9 Sydney
+#EXTINF:-0 group-title="16RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="Nova 96.9 Sydney" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTANULy9ryNajfY77LUeR8UjxHLp7ZC805s_g&usqp=CAU",Nova 96.9 Sydney
 https://23203.live.streamtheworld.com/NOVA_969_AAC48.aac?listening-from-radio-garden=1609062037827
-#EXTINF:-0 group-title="13RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="Plastic Radio Sydney" tvg-logo="https://i0.wp.com/plasticrecordings.com/wp-content/uploads/2020/06/plastic-recordings-logo.jpg?fit=300%2C125&ssl=1",Plastic Radio Sydney
+#EXTINF:-0 group-title="16RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="Plastic Radio Sydney" tvg-logo="https://i0.wp.com/plasticrecordings.com/wp-content/uploads/2020/06/plastic-recordings-logo.jpg?fit=300%2C125&ssl=1",Plastic Radio Sydney
 http://n08.radiojar.com/wdc34p1r8eeuv.m4a?1615321111=&rj-tok=AAABeBitSR4A5OVpJNtK6m_QwA&rj-ttl=5
-#EXTINF:-0 group-title="13RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="SMOOTH FM 91.5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFhZT2sjX31CGDilYhTw03emtw8BYHWZQ6DQ&usqp=CAU",SMOOTH FM 91.5
+#EXTINF:-0 group-title="16RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="SMOOTH FM 91.5" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFhZT2sjX31CGDilYhTw03emtw8BYHWZQ6DQ&usqp=CAU",SMOOTH FM 91.5
 https://23153.live.streamtheworld.com/SMOOTH953_AAC48.aac?dist=neweb&tdsdk=js-2.9&pname=TDSdk&pversion=2.9&banners=none&sbmid=274b246c-7940-4dd3-8831-022a94fa4130
-#EXTINF:-0 group-title="13RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="Starter FM Sydney" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9VSDRheagwqSViJyK6TBDMV3xE8rWemBY9Q&usqp=CAU",Starter FM Sydney
+#EXTINF:-0 group-title="16RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="Starter FM Sydney" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9VSDRheagwqSViJyK6TBDMV3xE8rWemBY9Q&usqp=CAU",Starter FM Sydney
 http://streaming.starterfm.com:8010/starter192?listening-from-radio-garden=1609063290321
-#EXTINF:-0 group-title="13RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="V1 Radio" tvg-logo="https://static.wixstatic.com/media/bd5edf_6da9b7aee9e145a3a1f6038b85555868~mv2.png/v1/crop/x_3,y_3,w_1499,h_1566/fill/w_92,h_96,al_c,usm_0.66_1.00_0.01/PNG%20A.png",V1 Radio
+#EXTINF:-0 group-title="16RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="V1 Radio" tvg-logo="https://static.wixstatic.com/media/bd5edf_6da9b7aee9e145a3a1f6038b85555868~mv2.png/v1/crop/x_3,y_3,w_1499,h_1566/fill/w_92,h_96,al_c,usm_0.66_1.00_0.01/PNG%20A.png",V1 Radio
 https://usa4.fastcast4u.com/proxy/v1radio?mp=/1

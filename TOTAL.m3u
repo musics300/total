@@ -109,10 +109,10 @@ http://push-int.siliconweb.com:80/one/stream/playlist.m3u8
 http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1009120550_b746000_slEN.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="4e" tvg-logo="https://digea.gr/cms/uploads/2021/11/image29-61.jpeg",4E BUP
 http://cdn5.smart-tv-data.com/local/tv4e/playlist.m3u8
-#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="berginatv" tvg-logo="https://digea.gr/cms/uploads/2021/11/vergina.png",BERGINA TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/verginatv/playlist.m3u8
-#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="berginatv" tvg-logo="https://digea.gr/cms/uploads/2021/11/vergina.png",BERGINA TV BUP
-http://cdn5.smart-tv-data.com/local/vergina/playlist.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="berginatv" tvg-logo="https://digea.gr/cms/uploads/2021/11/vergina.png",BERGINA TV 1
+http://verginanews.gr:8080/hls_live/stream1.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="berginatv" tvg-logo="https://digea.gr/cms/uploads/2021/11/vergina.png",BERGINA TV 2
+http://verginanews.gr:8080/hls_live/stream2.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="diontv" tvg-logo="https://digea.gr/cms/uploads/2021/11/dion.jpeg",DION TV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/diontv/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="diontv" tvg-logo="https://digea.gr/cms/uploads/2021/11/dion.jpeg",DION TV BUP
@@ -411,6 +411,8 @@ https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
 https://ertflix.akamaized.net/ertlive/music/default/playlist.m3u8
 #EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-name="ertmusic" tvg-logo="https://files2.app.ertflix.gr/2023/kidschannel/ertflix-music-tv-800x300.png?m=resize&w=240&h=136",ERT MUSIC BUP
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay5_mpeg.2ts
+#EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="",EXTACY TV GR
+https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8
 #EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="https://i.imgur.com/hn4RTdq.png",FOX TV
 http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
 #EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="https://i.imgur.com/fvAedfp.png",HOTBEATS TV
@@ -445,6 +447,8 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="https://i.imgur.com/Oc20zmZ.png",NOW ROCK
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="",OMIKRON TV
+https://media.omikrontv.gr/live/playlist.m3u8
 #EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn-knRAxWQhUKdYi8ybO7pwdGreDcum97aAg&usqp=CAU",PANIK TV
 https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
 #EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="https://i.imgur.com/VbbjDTD.png",PLAY TV

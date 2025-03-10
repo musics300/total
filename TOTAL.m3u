@@ -112,7 +112,7 @@ http://cdn5.smart-tv-data.com/local/tv4e/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="berginatv" tvg-logo="https://digea.gr/cms/uploads/2021/11/vergina.png",BERGINA TV 1
 http://verginanews.gr:8080/hls_live/stream1.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="diontv" tvg-logo="https://digea.gr/cms/uploads/2021/11/dion.jpeg",DION TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/diontv/playlist.m3u8
+https://til.pp.ua:3156/live/diontvlive.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="diontv" tvg-logo="https://digea.gr/cms/uploads/2021/11/dion.jpeg",DION TV BUP
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/DionTvKentrikisMakedonias.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="egnatia" tvg-logo="https://www.alf.gr/wp-content/uploads/2019/04/%CE%B5%CE%B3%CE%BD%CE%B1%CF%84%CE%AF%CE%B1-tv.jpg",EGNATIA TV
@@ -140,7 +140,7 @@ https://raw.githubusercontent.com/jimgate07/grtv/master/streams/Top_Channel_Gree
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="alfa" tvg-logo="https://i.imgur.com/39l3uRU.jpg",ALFA TV
 https://av.hellasnet.tv/rest2.live.hn/alf/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="centertv" tvg-logo="https://digea.gr/cms/uploads/2021/11/CENTER-%CE%A4%CE%97%CE%9B%CE%95%CE%9F%CE%A1%CE%91%CE%A3%CE%97-id-5710-scaled.jpg",CENTER TV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/centertv.m3u8
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/centertv.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="deltatv" tvg-logo="https://digea.gr/cms/uploads/2021/11/diktio-1.jpeg",ΔΕΛΤΑ TV
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="deltatv" tvg-logo="https://digea.gr/cms/uploads/2021/11/diktio-1.jpeg",ΔΕΛΤΑ TV BUP
@@ -533,6 +533,10 @@ https://new.cache-stream.workers.dev/stream/UCm3hAp1m1xlAz0ve_EKAo4g/live.m3u8
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="08TV ΕΚΚΛΗΣΤΙΑΣΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/nxoHQqz.png",ΕΚΚΛΗΣΙΑ TV HD BUP
 https://opentv-livehybrid.siliconweb.com/openTvLive/openEcclessia/manifest.mpd
+#EXTINF:-1 group-title="08TV ΕΚΚΛΗΣΤΙΑΣΤΙΚΑ" tvg-name="4e" tvg-logo="https://digea.gr/cms/uploads/2021/11/image29-61.jpeg",4E
+http://eu2.tv4e.gr:1935/live/smil:myStream.sdp.smil/chunklist_w1009120550_b746000_slEN.m3u8
+#EXTINF:-1 group-title="08TV ΕΚΚΛΗΣΤΙΑΣΤΙΚΑ" tvg-name="4e" tvg-logo="https://digea.gr/cms/uploads/2021/11/image29-61.jpeg",4E BUP
+http://cdn5.smart-tv-data.com/local/tv4e/playlist.m3u8
 #EXTINF:-1 group-title="09TV WEB TV" tvg-logo="https://i.imgur.com/mDk6HkP.png",AEGEAN LIVE
 https://2-fss-1.streamhoster.com/pl_148/203374-5742530-1/chunklist.m3u8
 #EXTINF:-1 group-title="09TV WEB TV" tvg-logo="https://i.imgur.com/aZpv6l9.png",BCI 24 NEWS

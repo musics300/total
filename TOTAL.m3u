@@ -128,9 +128,9 @@ https://live.streams.ovh:8081/gnomitv/index.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="gnomitv" tvg-logo="https://digea.gr/cms/uploads/2021/11/gnomi.jpeg",GNOMI TV BUP
 http://cdn5.smart-tv-data.com/local/gnomitv/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="tv100" tvg-logo="https://digea.gr/cms/uploads/2021/11/tv100.jpeg",TV 100
-https://live.fm100.gr/hls/tv100/1_2/index.m3u8
+https://panel.gwebstream.eu:19360/tv100skg/tv100skg.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="tv100" tvg-logo="https://digea.gr/cms/uploads/2021/11/tv100.jpeg",TV 100 BUP
-http://cdn5.smart-tv-data.com/local/fm100/playlist.m3u8
+https://panel.gwebstream.eu:19360/tv100skg/720p.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="pellatv" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKatK4TnrQlN4pCBf76pkkdeGQJRiv51Zp0_FI2l=s900-c-k-c0x00ffffff-no-rj",PELLA TV
 https://video.streams.ovh:1936/pellatv/pellatv/master.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ" tvg-name="diktyo1" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/diktyo1-id-5310.png?itok=zvP-XQqM",DIKTYO1

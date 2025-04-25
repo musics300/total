@@ -399,6 +399,14 @@ https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/34100tv.m3u8
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/CinemaTime2.m3u8
 #EXTINF:-1 group-title="05TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://www.lakatamia.tv/media/images/articles2/diavata.jpg",ΔΙΑΒΑΤΑ TV
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
+#EXTINF:-1 group-title="05TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://extacytv.gr/images/dark-logo.png",EXTACY TV
+https://fr.crystalweb.net:1936/extacytv/extacytv/chunklist_w1145927568.m3u8
+#EXTINF:-1 group-title="05TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://extacytv.gr/images/dark-logo.png",EXTACY TV CINEMA
+https://fr.crystalweb.net:1936/extacytv/extacytv/chunklist_w1276274239.m3u8
+#EXTINF:-1 group-title="05TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://extacytv.gr/images/dark-logo.png",EXTACY TV CINEMA 2
+https://fr.crystalweb.net:1936/extacytvcinema/extacytvcinema/playlist.m3u8
+#EXTINF:-1 group-title="05TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://extacytv.gr/images/dark-logo.png",EXTACY TV GREEKS
+https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/chunklist_w1563549584.m3u8
 #EXTINF:-1 group-title="05TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/dwF0jlz.png",GALAXY GR
 https://channel.streams.ovh:1936/galaxygr-1/galaxygr-1/chunklist_w1308142730.m3u8
 #EXTINF:-1 group-title="05TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
@@ -463,6 +471,8 @@ https://pro.free.hr:3464/live/l69plive.m3u8
 http://ellastv.gotdns.com:88/freetv/madworldtv/index.m3u8
 #EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="https://i.imgur.com/kjhj78D.png",MAGIC TV
 https://itv.streams.ovh/magictv/magictv/chunklist_w1756689548.m3u8
+#EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="",MEDIA ONE TV
+https://ellastvmax.better-than.tv/freetv/vertis/index.m3u8
 #EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="https://i.imgur.com/Y0jPdDL.png",MESSINIA TV
 https://til.pp.ua:3303/live/messiniatvlive.m3u8
 #EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="https://i.imgur.com/71ZSVYE.png",MUSIC WEB TV
@@ -497,6 +507,8 @@ https://www.youtube.com/watch?v=m3kSzto1HxU
 https://web.onair-radio.eu/video/video/chunklist_w2109272656.m3u8
 #EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="https://i.imgur.com/f9dWrMd.png",RYTHMOS TV
 https://5c389faa13be3.streamlock.net:9553/rythmos/rythmos/playlist.m3u8
+#EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="",SUPERSTAR TV
+https://eu1.streams.gr:8081/superstartv/index.m3u8
 #EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="https://i.imgur.com/eXjSK6p.png",TILEMOUSIKI
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tilemousiki/playlist.m3u8
 #EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="https://i.imgur.com/eXjSK6p.png",TILEMOUSIKI BUP
@@ -525,6 +537,8 @@ https://cartoontv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
 https://ertflix.akamaized.net/ertlive/kids/default/playlist.m3u8
 #EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://files2.app.ertflix.gr/2023/kidschannel/ertflix-kids-tv-800x300.png?m=resize&w=240&h=136",ERT KIDS BUP
 http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts
+#EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-logo="https://extacytv.gr/images/dark-logo.png",EXTACY TV KIDS
+https://fr.crystalweb.net:1936/extacytvkids/extacytvkids/chunklist_w1892795642.m3u8
 #EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-name="" tvg-logo="https://vhx.imgix.net/zouzouniatv/assets/d70feae9-8676-4a9d-85ec-6d4941128977.jpg?auto=format%2Ccompress&fit=crop&h=720&w=1280",ZOUZOUNIA TV(ENIGMA2)
 http://localhost:88/https://www.youtube.com/watch?v=or1Bqp6s1ec
 #EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-name="kidstv" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV

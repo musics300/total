@@ -2,11 +2,15 @@
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://fiber100.gr/images/eon/channels/ellhnika/1hd.png",01ERT1 HD 
 https://ertflix.akamaized.net/ertlive/ert1/clrdef24723b/playlist.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://fiber100.gr/images/eon/channels/ellhnika/1hd.png",01ERT1 HD BUP
-https://eu5cdn.overotm.com/abr_amd10/ert1/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/10/2hd.png",02ERT2 HD
+https://spark3.smart-tv-data.com/ert1HD/ert1HD/playlist.m3u8
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/10/2hd.png",02ERT2 SPOR HD
 https://ertflix.akamaized.net/ertlive/ert2/clrdef24828z/playlist.m3u8
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/10/2hd.png",02ERT2 SPOR HD BUP
+https://ertflix-greece.siliconweb.com/cmaf/618618_2341557/index.mpd
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://www.zappit.gr/wp-content/uploads/2023/08/ERT3-1200x675.jpg",03ERT3 HD
 https://ertflix.akamaized.net/ertlive/ert3/clrdef24828n/playlist.m3u8
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://www.zappit.gr/wp-content/uploads/2023/08/ERT3-1200x675.jpg",03ERT3 HD BUP
+https://ertflix-greece.siliconweb.com/cmaf/618618_2341560/index.mpd
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://www.ertnews.gr/wp-content/uploads/2022/09/ERTNEWS-768x399.jpg",04ERT NEWS HD
 http://ertflix.siliconweb.com/mpegts/618618_2341569/master_mpegts.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://www.ertnews.gr/wp-content/uploads/2022/09/ERTNEWS-768x399.jpg",04ERT NEWS HD BUP
@@ -15,24 +19,30 @@ http://hbbtvapp.ert.gr/stream.php/v/vid_ertnews_mpeg.2ts
 http://195.226.218.10:80/vid/ertnews/mpeg.2ts
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/ant1.png?itok=7liltkZP",05ANT1 HD
 http://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/ant1.png?itok=7liltkZP",05ANT1 HD BUP
+https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/yyp6tS5.png",06MEGA HD
 http://c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/yyp6tS5.png",06MEGA HD BUP
-https://streamcdng16-c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/yyp6tS5.png",06MEGA HD BUP 2
-https://streamcdnh10-c98db5952cb54b358365984178fb898a.msvdn.net/live/S14373792/aGr5KG7RcZ9a/playlist.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-alpha-tv.png?itok=uXwVK_Vz",07ALPHA HD
-http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-alpha-tv.png?itok=uXwVK_Vz",07ALPHA HD BUP
 https://alphatvlive.siliconweb.com/alphatvlive/live_abr/playlist.m3u8
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-alpha-tv.png?itok=uXwVK_Vz",07ALPHA HD BUP 2
+http://alphatvlive.siliconweb.com/1/Y2Rsd1lUcUVoajcv/UVdCN25h/hls/live/playlist.m3u8
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-alpha-tv.png?itok=uXwVK_Vz",07ALPHA HD BUP 3
+https://alphatvlive2.siliconweb.com/alphatvlive/live_abr/alphatvlive/live_source/playlist.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="star" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-star.jpg?itok=2YRMfUH0",08STAR HD 
-https://livestar.siliconweb.com/media/star1/star1mediumhd.m3u8
+https://livestar.siliconweb.com/media/star4/star4.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="skai" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-skai.jpg?itok=QqmwQ6nL",09SKAI HD 
-http://skai-live-back.siliconweb.com/media/cambria4/index_bitrate2000K.m3u8
+https://skai-live.siliconweb.com/media/cambria4/index.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-open.jpg?itok=8rHJyaOj",10OPEN BEYOND HD
-https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playlist.m3u8
+https://liveopen.siliconweb.com/openTvLive/liveopen/playlist.m3u8
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="open" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-open.jpg?itok=8rHJyaOj",10OPEN BEYOND HD BUP
+https://spark3.smart-tv-data.com/openHD/openHD/playlist.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-makedonia-tv.png?itok=4LTEGqLS",11MAKTV
-http://dlm34ll53zqql.cloudfront.net/out/v1/d4177931deff4c7ba994b8126d153d9f/maktv.m3u8
+https://mcdn.antennaplus.gr/live/media0/MAK/HLS/MAK.m3u8
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mtv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-makedonia-tv.png?itok=4LTEGqLS",11MAKTV BUP
+https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="voulitv" tvg-logo="https://www.iathens.gr/wp-content/uploads/2020/04/vouli.jpg",12ΒΟΥΛΗ 
 https://ertflix.akamaized.net/ertlive/vouli/default/playlist.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="voulitv" tvg-logo="https://www.iathens.gr/wp-content/uploads/2020/04/vouli.jpg",12ΒΟΥΛΗ BUP
@@ -45,12 +55,6 @@ http://vid1.megatv-ctv.com/mega/meganews/playlist.m3u8
 http://vid1.megatv-ctv.com/mega/meganews/mpeg.2ts
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="meganews" tvg-logo="https://i.imgur.com/owoR8Xi.png",14MEGA NEWS BUP 2
 https://streamcdnh5-c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="megaplay" tvg-logo="https://i.imgur.com/bZTT75j.png",15MEGA PLAY
-https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="megaplay" tvg-logo="https://i.imgur.com/bZTT75j.png",15MEGA PLAY BUP
-http://vid1.megatv-ctv.com/mega/megasport/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="megaplay" tvg-logo="https://i.imgur.com/bZTT75j.png",15MEGA PLAY BUP 2
-http://vid1.megatv-ctv.com/mega/megasport/mpeg.2ts
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertworld" tvg-logo="https://static.wikia.nocookie.net/kanal/images/9/97/ERT_World%282006-2008%29.png/revision/latest/scale-to-width-down/250?cb=20170622122028&path-prefix=el",16ERT WORLD
 https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertworld" tvg-logo="https://static.wikia.nocookie.net/kanal/images/9/97/ERT_World%282006-2008%29.png/revision/latest/scale-to-width-down/250?cb=20170622122028&path-prefix=el",16ERT WORLD
@@ -59,12 +63,6 @@ http://hbbtv.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertvouligr" tvg-logo="https://i.ytimg.com/vi/jYC7uvHWS50/mqdefault.jpg",17ΒΟΥΛΗ 3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/ztyDDH1.png",18EURONEWS GR
-https://ertflix.akamaized.net/ertlive/euronewsgr/default/index.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/ztyDDH1.png",18EURONEWS GR BUP
-http://195.226.218.163/vid/euronewsgr/mpeg.2ts
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="Euronews Greek" tvg-logo="https://i.imgur.com/ztyDDH1.png",18EURONEWS GR BUP 2
-https://ythls-v4.onrender.com/channel/UC8HJZNfDPoySgW9DN3YGNaA.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/mofBxUA.png",19EURONEWS UK
 https://ertflix.akamaized.net/ertlive/euronewsuk/default/index.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/mofBxUA.png",19EURONEWS UK BUP
@@ -357,9 +355,15 @@ http://hbbtv.ert.gr/stream.php/v/vid_ertplay2_mpeg.2ts
 https://ertflix-greece.siliconweb.com/mpegts/618618_3479298/master_mpegts.m3u8
 #EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/IGqJDwD.png",03ERT SPORTS 3 BUP
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay3_mpeg.2ts
-#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/JGTSM7v.png",04SKAI HYBRID (NOT 24/7)
+#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/owoR8Xi.png",04MEGA NEWS
+https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/playlist.m3u8
+#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/owoR8Xi.png",04MEGA NEWS BUP
+http://vid1.megatv-ctv.com/mega/meganews/mpeg.2ts
+#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-logo="https://i.imgur.com/owoR8Xi.png",04MEGA NEWS BUP 2
+http://195.226.218.167/mega/meganews/mpeg.2ts
+#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/JGTSM7v.png",05SKAI HYBRID (NOT 24/7)
 https://skai-live-sports.siliconweb.com/skai/livesport1/playlist.m3u8
-#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/JGTSM7v.png",04SKAI HYBRID (NOT 24/7) BUP
+#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/JGTSM7v.png",05SKAI HYBRID (NOT 24/7) BUP
 https://skai-ligue1.siliconweb.com/skai/livesport1/playlist.m3u8
 #EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/JGTSM7v.png",05SKAI HYBRID 2 (NOT 24/7)
 https://skai-live-sports.siliconweb.com/skai/livesport2/playlist.m3u8
@@ -447,10 +451,6 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="",ELLINIKOS FM
 https://til.pp.ua:3093/live/ellinikosfmlive.m3u8
-#EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-name="ertmusic" tvg-logo="https://files2.app.ertflix.gr/2023/kidschannel/ertflix-music-tv-800x300.png?m=resize&w=240&h=136",ERT MUSIC
-https://ertflix.ascdn.broadpeak.io/ertlive/music/default/index.m3u8
-#EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-name="ertmusic" tvg-logo="https://files2.app.ertflix.gr/2023/kidschannel/ertflix-music-tv-800x300.png?m=resize&w=240&h=136",ERT MUSIC BUP
-http://hbbtv.ert.gr/stream.php/v/vid_ertplay5_mpeg.2ts
 #EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="",EXTACY TV GR
 https://fr.crystalweb.net:1936/extacytvgreeks/extacytvgreeks/playlist.m3u8
 #EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="https://i.imgur.com/hn4RTdq.png",FOX TV
@@ -987,5 +987,6 @@ https://23153.live.streamtheworld.com/SMOOTH953_AAC48.aac?dist=neweb&tdsdk=js-2.
 http://streaming.starterfm.com:8010/starter192?listening-from-radio-garden=1609063290321
 #EXTINF:-0 group-title="16RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="V1 Radio" tvg-logo="https://static.wixstatic.com/media/bd5edf_6da9b7aee9e145a3a1f6038b85555868~mv2.png/v1/crop/x_3,y_3,w_1499,h_1566/fill/w_92,h_96,al_c,usm_0.66_1.00_0.01/PNG%20A.png",V1 Radio
 https://usa4.fastcast4u.com/proxy/v1radio?mp=/1
+
 
 

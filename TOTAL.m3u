@@ -371,25 +371,33 @@ https://skai-live-sports.siliconweb.com/skai/livesport2/playlist.m3u8
 http://cdn5.smart-tv-data.com/skai/skaisport2/mpeg.2ts
 #EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/JGTSM7v.png",05SKAI HYBRID 3 (NOT 24/7)
 http://cdn5.smart-tv-data.com/skai/skaisport3/mpeg.2ts
-#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/huMK9of.png",06MONOBALA 1 (NOT 24/7)
+#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="",06SPORTAL1
+https://telmaco-cdn.akamaized.net/service1/default/index.m3u8
+#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="",06SPORTAL2
+https://telmaco-cdn.akamaized.net/service2/default/index.m3u8
+#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="",06SPORTAL3
+https://telmaco-cdn.akamaized.net/service3/default/index.m3u8
+#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="",06SPORTAL4
+https://telmaco-cdn.akamaized.net/service4/default/index.m3u8
+#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/huMK9of.png",07MONOBALA 1 (NOT 24/7)
 https://live-world-monobala.siliconweb.com/monobala/livesport1/chunks.m3u8
-#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/huMK9of.png",07MONOBALA 2(NOT 24/7)
+#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/huMK9of.png",08MONOBALA 2(NOT 24/7)
 https://live-world-monobala.siliconweb.com/monobala/livesport2/chunks.m3u8
-#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/huMK9of.png",08MONOBALA 3(NOT 24/7)
+#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/huMK9of.png",09MONOBALA 3(NOT 24/7)
 https://live-monobala.siliconweb.com/monobala/livesport3/playlist.m3u8
-#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/huMK9of.png",09MONOBALA 4(NOT 24/7)
+#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/huMK9of.png",10MONOBALA 4(NOT 24/7)
 https://live-monobala.siliconweb.com/monobala/shows/chunks.m3u8
-#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="xxsports" tvg-logo="https://www.xxsports.org/wp-content/uploads/2024/03/xxsports-small-cr.png",10XXSPORTS 1(ENIGMA2)
+#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="xxsports" tvg-logo="https://www.xxsports.org/wp-content/uploads/2024/03/xxsports-small-cr.png",11XXSPORTS 1(ENIGMA2)
 http://localhost:88/https://www.youtube.com/watch?v=iBXJquADaWw
-#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="odie" tvg-logo="https://i.imgur.com/bvEkbRI.png",11ΠΑΜΕ ΣΤΟΙΧΗΜΑ RACING (ΙΠΠΟΔΡΟΜΙΕΣ)
+#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="odie" tvg-logo="https://i.imgur.com/bvEkbRI.png",12ΠΑΜΕ ΣΤΟΙΧΗΜΑ RACING (ΙΠΠΟΔΡΟΜΙΕΣ)
 https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
-#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="opaptv" tvg-logo="https://i.imgur.com/Jtc6poN.png",12ΟΠΑΠ TV
+#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="opaptv" tvg-logo="https://i.imgur.com/Jtc6poN.png",13ΟΠΑΠ TV
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
-#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="alfasportscy" tvg-logo="https://i.imgur.com/Gl7PuMJ.png",13ALFA SPORTS CY
+#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="alfasportscy" tvg-logo="https://i.imgur.com/Gl7PuMJ.png",14ALFA SPORTS CY
 https://dev.aftermind.xyz/hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/Jm0SnfX.png",14ΑΡΓΟΛΙΔΑ SPORT TV
+#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/Jm0SnfX.png",15ΑΡΓΟΛΙΔΑ SPORT TV
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/BKbpb3fdLjOtECipgarfjEKnzzM-z1eUxnpFddCsEpDtkHs2Es9h7kj8akADfI1lL9C_TwxZkNo=s900-c-k-c0x00ffffff-no-rj",15ΑΝΤΕ ΓΕΙΑ
+#EXTINF:-1 group-title="04TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/BKbpb3fdLjOtECipgarfjEKnzzM-z1eUxnpFddCsEpDtkHs2Es9h7kj8akADfI1lL9C_TwxZkNo=s900-c-k-c0x00ffffff-no-rj",16ΑΝΤΕ ΓΕΙΑ
 https://new.cache-stream.workers.dev/stream/UCa-t8ek0GIZxqpLH7Z6QSyA/live.m3u8
 #EXTINF:-1 group-title="05TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="Ant1 Comedy" tvg-logo="https://i.imgur.com/V1byeFi.png",ANT1 COMEDY
 https://mcdn.antennaplus.gr/live/media0/Comedy/HLS/Comedy.m3u8
@@ -987,6 +995,7 @@ https://23153.live.streamtheworld.com/SMOOTH953_AAC48.aac?dist=neweb&tdsdk=js-2.
 http://streaming.starterfm.com:8010/starter192?listening-from-radio-garden=1609063290321
 #EXTINF:-0 group-title="16RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="V1 Radio" tvg-logo="https://static.wixstatic.com/media/bd5edf_6da9b7aee9e145a3a1f6038b85555868~mv2.png/v1/crop/x_3,y_3,w_1499,h_1566/fill/w_92,h_96,al_c,usm_0.66_1.00_0.01/PNG%20A.png",V1 Radio
 https://usa4.fastcast4u.com/proxy/v1radio?mp=/1
+
 
 
 

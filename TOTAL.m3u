@@ -410,7 +410,7 @@ https://lcdn.antennaplus.gr/r2921141ed585493580aba05cf37a76cb/eu-central-1/64158
 #EXTINF:-1 group-title="05TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="Ant1 Drama" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA
 https://lcdn.antennaplus.gr/r123fc9b6eb1b493fa0ac71004f572652/eu-central-1/6415884360001/playlist.m3u8
 #EXTINF:-1 group-title="05TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://yt3.googleusercontent.com/FJVN-SVo3if3gcZ6-RdRDYCAktj90AslHj8Xq8-IZrWn7ct2Vct3ExYYGSyd89YbKNwN5td1pg=s900-c-k-c0x00ffffff-no-rj",CINEMA CLASSICS
-https://rtmp.streams.ovh:1936/cinemaclassics/cinemaclassics/chunklist_w1183279843.m3u8
+https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
 #EXTINF:-1 group-title="05TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://previews.123rf.com/images/woters/woters1705/woters170500015/77226875-cinema-time-vector-logo-symbol-or-emblem.jpg",CINEMA TIME
 https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/34100tv.m3u8
 #EXTINF:-1 group-title="05TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://previews.123rf.com/images/woters/woters1705/woters170500015/77226875-cinema-time-vector-logo-symbol-or-emblem.jpg",CINEMA TIME 2
@@ -545,22 +545,24 @@ https://www.youtube.com/watch?v=N2S4RaAdnGQ
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-name="babysharktv" tvg-logo="https://i.imgur.com/KSZHQe4.png",BABY SHARK TV BUP
 https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
-#EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-name="cartoontvcy" tvg-logo="https://www.cartoontv.cy/CmsMedia/Uploads/Logos/CartoonTV_FB.png",CARTOON TV CY
-https://cartoontv.cy/CmsMedia/Uploads/Videos/Live/stream/stream.m3u8
+#EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-name="cartoontvcy" tvg-logo="https://www.cartoontv.cy/CmsMedia/Uploads/Logos/CartoonTV_FB.png",CARTOON TV 
+https://494e639cacb24ad484819d7154a3f100.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_KidsPangTV/playlist.m3u8
+#EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/SVnN5Xl.png",DUCK TV
+https://dz4jacps8l0pw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-h2eezuzejgrr2-ssai-prd/playlist.m3u8
 #EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://files2.app.ertflix.gr/2023/kidschannel/ertflix-kids-tv-800x300.png?m=resize&w=240&h=136",ERT KIDS
 https://ertflix.ascdn.broadpeak.io/ertlive/kids/default/index.m3u8
-#EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-logo="https://extacytv.gr/images/dark-logo.png",EXTACY TV KIDS
-https://fr.crystalweb.net:1936/extacytvkids/extacytvkids/chunklist_w1892795642.m3u8
+#EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-name="ertkids" tvg-logo="https://files2.app.ertflix.gr/2023/kidschannel/ertflix-kids-tv-800x300.png?m=resize&w=240&h=136",ERT KIDS BUP
+http://195.226.218.163/vid/kidstv-hbbtv/mpeg.2ts
 #EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-name="" tvg-logo="https://vhx.imgix.net/zouzouniatv/assets/d70feae9-8676-4a9d-85ec-6d4941128977.jpg?auto=format%2Ccompress&fit=crop&h=720&w=1280",ZOUZOUNIA TV(ENIGMA2)
-http://localhost:88/https://www.youtube.com/watch?v=or1Bqp6s1ec
+http://localhost:88/https://www.youtube.com/watch?v=QQUpZI3BUCY
 #EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-name="kidstv" tvg-logo="https://i.imgur.com/7sUmqv2.png",KIDS TV
 http://65.108.62.57:8080/live4/kidshd.m3u8
-#EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-name="nickelodeon" tvg-logo="https://i.imgur.com/5cZSHiJ.png",NICKELODEON
-http://143.244.60.30/NICKELODEON/index.m3u8
+#EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/PksoVXP.png",MR BEAN ANIMATED
+https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 #EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-name="oggy" tvg-logo="https://static.wikia.nocookie.net/p__/images/0/06/1618209642054.png/revision/latest/thumbnail/width/360/height/360?cb=20210412064150&path-prefix=protagonist",OGGY(ENIGMA2)
-http://localhost:88/https://www.youtube.com/watch?v=gI9mb0R_mX0
-#EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-logo="https://play-lh.googleusercontent.com/aikcFU98JDbgQLxoKSOXJ7kC4qNFf2fFSo9di7S2y8qccKbB3ceAmwQaAjIli34HbA",TALKING TOM
-https://new.cache-stream.workers.dev/stream/UCm3hAp1m1xlAz0ve_EKAo4g/live.m3u8
+http://localhost:88/https://www.youtube.com/watch?v=dYGEtRvdxIo
+#EXTINF:-1 group-title="07TV ΠΑΙΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/5cZSHiJ.png",RETRO CARTOONS
+https://streams2.sofast.tv/ptnr-yupptv/title-CARTOON-TV-CLASSICS-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/d5543c06-5122-49a7-9662-32187f48aa2c/manifest.m3u8
 #EXTINF:-1 group-title="08TV ΕΚΚΛΗΣΤΙΑΣΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/nxoHQqz.png",ΕΚΚΛΗΣΙΑ TV HD
 https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
 #EXTINF:-1 group-title="08TV ΕΚΚΛΗΣΤΙΑΣΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/nxoHQqz.png",ΕΚΚΛΗΣΙΑ TV HD BUP
@@ -999,6 +1001,7 @@ https://23153.live.streamtheworld.com/SMOOTH953_AAC48.aac?dist=neweb&tdsdk=js-2.
 http://streaming.starterfm.com:8010/starter192?listening-from-radio-garden=1609063290321
 #EXTINF:-0 group-title="16RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="V1 Radio" tvg-logo="https://static.wixstatic.com/media/bd5edf_6da9b7aee9e145a3a1f6038b85555868~mv2.png/v1/crop/x_3,y_3,w_1499,h_1566/fill/w_92,h_96,al_c,usm_0.66_1.00_0.01/PNG%20A.png",V1 Radio
 https://usa4.fastcast4u.com/proxy/v1radio?mp=/1
+
 
 
 

@@ -91,10 +91,6 @@ https://ertflix.ascdn.broadpeak.io/ertlive/tv5/default/index.m3u8
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΤΤΙΚΗ" tvg-name="action24" tvg-logo="https://digea.gr/cms/uploads/2023/08/ACTION24-id-5000_.png",ACTION 24 BUP
 http://cdn5.smart-tv-data.com/local/action24/playlist.m3u8
-#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΤΤΙΚΗ" tvg-name="atticatv" tvg-logo="https://i.imgur.com/s3qWC9W.png",ATTICA TV
-http://atticatv.siliconweb.com/atticatv/atticaliveabr/playlist.m3u8
-#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΤΤΙΚΗ" tvg-name="atticatv" tvg-logo="https://i.imgur.com/s3qWC9W.png",ATTICA TV BUP
-http://cdn5.smart-tv-data.com/local/atticatv/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΤΤΙΚΗ" tvg-name="alert" tvg-logo="https://digea.gr/cms/uploads/2021/11/image78-121.png",ALERT
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΤΤΙΚΗ" tvg-name="alert" tvg-logo="https://digea.gr/cms/uploads/2021/11/image78-121.png",ALERT BUP
@@ -485,6 +481,10 @@ https://itv.streams.ovh/magictv/magictv/chunklist_w1756689548.m3u8
 https://ellastvmax.better-than.tv/freetv/vertis/index.m3u8
 #EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="https://i.imgur.com/Y0jPdDL.png",MESSINIA TV
 https://til.pp.ua:3303/live/messiniatvlive.m3u8
+#EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="",MTV CLASSICS US
+https://fl61.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="",MTV LIVE US
+https://fl61.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="https://i.imgur.com/71ZSVYE.png",MUSIC WEB TV
 https://vodlive.streams.ovh:3165/stream/play.m3u8
 #EXTINF:-1 group-title="06TV ΜΟΥΣΙΚΑ" tvg-logo="https://i.imgur.com/FKV0hAw.png",NASOS TV RADIO
@@ -997,6 +997,7 @@ https://23153.live.streamtheworld.com/SMOOTH953_AAC48.aac?dist=neweb&tdsdk=js-2.
 http://streaming.starterfm.com:8010/starter192?listening-from-radio-garden=1609063290321
 #EXTINF:-0 group-title="16RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="V1 Radio" tvg-logo="https://static.wixstatic.com/media/bd5edf_6da9b7aee9e145a3a1f6038b85555868~mv2.png/v1/crop/x_3,y_3,w_1499,h_1566/fill/w_92,h_96,al_c,usm_0.66_1.00_0.01/PNG%20A.png",V1 Radio
 https://usa4.fastcast4u.com/proxy/v1radio?mp=/1
+
 
 
 

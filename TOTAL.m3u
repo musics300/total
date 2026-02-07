@@ -403,27 +403,27 @@ https://new.cache-stream.workers.dev/stream/UCa-t8ek0GIZxqpLH7Z6QSyA/live.m3u8
 https://lcdn.antennaplus.gr/r2921141ed585493580aba05cf37a76cb/eu-central-1/6415884360001/playlist.m3u8
 #EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="Ant1 Drama" tvg-logo="https://i.imgur.com/5QDNhXo.png",ANT1 DRAMA
 https://lcdn.antennaplus.gr/r123fc9b6eb1b493fa0ac71004f572652/eu-central-1/6415884360001/playlist.m3u8
-#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://yt3.googleusercontent.com/FJVN-SVo3if3gcZ6-RdRDYCAktj90AslHj8Xq8-IZrWn7ct2Vct3ExYYGSyd89YbKNwN5td1pg=s900-c-k-c0x00ffffff-no-rj",CINEMA CLASSICS
+#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/FJVN-SVo3if3gcZ6-RdRDYCAktj90AslHj8Xq8-IZrWn7ct2Vct3ExYYGSyd89YbKNwN5td1pg=s900-c-k-c0x00ffffff-no-rj",CINEMA CLASSICS
 https://tv.mediacp.eu:8081/cinemaclassics/index.m3u8
-#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="",DIPOLO
+#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="" tvg-logo="",DIPOLO
 https://channel.streams.ovh:8081/dipolotv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://extacytv.gr/images/dark-logo.png",EXTACY TV
+#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="" tvg-logo="https://extacytv.gr/images/dark-logo.png",EXTACY TV
 https://eu1.servers10.com:8081/8238/index.m3u8
-#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://extacytv.gr/images/dark-logo.png",EXTACY TV CINEMA
+#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="" tvg-logo="https://extacytv.gr/images/dark-logo.png",EXTACY TV CINEMA
 https://eu1.servers10.com:8081/8244/index.m3u8
-#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://extacytv.gr/images/dark-logo.png",EXTACY TV GREEKS
+#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="" tvg-logo="https://extacytv.gr/images/dark-logo.png",EXTACY TV GREEKS
 https://eu1.servers10.com:8081/8242/index.m3u8
-#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
+#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="" tvg-logo="https://i.imgur.com/0iklNh2.png",GROOVY
 http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
-#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://play-lh.googleusercontent.com/279oVDD1QsgRj2Cmlveq3oQAB8RV8S-VJp7HhiqKLvz_fb6nF3G3zHGdSlE_bcuclqY",NET TV EUROPE HD
+#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/279oVDD1QsgRj2Cmlveq3oQAB8RV8S-VJp7HhiqKLvz_fb6nF3G3zHGdSlE_bcuclqY",NET TV EUROPE HD
 https://eu1.vectromdigital.com:1936/netveurope/netveurope/playlist.m3u8
-#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/eLlhT4f.png",NET TV TORONTO HD
+#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="" tvg-logo="https://i.imgur.com/eLlhT4f.png",NET TV TORONTO HD
 https://eu1.vectromdigital.com:1936/netvtoronto/netvtoronto/playlist.m3u8
-#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://play-lh.googleusercontent.com/ezIADQ2eTzu53Nv_3wBj9FFUNyLwN4LC0WVmPubr-fCT1_zyV4dVbjGhs9iOw5SPbD2W",NETMAX TV
+#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="" tvg-logo="https://play-lh.googleusercontent.com/ezIADQ2eTzu53Nv_3wBj9FFUNyLwN4LC0WVmPubr-fCT1_zyV4dVbjGhs9iOw5SPbD2W",NETMAX TV
 https://es1.crystalweb.net:1936/netmaxtv/netmaxtv/playlist.m3u8
-#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/Y5UFoF6.png",SIERRA CHANNEL
+#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="" tvg-logo="https://i.imgur.com/Y5UFoF6.png",SIERRA CHANNEL
 https://fr.crystalweb.net:1936/sierra/sierra/playlist.m3u8
-#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-logo="https://i.imgur.com/WftpxK2.png",VILLAGE WORLD
+#EXTINF:-1 group-title="16TV ΤΑΙΝΙΕΣ ΣΕΙΡΕΣ" tvg-name="" tvg-logo="https://i.imgur.com/WftpxK2.png",VILLAGE WORLD
 https://ellastvmax.gotdns.com/freetv/village-world/index.m3u8
 #EXTINF:-1 group-title="17TV ΜΟΥΣΙΚΑ" tvg-logo="https://i.imgur.com/W3Ymzvq.png",AKTINA TV
 https://5f06d0924ebcd.streamlock.net:444/live/aktinaradio/playlist.m3u8	
@@ -991,6 +991,7 @@ https://23153.live.streamtheworld.com/SMOOTH953_AAC48.aac?dist=neweb&tdsdk=js-2.
 http://streaming.starterfm.com:8010/starter192?listening-from-radio-garden=1609063290321
 #EXTINF:-0 group-title="27RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="V1 Radio" tvg-logo="https://static.wixstatic.com/media/bd5edf_6da9b7aee9e145a3a1f6038b85555868~mv2.png/v1/crop/x_3,y_3,w_1499,h_1566/fill/w_92,h_96,al_c,usm_0.66_1.00_0.01/PNG%20A.png",V1 Radio
 https://usa4.fastcast4u.com/proxy/v1radio?mp=/1
+
 
 
 

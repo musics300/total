@@ -51,41 +51,43 @@ https://c98db5952cb54b358365984178fb898a.msvdn.net/live/S99841657/NU0xOarAMJ5X/p
 http://vid1.megatv-ctv.com/mega/meganews/mpeg.2ts
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="meganews" tvg-logo="https://i.imgur.com/owoR8Xi.png",14MEGA NEWS BUP 2
 http://195.226.218.167/mega/meganews/mpeg.2ts
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="meganews" tvg-logo="https://i.imgur.com/bZTT75j.png",14MEGA PLAY
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="megaplay" tvg-logo="https://i.imgur.com/bZTT75j.png",14MEGA PLAY
 https://c422e6f66e3a41029fa6cf83cab8b1d5.msvdn.net/live/S46747281/DJSPnDk0TaKs/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="meganews" tvg-logo="https://i.imgur.com/bZTT75j.png",14MEGA PLAY BUP
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="megaplay" tvg-logo="https://i.imgur.com/bZTT75j.png",14MEGA PLAY BUP
 http://vid1.megatv-ctv.com/mega/megasport/mpeg.2ts
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-star.jpg?itok=2YRMfUH0",15 STAR INTERNATIONAL
+https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertworld" tvg-logo="https://static.wikia.nocookie.net/kanal/images/9/97/ERT_World%282006-2008%29.png/revision/latest/scale-to-width-down/250?cb=20170622122028&path-prefix=el",16ERT WORLD
 https://ertflix-ertworld.siliconweb.com/mpegts/618618_3479286/master_mpegts.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertworld" tvg-logo="https://static.wikia.nocookie.net/kanal/images/9/97/ERT_World%282006-2008%29.png/revision/latest/scale-to-width-down/250?cb=20170622122028&path-prefix=el",16ERT WORLD
 http://hbbtv.ert.gr/stream.php/v/vid_ertworld_mpeg.2ts
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/ERT_News_2_Logo.png/revision/latest/scale-to-width-down/250?cb=20220423213529",22ERT NEWS 2
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/ERT_News_2_Logo.png/revision/latest/scale-to-width-down/250?cb=20220423213529",17ERT NEWS 2
 http://ertflix.akamaized.net/ertlive/ertnews2/default/index.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews3" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertnews3-live-cover-new2.jpg?m=resize&w=1200&h=628",23ERTNEWS 3
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews3" tvg-logo="https://files2.app.ertflix.gr/files/channels/ertnews3-live-cover-new2.jpg?m=resize&w=1200&h=628",18ERTNEWS 3
 http://ertflix.akamaized.net/ertlive/ertnews3/default/index.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/M2ztT2a.png",24ERT NEWS ΝΟΗΜΑΤΙΚΗ
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/M2ztT2a.png",19ERT NEWS ΝΟΗΜΑΤΙΚΗ
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay4_mpeg.2ts
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/M2ztT2a.png",24ERT NEWS ΝΟΗΜΑΤΙΚΗ BUP
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/M2ztT2a.png",19ERT NEWS ΝΟΗΜΑΤΙΚΗ BUP
 https://ertflix.siliconweb.com/mpegts/618618_3479301/media_mpegts_0.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertvouligr" tvg-logo="https://i.ytimg.com/vi/jYC7uvHWS50/mqdefault.jpg",17ΒΟΥΛΗ 2
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertvouligr" tvg-logo="https://i.ytimg.com/vi/jYC7uvHWS50/mqdefault.jpg",20ΒΟΥΛΗ 2
 https://streamer-cache.grnet.gr/parliament/hls/webtv2_1280_960x540/index.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertvouligr" tvg-logo="https://i.ytimg.com/vi/jYC7uvHWS50/mqdefault.jpg",17ΒΟΥΛΗ 3
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertvouligr" tvg-logo="https://i.ytimg.com/vi/jYC7uvHWS50/mqdefault.jpg",21ΒΟΥΛΗ 3
 https://streamer-cache.grnet.gr/parliament/hls/webtv3_5/index.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/mofBxUA.png",19EURONEWS GR
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/mofBxUA.png",22EURONEWS GR
 https://www.youtube.com/channel/UC8HJZNfDPoySgW9DN3YGNaA/live
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/mofBxUA.png",19EURONEWS UK
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="euronews" tvg-logo="https://i.imgur.com/mofBxUA.png",23EURONEWS UK
 https://www.youtube.com/channel/UCSrZ3UV4jOidv8ppoVuvW9Q/live
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="DW" tvg-logo="https://i.imgur.com/hF7IZid.png",20DW ENGLISH
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="DW" tvg-logo="https://i.imgur.com/hF7IZid.png",24DW ENGLISH
 https://ertflix.akamaized.net/ertlive/dw/default/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="DW" tvg-logo="https://i.imgur.com/hF7IZid.png",20DW ENGLISH BUP
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="DW" tvg-logo="https://i.imgur.com/hF7IZid.png",24DW ENGLISH BUP
 http://195.226.218.163/vid/dw-hbbtv/mpeg.2ts
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="DW" tvg-logo="https://i.imgur.com/hF7IZid.png",20DW ENGLISH BUP 2
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="DW" tvg-logo="https://i.imgur.com/hF7IZid.png",24DW ENGLISH BUP 2
 https://ertflix.ascdn.broadpeak.io/ertlive/dw/default/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="tv5" tvg-logo="https://i.imgur.com/aJslK4N.png",21TV5 EUROPE
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="tv5" tvg-logo="https://i.imgur.com/aJslK4N.png",25TV5 EUROPE
 https://ertflix.akamaized.net/ertlive/tv5/default/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="tv5" tvg-logo="https://i.imgur.com/aJslK4N.png",21TV5 EUROPE BUP
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="tv5" tvg-logo="https://i.imgur.com/aJslK4N.png",25TV5 EUROPE BUP
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay6_mpeg.2ts
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="tv5" tvg-logo="https://i.imgur.com/aJslK4N.png",21TV5 EUROPE BUP 2
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="tv5" tvg-logo="https://i.imgur.com/aJslK4N.png",25TV5 EUROPE BUP 2
 https://ertflix.ascdn.broadpeak.io/ertlive/tv5/default/index.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΤΤΙΚΗ" tvg-name="action24" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-action24.jpg?itok=f8byGeIP",ACTION 24
 http://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
@@ -393,7 +395,7 @@ https://odiehlsmslnew.akamaized.net/hls/live/2112246/odie3/odie_1000.m3u8
 https://ns5.vermantiagaming.com/opap/livesports/playlist.m3u8
 #EXTINF:-1 group-title="15TV ΑΘΛΗΤΙΚΑ" tvg-name="alfasportscy" tvg-logo="https://i.imgur.com/Gl7PuMJ.png",14ALFA SPORTS CY
 https://dev.aftermind.xyz/hls/unitrust/alfasports/index.m3u8?token=8TXWzhY3h6jrzqEqx
-#EXTINF:-1 group-title="14TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/Jm0SnfX.png",15ΑΡΓΟΛΙΔΑ SPORT TV
+#EXTINF:-1 group-title="15TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://i.imgur.com/Jm0SnfX.png",15ΑΡΓΟΛΙΔΑ SPORT TV
 https://neon.streams.gr:8081/argolidasport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="15TV ΑΘΛΗΤΙΚΑ" tvg-name="" tvg-logo="https://yt3.googleusercontent.com/BKbpb3fdLjOtECipgarfjEKnzzM-z1eUxnpFddCsEpDtkHs2Es9h7kj8akADfI1lL9C_TwxZkNo=s900-c-k-c0x00ffffff-no-rj",16ΑΝΤΕ ΓΕΙΑ
 https://new.cache-stream.workers.dev/stream/UCa-t8ek0GIZxqpLH7Z6QSyA/live.m3u8
@@ -523,7 +525,7 @@ http://65.108.62.57:8080/live2/greekmusic.m3u8
 https://webtv.topwebhost.gr:3565/stream/play.m3u8
 #EXTINF:-1 group-title="17TV ΜΟΥΣΙΚΑ" tvg-logo="https://i.imgur.com/ly7PBye.png",V2BEAT LIVE
 http://de1se01.v2beat.live/playlist.m3u8
-#EXTINF:-1 group-title="17V ΜΟΥΣΙΚΑ" tvg-logo="",XTV
+#EXTINF:-1 group-title="17TV ΜΟΥΣΙΚΑ" tvg-logo="",XTV
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/XTV.m3u8
 #EXTINF:-1 group-title="17TV ΜΟΥΣΙΚΑ" tvg-logo="https://i.imgur.com/fwPUazv.jpg",XALASTRA TV
 https://live.cast-control.eu/xalastratv/xalastratv/chunklist_w1589279640.m3u8
@@ -577,7 +579,7 @@ https://kali.vdopanel.com:3382/stream/play.m3u8
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/chunklist_w516443938.m3u8
 #EXTINF:-1 group-title="20TV WEB TV" tvg-logo="https://i.imgur.com/iL2o7Og.png",ΔΙΨΩ TV
 https://live.cast-control.eu/ekpdipso/ekpdipso/chunklist_w1039152407.m3u8
-#EXTINF:-1 group-title="20TV WEB TV tvg-logo="",DTP
+#EXTINF:-1 group-title="20TV WEB TV" tvg-logo="",DTP
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/DTP.m3u8
 #EXTINF:-1 group-title="20TV WEB TV" tvg-logo="",ELLADA TV
 https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8
@@ -587,7 +589,7 @@ http://ellastv.gotdns.com:88/freetv/promo/index.m3u8
 https://rtmp.win:3603/live/ellinikosfmlive.m3u8
 #EXTINF:-1 group-title="20TV WEB TV" tvg-logo="",ZEYS TV
 https://www.twitch.tv/zefstv1
-#EXTINF:-1 group-title="20TV WEB TV tvg-logo="https://i.imgur.com/2Irz733.png",F1 TV
+#EXTINF:-1 group-title="20TV WEB TV" tvg-logo="https://i.imgur.com/2Irz733.png",F1 TV
 https://is.gd/rVSZEu?US600011Q2.m3u8
 #EXTINF:-1 group-title="20TV WEB TV" tvg-logo="",FASHION TV
 https://fash1043.bstrm.net/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_1596_hls.smil/playlist.m3u8
@@ -595,7 +597,7 @@ https://fash1043.bstrm.net/slive/_definst_/ftv_ftv_new_york_9dd_43432_default_15
 https://live.cast-control.eu/organismos/organismos/chunklist_w860079051.m3u8
 #EXTINF:-1 group-title="20TV WEB TV" tvg-logo="",GREEK TV LONDON
 https://vdo3.alphaserver.gr:3466/live/greektvlondonlive.m3u8
-#EXTINF:-1 group-title="20TV WEB TV tvg-logo="https://i.imgur.com/pNQJTv5.png",GRECA TV
+#EXTINF:-1 group-title="20TV WEB TV" tvg-logo="https://i.imgur.com/pNQJTv5.png",GRECA TV
 http://alex9954094.ddns.net:2052/live/zontano/zontano/82.m3u8
 #EXTINF:-1 group-title="20TV WEB TV" tvg-logo="https://i.imgur.com/pNQJTv5.png",GRECA TV 2
 http://alex9954094.ddns.net:2052/test/test/93
@@ -603,7 +605,7 @@ http://alex9954094.ddns.net:2052/test/test/93
 http://alex9954094.ddns.net:2052/test/test/5
 #EXTINF:-1 group-title="20TV WEB TV" tvg-logo="",GREEK USA TV
 https://live-us-cdn-1.tvstartupengine.com/live/playlist-prod-fd464078-9c51-453a-b3c5-3f512cc5faa7/index.m3u8
-#EXTINF:-1 group-title="20TV WEB TV tvg-logo="",GREEK USA TV BUP
+#EXTINF:-1 group-title="20TV WEB TV" tvg-logo="",GREEK USA TV BUP
 https://tvsw3-hls.secdn.net/tvsw3-chorigin/play/prod-2dc768a5889045e08f06695b0d446bf3/playlist.m3u8
 #EXTINF:-1 group-title="20TV WEB TV" tvg-logo="https://i.imgur.com/DcleTdR.png",GREEK VOICE
 http://65.108.62.57:8080/live/greektv1.m3u8
@@ -617,7 +619,7 @@ http://theagenis.fhw.gr:8080/maintv.mp4
 https://livetv.streams.ovh:1936/lafamiglia/lafamiglia/playlist.m3u8
 #EXTINF:-1 group-title="20TV WEB TV" tvg-logo="",MAGIC TV
 https://itv.streams.ovh:8081/demoflu/index.m3u8
-#EXTINF:-1 group-title="20TV WEB TV tvg-logo="",MARON TV (NOT 24/7)
+#EXTINF:-1 group-title="20TV WEB TV" tvg-logo="",MARON TV (NOT 24/7)
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/marontvgr.m3u8
 #EXTINF:-1 group-title="20TV WEB TV" tvg-logo="https://i.imgur.com/cE8LuoO.png",MESSINIA TV
 https://rtmp.win:3373/live/messiniatvlive.m3u8
@@ -865,15 +867,15 @@ http://netradio.live24.gr/realvoice995
 http://r1.cloudskep.com/cybcr/cybc1/icecast.audio
 #EXTINF:-0 group-title="23RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="ΡΙΚ 2 - Κύπρος" tvg-logo="http://resources.live24.gr/resources/images/stations/2054fe2b-f404-4231-a92a-5eae903ea035.png",ΡΙΚ 2 - Κύπρος
 http://r1.cloudskep.com/cybcr/cybc2/icecast.audio
-#EXTINF:-0 group-title="12RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="ΡΙΚ 3 - Κύπρος" tvg-logo="http://resources.live24.gr/resources/images/stations/2054fe2b-f404-4231-a92a-5eae903ea035.png",ΡΙΚ 3 - Κύπρος
+#EXTINF:-0 group-title="23RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="ΡΙΚ 3 - Κύπρος" tvg-logo="http://resources.live24.gr/resources/images/stations/2054fe2b-f404-4231-a92a-5eae903ea035.png",ΡΙΚ 3 - Κύπρος
 http://r1.cloudskep.com/cybcr/cybc3/icecast.audio
-#EXTINF:-0 group-title="12RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="ΡΙΚ 4 - Κύπρος" tvg-logo="http://resources.live24.gr/resources/images/stations/23b16d4e-01f6-4608-834e-fcee0be0dac9.png",ΡΙΚ 4 - Κύπρος
+#EXTINF:-0 group-title="23RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="ΡΙΚ 4 - Κύπρος" tvg-logo="http://resources.live24.gr/resources/images/stations/23b16d4e-01f6-4608-834e-fcee0be0dac9.png",ΡΙΚ 4 - Κύπρος
 http://r1.cloudskep.com/cybcr/cybc4/icecast.audio
-#EXTINF:-0 group-title="12RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="ΣΚΑΙ 100.3 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/2d0a60fe-a504-4f8f-9770-253d47e923a8.jpg",ΣΚΑΙ 100.3 - Αθήνα
+#EXTINF:-0 group-title="23RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="ΣΚΑΙ 100.3 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/2d0a60fe-a504-4f8f-9770-253d47e923a8.jpg",ΣΚΑΙ 100.3 - Αθήνα
 http://netradio.live24.gr/skai1003
-#EXTINF:-0 group-title="12RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="ΣΚΑΙ Πάτρας 89.4 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/350d6994-0c63-4031-961e-399e17044bf8.png",ΣΚΑΙ Πάτρας 89.4 - Πάτρα
+#EXTINF:-0 group-title="23RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="ΣΚΑΙ Πάτρας 89.4 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/350d6994-0c63-4031-961e-399e17044bf8.png",ΣΚΑΙ Πάτρας 89.4 - Πάτρα
 http://i.streams.ovh:9519/;listen.pls
-#EXTINF:-0 group-title="12RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Sky Ρόδος 100 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/8daa170f-383f-4e38-a45a-5bd66b7b4ba1.png",Sky Ρόδος 100 - Ρόδος
+#EXTINF:-0 group-title="23RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Sky Ρόδος 100 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/8daa170f-383f-4e38-a45a-5bd66b7b4ba1.png",Sky Ρόδος 100 - Ρόδος
 http://s6.myradiostream.com:45076/;listen.mp3;audio.mp3?hash=1528711740048
 #EXTINF:-0 group-title="23RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Status FM 107.7 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/3753356a-ebb0-4ba6-b5b7-633ffce756c1.jpg",Status FM 107.7 - Θεσσαλονίκη
 http://148.251.179.119:8000/stream
@@ -989,6 +991,7 @@ https://23153.live.streamtheworld.com/SMOOTH953_AAC48.aac?dist=neweb&tdsdk=js-2.
 http://streaming.starterfm.com:8010/starter192?listening-from-radio-garden=1609063290321
 #EXTINF:-0 group-title="27RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="V1 Radio" tvg-logo="https://static.wixstatic.com/media/bd5edf_6da9b7aee9e145a3a1f6038b85555868~mv2.png/v1/crop/x_3,y_3,w_1499,h_1566/fill/w_92,h_96,al_c,usm_0.66_1.00_0.01/PNG%20A.png",V1 Radio
 https://usa4.fastcast4u.com/proxy/v1radio?mp=/1
+
 
 
 

@@ -3,9 +3,9 @@
 https://ertflix.ascdn.broadpeak.io/ertlive/ert1/clrdef24723b/index.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert1" tvg-logo="https://fiber100.gr/images/eon/channels/ellhnika/1hd.png",01ERT1 HD BUP
 https://spark3.smart-tv-data.com/ert1HD/ert1HD/playlist.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/10/2hd.png",02ERT2 SPOR HD
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/10/2hd.png",02ERT2 SPORT HD
 https://ertflix-greece.siliconweb.com/mpegts/618618_2341557/master_mpegts.m3u8
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/10/2hd.png",02ERT2 SPOR HD BUP
+#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://channels2.digital.ugbb.net/wp-content/uploads/2021/10/2hd.png",02ERT2 SPORT HD BUP
 https://ertflix-greece.siliconweb.com/cmaf/618618_2341557/index.mpd
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://www.zappit.gr/wp-content/uploads/2023/08/ERT3-1200x675.jpg",03ERT3 HD
 https://ertflix-greece.siliconweb.com/mpegts/618618_2341560/master_mpegts.m3u8
@@ -131,6 +131,8 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/EuroT
 https://live.streams.ovh:8081/gnomitv/index.m3u8
 #EXTINF:-1 group-title="03TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="gnomitv" tvg-logo="https://digea.gr/cms/uploads/2021/11/gnomi.jpeg",GNOMI TV BUP
 http://cdn5.smart-tv-data.com/local/gnomitv/playlist.m3u8
+#EXTINF:-1 group-title="03TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="pontostv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-pontos-tv-id-4280.png?itok=NEEoxDCG",PONTOS TV
+https://rtmp.win:3842/live/recme1live.m3u8
 #EXTINF:-1 group-title="03TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="tv100" tvg-logo="https://digea.gr/cms/uploads/2021/11/tv100.jpeg",TV 100
 https://panel.gwebstream.eu:19360/tv100skg/720p.m3u8
 #EXTINF:-1 group-title="03TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΕΝΤΡ. ΜΑΚΕΔΟΝΙΑ" tvg-name="pellatv" tvg-logo="https://yt3.googleusercontent.com/ytc/APkrFKatK4TnrQlN4pCBf76pkkdeGQJRiv51Zp0_FI2l=s900-c-k-c0x00ffffff-no-rj",PELLA TV
@@ -991,6 +993,7 @@ https://23153.live.streamtheworld.com/SMOOTH953_AAC48.aac?dist=neweb&tdsdk=js-2.
 http://streaming.starterfm.com:8010/starter192?listening-from-radio-garden=1609063290321
 #EXTINF:-0 group-title="27RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="V1 Radio" tvg-logo="https://static.wixstatic.com/media/bd5edf_6da9b7aee9e145a3a1f6038b85555868~mv2.png/v1/crop/x_3,y_3,w_1499,h_1566/fill/w_92,h_96,al_c,usm_0.66_1.00_0.01/PNG%20A.png",V1 Radio
 https://usa4.fastcast4u.com/proxy/v1radio?mp=/1
+
 
 
 

@@ -273,7 +273,7 @@ http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 http://cdn5.smart-tv-data.com/local/samiaki/playlist.m3u8
 #EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="kosmos" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/tv-kosmos-id-5760_.png?itok=LjgaKA1k",TV KOSMOS
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/tvkosmosgr.m3u8
-#EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="aegeanlive" tvg-logo="https://raw.githubusercontent.com/And73Smi/IPTV-M3U/refs/heads/main/logo/AEGEAN_LIVE.png",AEGEAN LIVE
+#EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="aegeanlive" tvg-logo="",AEGEAN LIVE
 https://2-fss-1.streamhoster.com/pl_148/203374-5742530-1/playlist.m3u8
 #EXTINF:-1 group-title="13TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΡΗΤΗ" tvg-name="krititv1" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-kriti1_0.png?itok=7ORr3i4B",KPHTH 1
 https://livetv.streams.ovh:8081/kriti/tracks-v1a1/mono.m3u8
@@ -993,6 +993,7 @@ https://23153.live.streamtheworld.com/SMOOTH953_AAC48.aac?dist=neweb&tdsdk=js-2.
 http://streaming.starterfm.com:8010/starter192?listening-from-radio-garden=1609063290321
 #EXTINF:-0 group-title="27RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="V1 Radio" tvg-logo="https://static.wixstatic.com/media/bd5edf_6da9b7aee9e145a3a1f6038b85555868~mv2.png/v1/crop/x_3,y_3,w_1499,h_1566/fill/w_92,h_96,al_c,usm_0.66_1.00_0.01/PNG%20A.png",V1 Radio
 https://usa4.fastcast4u.com/proxy/v1radio?mp=/1
+
 
 
 

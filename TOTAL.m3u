@@ -158,9 +158,9 @@ https://gra1.crystalweb.net:1936/star/star/playlist.m3u8
 #EXTINF:-1 group-title="04TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΝ.ΜΑΚ ΘΡΑΚΗ" tvg-name="starbe" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/star-boreioy-ellados-id-4120.png?itok=geBThj-W",STAR B.E. BUP
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/tvstarfm.m3u8
 #EXTINF:-1 group-title="05TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-name="diktyo1" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/diktyo1-id-5310.png?itok=zvP-XQqM",DIKTYO1
-https://ythls-v4.onrender.com/channel/UC5R_BSBgtdfR-lv-LKDbvqw.m3u8
-#EXTINF:-1 group-title="05TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-name="flashtv" tvg-logo="https://digea.gr/cms/uploads/2021/11/flash.jpeg",FLASH TV
-https://raw.githubusercontent.com/azgaresncf/strm2hls/main/streams/FlashTV.m3u8
+https://png.pngtree.com/png-clipart/20230804/original/pngtree-offline-offline-stamp-miscellaneous-vector-picture-image_9537360.png
+#EXTINF:-1 group-title="05TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-name="flashtv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/flash-tv-id-5320.png?itok=6STrSWRo",FLASH TV
+https://png.pngtree.com/png-clipart/20230804/original/pngtree-offline-offline-stamp-miscellaneous-vector-picture-image_9537360.png
 #EXTINF:-1 group-title="05TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-name="topchannel" tvg-logo="https://digea.gr/cms/uploads/2021/11/top.jpeg",TOP CHANNEL
 https://fr.crystalweb.net:1936/topchannel/topchannel/playlist.m3u8
 #EXTINF:-1 group-title="05TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΥΤ. ΜΑΚΕΔΟΝΙΑ" tvg-name="topchannel" tvg-logo="https://digea.gr/cms/uploads/2021/11/top.jpeg",TOP CHANNEL BUP
@@ -983,6 +983,7 @@ https://23153.live.streamtheworld.com/SMOOTH953_AAC48.aac?dist=neweb&tdsdk=js-2.
 http://streaming.starterfm.com:8010/starter192?listening-from-radio-garden=1609063290321
 #EXTINF:-0 group-title="27RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="V1 Radio" tvg-logo="https://static.wixstatic.com/media/bd5edf_6da9b7aee9e145a3a1f6038b85555868~mv2.png/v1/crop/x_3,y_3,w_1499,h_1566/fill/w_92,h_96,al_c,usm_0.66_1.00_0.01/PNG%20A.png",V1 Radio
 https://usa4.fastcast4u.com/proxy/v1radio?mp=/1
+
 
 
 

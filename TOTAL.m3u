@@ -250,18 +250,18 @@ https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 #EXTINF:-1 group-title="11TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΥΚΛΑΔΕΣ" tvg-name="syrostv1" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-syros-tv.jpg?itok=cH0j0sZK",SYROS TV1 BUP
 https://cdn5.smart-tv-data.com/local/syrostv1/manifest.mpd
 #EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="aigaiotv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-aigaio.jpg?itok=9XEtraeE",AIGAIO TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/aigaiotv/playlist.m3u8
-#EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="aigaiotv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-aigaio.jpg?itok=9XEtraeE",AIGAIO TV BUP
 https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8
-#EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="iridatv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/irida-id-5740.png?itok=ra6DAcyQ",IRIDA TV
-https://av.hellasnet.tv/rest2.live.hn/iri/playlist.m3u8
+#EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="aigaiotv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-aigaio.jpg?itok=9XEtraeE",AIGAIO TV BUP
+https://live20.bozztv.com/akamaissh101/ssh101/aigaiotv/playlist.m3u8
 #EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="kostv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/kos-tv-id-5750.png?itok=p2V2lQVa",KOS TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/kostv/playlist.m3u8
+https://eu1.streams.gr:8081/kostv/index.m3u8
 #EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="samiakitv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-sat.jpg?itok=t6U0SZDR",SAMIAKI TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="samiakitv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-sat.jpg?itok=t6U0SZDR",SAMIAKI TV BUP
-http://cdn5.smart-tv-data.com/local/samiaki/playlist.m3u8
+https://cdn5.smart-tv-data.com/local/samiaki/manifest.mpd
 #EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="kosmos" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/tv-kosmos-id-5760_.png?itok=LjgaKA1k",TV KOSMOS
+https://gra1.crystalweb.net:1936/tvkosmos/tvkosmos/playlist.m3u8
+#EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="kosmos" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/tv-kosmos-id-5760_.png?itok=LjgaKA1k",TV KOSMOS BUP
 https://raw.githubusercontent.com/jimgate07/grtv/master/streams/tvkosmosgr.m3u8
 #EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="aegeanlive" tvg-logo="",AEGEAN LIVE
 https://2-fss-1.streamhoster.com/pl_148/203374-5742530-1/playlist.m3u8
@@ -985,6 +985,7 @@ https://23153.live.streamtheworld.com/SMOOTH953_AAC48.aac?dist=neweb&tdsdk=js-2.
 http://streaming.starterfm.com:8010/starter192?listening-from-radio-garden=1609063290321
 #EXTINF:-0 group-title="27RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="V1 Radio" tvg-logo="https://static.wixstatic.com/media/bd5edf_6da9b7aee9e145a3a1f6038b85555868~mv2.png/v1/crop/x_3,y_3,w_1499,h_1566/fill/w_92,h_96,al_c,usm_0.66_1.00_0.01/PNG%20A.png",V1 Radio
 https://usa4.fastcast4u.com/proxy/v1radio?mp=/1
+
 
 
 

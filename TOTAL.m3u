@@ -307,34 +307,32 @@ https://s1.cystream.net/live/capital/chunks.m3u8?nimblesessionid=143106582&wmsAu
 https://img.freepik.com/premium-vector/offline-icon-vector-illustration_449764-213.jpg
 #EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="farostvcy" tvg-logo="https://pbs.twimg.com/profile_images/1486702598660964352/RVD3tQfv_400x400.jpg",FAROS TV CY
 https://s1.cystream.net/live/faros1/chunks.m3u8
-#EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://pbs.twimg.com/profile_images/1486702598660964352/RVD3tQfv_400x400.jpg",OMEGA CY
+#EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="omega" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Omega_Transparent.png",OMEGA CY
 https://l1.cloudskep.com/omegatv/omcy/playlist.m3u8
-#EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="extracy" tvg-logo="https://i.imgur.com/xrmtSqp.png",ONE CHANNEL CY
-https://github.com/jimgate07/grtv/raw/master/Greek%20iptv.mp4
-#EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="plustv" tvg-logo="https://i.imgur.com/37W0li5.png",PLUS TV CY
-https://github.com/jimgate07/grtv/raw/master/Greek%20iptv.mp4
-#EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="riksat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_RIK_Sat_2017.svg/1200px-Logo_RIK_Sat_2017.svg.png",RIK SAT CY
+#EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="extracy" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShn-eTjxu_H7w2VP66fKqu3KVKIvkN4He7Gg&s",ONE CHANNEL CY
+https://img.freepik.com/premium-vector/offline-icon-vector-illustration_449764-213.jpg
+#EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="plustv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Plus_Channel_02_-_Grey.png",PLUS TV CY
+https://img.freepik.com/premium-vector/offline-icon-vector-illustration_449764-213.jpg
+#EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="riksat" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-sat-logo.original.png",RIK SAT CY
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="riksat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_RIK_Sat_2017.svg/1200px-Logo_RIK_Sat_2017.svg.png",RIK SAT CY BUP
-https://ertflix.akamaized.net/ertlive/rik/default/playlist.m3u8
-#EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="riksat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_RIK_Sat_2017.svg/1200px-Logo_RIK_Sat_2017.svg.png",RIK SAT CY BUP 2
+#EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="riksat" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-sat-logo.original.png",RIK SAT CY BUP
 http://195.226.218.163/vid/riksat-hbbtv/mpeg.2ts
-#EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://i.imgur.com/hCTiZPB.png",RIK 1 CY (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
+#EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="rik1" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-1.original.png",RIK 1 CY (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
 http://l6.cloudskep.com/rikct/rik1/playlist.m3u8
-#EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="rik2" tvg-logo="https://i.imgur.com/wqJi4TF.png",RIK 2 CY (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
+#EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="rik2" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/rik-tv-2.original.png",RIK 2 CY (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
 http://l6.cloudskep.com/rikct/rik2/playlist.m3u8
-#EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="rikhd" tvg-logo="https://i.imgur.com/wqJi4TF.png",RIK HD CY (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
+#EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="rikhd" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/new_rik-hd-logo.original.png",RIK HD CY (ΜΟΝΟ ΣΤΗΝ ΚΥΠΡΟ)
 http://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
 #EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://okteve.com/wp-content/uploads/media/7325e2f4cb7a14ec79e378ab9ab98873.jpeg",SIGMA CY
-http://l10.cloudskep.com/sigmatv/stv/playlist.m3u8
+https://ottstream.iptv.prime-tel.net/streaming-web/SigmaLive/playlist.m3u8
 #EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="sigma" tvg-logo="https://okteve.com/wp-content/uploads/media/7325e2f4cb7a14ec79e378ab9ab98873.jpeg",SIGMA CY BUP
 http://sl2.sigmatv.com/hls/live.m3u8
 #EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="smiletvcy" tvg-logo="https://i.imgur.com/8ZCpwfv.png",SMILE TV CY
-https://s1.cystream.net/live/smile/playlist.m3u8
+https://img.freepik.com/premium-vector/offline-icon-vector-illustration_449764-213.jpg
 #EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="voulitvcy" tvg-logo="https://i.imgur.com/rIt5pfv.png",VOULI TV CY
 https://dev.aftermind.xyz/hls/unitrust/voulitv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="cbctvmallcy" tvg-logo="https://i.imgur.com/W2wNukK.png",CBC TV MALL CY
-https://www.wepc.com/wp-content/uploads/2021/09/offline-mode-768x512.png
+https://img.freepik.com/premium-vector/offline-icon-vector-illustration_449764-213.jpg
 #EXTINF:-1 group-title="15TV ΑΘΛΗΤΙΚΑ" tvg-name="ertsports" tvg-logo="https://i.imgur.com/AZiKB0X.png",01ERT SPORTS 1
 https://ertflix-greece.siliconweb.com/mpegts/618618_3479292/master_mpegts.m3u8
 #EXTINF:-1 group-title="15TV ΑΘΛΗΤΙΚΑ" tvg-name="ertsports" tvg-logo="https://i.imgur.com/AZiKB0X.png",01ERT SPORTS 1 BUP
@@ -987,6 +985,7 @@ https://23153.live.streamtheworld.com/SMOOTH953_AAC48.aac?dist=neweb&tdsdk=js-2.
 http://streaming.starterfm.com:8010/starter192?listening-from-radio-garden=1609063290321
 #EXTINF:-0 group-title="27RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="V1 Radio" tvg-logo="https://static.wixstatic.com/media/bd5edf_6da9b7aee9e145a3a1f6038b85555868~mv2.png/v1/crop/x_3,y_3,w_1499,h_1566/fill/w_92,h_96,al_c,usm_0.66_1.00_0.01/PNG%20A.png",V1 Radio
 https://usa4.fastcast4u.com/proxy/v1radio?mp=/1
+
 
 
 

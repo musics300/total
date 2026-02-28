@@ -759,7 +759,7 @@ http://lampsifmlive.mdc.akamaized.net/strmLampsi/userLampsi/playlist.m3u8
 http://loveradio.live24.gr/loveradio-1000
 #EXTINF:-0 group-title="22RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μελωδία FM 99.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/b527c83e-c3fc-4de6-86f2-860254db65fd.png",Μελωδία FM 99.2 - Αθήνα
 https://stream.radiojar.com/8du64725e3quv
-#EXTINF:-0 group-title="22RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μελωδία Ρόδου 103.7 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/2c234fed-8856-4146-954d-766fc1d94748.jpg",Μελωδία Ρόδου 103.7 - Ρόδος
+#EXTINF:-0 group-title="22RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μελωδία Ρόδου 95.9 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/2c234fed-8856-4146-954d-766fc1d94748.jpg",Μελωδία Ρόδου 103.7 - Ρόδος
 http://live3.istoikona.com:8183/stream
 #EXTINF:-0 group-title="22RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μέντα 88 FM - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/menta/menta.png",Μέντα 88 FM - Αθήνα
 http://stream.radiojar.com/menta.aac?1457987195
@@ -843,6 +843,8 @@ https://eco.streams.ovh/notos/notos/chunklist_w1265351016.m3u8
 http://netradio.live24.gr/athinaradio
 #EXTINF:-0 group-title="23RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Πρακτορείο 104.9 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/81f02cbe-bbc5-46bd-8076-a2e396782611.png",Πρακτορείο 104.9 - Θεσσαλονίκη
 http://s3.onweb.gr:8436/
+#EXTINF:-0 group-title="23RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Prime 103.7 - Ρόδος" tvg-logo="https://prime1037.gr/wp-content/uploads/2025/11/prime-radio-logo-blue-e1767708939125.png",Prime 103.7 - Ρόδος
+https://azura.prime1037.gr/listen/prime_103,7_fm/stream.mp3
 #EXTINF:-0 group-title="23RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Ράδιο Γάμμα 94 - Πάτρα" tvg-logo="http://resources.live24.gr/resources/images/stations/984aff3f-ddab-4f3b-8415-2e34face508e.jpg",Ράδιο Γάμμα 94 - Πάτρα
 http://radiogamma.live24.gr/radiogamma
 #EXTINF:-0 group-title="23RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Ράδιο Θεσσαλονίκη 94.5 - Θεσσαλονίκη" tvg-logo="http://resources.live24.gr/resources/images/stations/f075bc0e-6cac-4f3b-abdd-6236d03e71af.png",Ράδιο Θεσσαλονίκη 94.5 - Θεσσαλονίκη
@@ -983,6 +985,7 @@ https://23153.live.streamtheworld.com/SMOOTH953_AAC48.aac?dist=neweb&tdsdk=js-2.
 http://streaming.starterfm.com:8010/starter192?listening-from-radio-garden=1609063290321
 #EXTINF:-0 group-title="27RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="V1 Radio" tvg-logo="https://static.wixstatic.com/media/bd5edf_6da9b7aee9e145a3a1f6038b85555868~mv2.png/v1/crop/x_3,y_3,w_1499,h_1566/fill/w_92,h_96,al_c,usm_0.66_1.00_0.01/PNG%20A.png",V1 Radio
 https://usa4.fastcast4u.com/proxy/v1radio?mp=/1
+
 
 
 

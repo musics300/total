@@ -16,7 +16,7 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews/default/index.mpd
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA2OTdiYWEtNWEzYS00NmI2LWJlYzktZTQ3YzYyZjNmZGRmXkEyXkFqcGc@._V1_.jpg",04ERT NEWS HD BUP 3
 https://cdn4.smart-tv-data.com/vid/ertnews/manifest.mpd
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ant1" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/ant1.png?itok=7liltkZP",05ANT1 HD
-https://lcdn.antennaplus.gr/r86d08d448885424196f6cd3ddc5d1489/eu-central-1/eu-central-1/6415884360001/profile_0/chunklist.m3u8
+https://mcdn.antennaplus.gr/live/media0/Ant1/HLS/Ant1.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="mega" tvg-logo="https://i.imgur.com/yyp6tS5.png",06MEGA HD
 http://wow.anixa.tv/live/mega/playlist.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="alpha" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-alpha-tv.png?itok=uXwVK_Vz",07ALPHA HD
@@ -985,6 +985,7 @@ https://23153.live.streamtheworld.com/SMOOTH953_AAC48.aac?dist=neweb&tdsdk=js-2.
 http://streaming.starterfm.com:8010/starter192?listening-from-radio-garden=1609063290321
 #EXTINF:-0 group-title="27RADIOS ΑΥΣΤΡΑΛΙΑ" tvg-name="V1 Radio" tvg-logo="https://static.wixstatic.com/media/bd5edf_6da9b7aee9e145a3a1f6038b85555868~mv2.png/v1/crop/x_3,y_3,w_1499,h_1566/fill/w_92,h_96,al_c,usm_0.66_1.00_0.01/PNG%20A.png",V1 Radio
 https://usa4.fastcast4u.com/proxy/v1radio?mp=/1
+
 
 
 

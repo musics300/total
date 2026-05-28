@@ -7,6 +7,10 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT1/default/index.mpd
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert2" tvg-logo="https://www.ert.gr/wp-content/uploads/2025/10/ert2-spor-rgb.jpg",02ERT2 SPORT HD BUP
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.mpd
+#EXTINF:-1 tvg-id="ERT2" group-title="GR",ΕΡΤ2 ΣΠΟΡ
+#EXTVLCOPT:http-referrer=https://www.ertflix.gr/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT2/default/index.mpd
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ert3" tvg-logo="https://www.zappit.gr/wp-content/uploads/2023/08/ERT3-1200x675.jpg",03ERT3 HD
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERT3/default/index.mpd
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="ertnews" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA2OTdiYWEtNWEzYS00NmI2LWJlYzktZTQ3YzYyZjNmZGRmXkEyXkFqcGc@._V1_.jpg",04ERT NEWS HD

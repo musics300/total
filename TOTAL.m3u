@@ -613,8 +613,6 @@ http://65.108.62.57:8080/live/greektv1.m3u8
 https://am3.cloudskep.com/hellenictv/htv/l5/htv1/chunks.m3u8?nimblesessionid=38096612
 #EXTINF:-1 group-title="20TV WEB TV" tvg-logo="",ΗΛΕΚΤΡΑ TV
 https://stream.sy3dud.com:5443/LiveApp/streams/677642681062064684605047.m3u8
-#EXTINF:-1 group-title="20TV WEB TV" tvg-logo="",IME WEB TV
-http://theagenis.fhw.gr:8080/maintv.mp4
 #EXTINF:-1 group-title="20TV WEB TV" tvg-logo="",LA FAMILIA WEB TV
 https://livetv.streams.ovh:1936/lafamiglia/lafamiglia/playlist.m3u8
 #EXTINF:-1 group-title="20TV WEB TV" tvg-logo="",MAGIC TV
@@ -767,14 +765,10 @@ http://lampsifmlive.mdc.akamaized.net/strmLampsi/userLampsi/playlist.m3u8
 http://loveradio.live24.gr/loveradio-1000
 #EXTINF:-0 group-title="22RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μελωδία FM 99.2 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/b527c83e-c3fc-4de6-86f2-860254db65fd.png",Μελωδία FM 99.2 - Αθήνα
 https://stream.radiojar.com/8du64725e3quv
-#EXTINF:-0 group-title="22RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μελωδία Ρόδου 95.9 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/2c234fed-8856-4146-954d-766fc1d94748.jpg",Μελωδία Ρόδου 103.7 - Ρόδος
-http://live3.istoikona.com:8183/stream
 #EXTINF:-0 group-title="22RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μέντα 88 FM - Αθήνα" tvg-logo="http://live24.gr/resrc/styles/custom-popups/menta/menta.png",Μέντα 88 FM - Αθήνα
 http://stream.radiojar.com/menta.aac?1457987195
 #EXTINF:-0 group-title="22RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Μουσικός 98.6 - Αθήνα" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtO6Paa-Qn0X-i7hItnzCjdHp-GC4dyPJxBg&usqp=CAU",Μουσικός 98.6 - Αθήνα
 http://netradio.live24.gr:80/mousikos986
-#EXTINF:-0 group-title="22RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="My Radio 104.6 - Αθήνα" tvg-logo="http://resources.live24.gr/resources/images/stations/6affe598-3e11-4475-ae36-937e044b3a1c.png",My Radio 104.6 - Αθήνα
-http://streaming.myradio1046.fm/myradio1046
 #EXTINF:-0 group-title="22RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Πανόραμα 98.4 FM - Θεσσαλονίκη" tvg-logo="http://live24.gr/resrc/styles/custom-popups/panorama/images/logo.jpg",Πανόραμα 98.4 FM - Θεσσαλονίκη
 http://netradio.live24.gr/panorama984
 #EXTINF:-0 group-title="22RADIOS ΕΛΛΗΝΙΚΗ ΜΟΥΣΙΚΗ" tvg-name="Paidaki 97.5 - Θεσσαλονίκη" tvg-logo="https://resources.live24.gr/resources/images/stations/994110f3-e43e-44d8-8595-06afe15fb57c.jpg",Paidaki 97.5 - Θεσσαλονίκη
@@ -843,6 +837,8 @@ http://radiostreaming.ert.gr/ert-kosmos
 http://n05.radiojar.com/qt9gf4hhdwzuv?rj-ttl=5&rj-tok=AAABfoLoVhwAxSDRhEKCdAEA_w
 #EXTINF:-0 group-title="23RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="https://maxhfm.gr/" tvg-logo="https://resources.live24.gr/resources/images/stations/514bb3ec-475d-46bd-9059-879e50b5fecf.jpg",Μάχη FM 99.8 - Αθήνα
 https://maxhfm.streams.gr/ic/maxhfm/stream
+#EXTINF:-0 group-title="23RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="MEGA NEWS 104.6" tvg-logo="https://live24.gr/resrc/styles/custom-popups/meganews/logo.png?2",Mega News 104.6 - Αθήνα
+https://nmcdn-ea00263bf2fa4959b1207c5b169d1517.msvdn.net/icecastRelay/S92303783/lih0S0uubyJi/icecast
 #EXTINF:-0 group-title="23RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Νοtos News 97.8 - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/45562d7d-c034-4dc5-b1e0-d9ef9a804fac.jpg",Νοtos News 97.8 - Ρόδος
 http://i.streams.ovh:9331/stream
 #EXTINF:-0 group-title="23RADIOS ΕΙΔΗΣΕΙΣ" tvg-name="Νοtos News 97.8 Web TV - Ρόδος" tvg-logo="http://resources.live24.gr/resources/images/stations/45562d7d-c034-4dc5-b1e0-d9ef9a804fac.jpg",Νοtos News 97.8 Web TV - Ρόδος

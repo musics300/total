@@ -41,8 +41,6 @@ https://lcdn.antennaplus.gr/r444865966c0847fca53b9b0c133af7a9/eu-central-1/64158
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/VOULITV/default/index.mpd
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="rikhd" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/riksat.width-1024.png",13RIKSAT
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/RIK/default/index.mpd
-#EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="rikhd" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/riksat.width-1024.png",13RIKSAT BUP
-https://ln2.cloudskep.com/cybcsat/abr/l3/rsat_hd/chunks.m3u8?nimblesessionid=21889943
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="rikhd" tvg-logo="https://cybc-live-c0d88c0c0329463880899f538858-629d3a6.aldryn-media.com/images/2025/09/19/riksat.width-1024.png",13RIKSAT BUP 2
 http://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
 #EXTINF:-1 group-title="01TV ΠΑΝΕΛΛΑΔΙΚΑ" tvg-name="meganews" tvg-logo="https://www.tovima.gr/wp-content/uploads/2025/11/19/mega-e1760378658955-1024x731.jpg",14MEGA NEWS
@@ -92,7 +90,9 @@ https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΤΤΙΚΗ" tvg-name="alert" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-alert.png?itok=zVueBrKV",ALERT BUP
 https://cdn5.smart-tv-data.com/local/alert/manifest.mpd
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΤΤΙΚΗ" tvg-name="art" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-art-4900-250910.png?itok=znlQDf9R",APT
-https://hugh.cdn.rumble.cloud/live/b9exd20e/live-hls/s02j-5jnk/chunklist_i1_DVR.m3u8
+https://hugh.cdn.rumble.cloud/live/t5qc33px/live-hls/ppe6-ajxj/chunklist_i1_DVR.m3u8
+#EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΤΤΙΚΗ" tvg-name="vergina" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/bergina-1-id-5060.png?itok=bRa_NAee",VERGINA 1
+https://verginanews.gr:8443/hls_live/stream1.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΤΤΙΚΗ" tvg-name="bluesky" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-blue-sky.jpg?itok=e8-Mpfq1",BLUE SKY
 http://cdn5.smart-tv-data.com/bluesky/blueskyHD/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΤΤΙΚΗ" tvg-name="bluesky" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-blue-sky.jpg?itok=e8-Mpfq1",BLUE SKY BUP
@@ -102,7 +102,7 @@ http://live.streams.ovh:1935/hightv/hightv/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΤΤΙΚΗ" tvg-name="kontra" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-kontra.jpg?itok=-VbT4YOE",KONTRA
 http://kontralive.siliconweb.com/live/kontratv/playlist.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΤΤΙΚΗ" tvg-name="madtv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-mad.jpg?itok=ZLGyoguB",MAD TV
-https://euc11.playlist.live-video.net/v1/playlist/CvcFCHMjC6T69JXyTEjFg6bCKMXuCZ6WBcSJ18_085c3P4UScGY84OJF_pxeEI0YidwF7bkBJ1pv8I8SeUjG22eMk3_06HVZHhaJd8mJ5HcaBggzawi67LZbA8JsYjD-oLqJYSuUeY-NtVDgMJBSWzt9LU10mglUHXLNZEsJQZZYlP0SzTjIziNa5NS9tt_ixK5yHXYQYknutlIxRzq0T-32rQSWsvge4bt_hFaBt4Ew3sfY6-1y_YkoVzCjVOobAyZeI6D4QzdSXVQtjiFTsWsSiZ_6u6v9BAuxgQlhnbcA8LUSulXdMFQOkroycPncIj8N5nRGylwaTaUaieQr6vmsh81S4fzKbQ3dcf6wkWvUHFAiB5bWwCd488YEqfynpgjchx_wNa8LtZJ1YmyyZt06N3D2OWJ9iZ9gzMPqzeonYpHMU0GoAqDKBVYuPA_dT8GaG9K0EzfjzufLk0PoNd6M-5TImiL6T-Nm6XSUWv9j63UYelxNqAVKhTyyLDtqiT4LQyu5GhhoOMc-x4ZygAJPkw3SQXq_KqsrfxNOcsv4tvr8HsxpPixp6cnLjgyqbln1wbLDR3thDdeIs3RVspexAqUC04hFCsEnq4EX0kJxIWNP-Ag3TWtt_xi9V-tQQaNRZ2R15wHtVXFhv-IKEvreuz009zCBiITCL5ju8i9eR7RHysMapf5JMS3B6RcRTEGu2ZT37cKbi1AU4AytGmiAoGMJrrppY_JE4upeQJfbg5fxOqgev0gvdlXjo5GvABM4Hq_Ljljjl49Exy24O1Y0ye4dngTYZRQDn3WcR8cRJ7CYG_2y_iFBGiKz3evGskfd61M67q_e4hTcyrqxt3v26GGCmwUntnI3hJ2Jh6Y4DmbCk2lbanMQa_0h2WIyDkCgGXpW70GPro6fCQzIvJI9kFTuR4pIF1Gxu19mtd0IIqhY3TSzsq28tWtqpq3jtcmn6T7ap2RvmY8hYdiRuW0JnouY9K5hVKW5KwXCz8aY2mAPrSxiZYGzGgyhUP2BER2Mn9b8cssgASoJZXUtd2VzdC0yMO8N.m3u8
+https://img.magnific.com/premium-vector/offline-icon-vector-illustration_449764-213.jpg
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΤΤΙΚΗ" tvg-name="Naftemporikitv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-naftemporiki-id-4990.png?itok=dwrN9wMk",ΝΑΥΤΕΜΠΟΡΙΚΗ TV
 https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
 #EXTINF:-1 group-title="02TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΤΤΙΚΗ" tvg-name="onetv" tvg-logo="https://i.imgur.com/yHiFVKK.jpg",ONE TV

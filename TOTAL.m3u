@@ -142,12 +142,12 @@ https://raw.githubusercontent.com/jimgate07/grtv/master/streams/centertv.m3u8
 #EXTINF:-1 group-title="04TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΝ.ΜΑΚ ΘΡΑΚΗ" tvg-name="deltatv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-delta-tv.png?itok=TWHWz48A",ΔΕΛΤΑ TV
 http://81.171.10.42:554/liveD/DStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="04TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΝ.ΜΑΚ ΘΡΑΚΗ" tvg-name="diktyotv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-diktyo.jpg?itok=mggzHbNF",ΔΙΚΤΥΟ TV
-https://5d00db0e0fcd5.streamlock.net/7322/7322/playlist.m3u8
+https://png.pngtree.com/png-clipart/20230804/original/pngtree-offline-offline-stamp-miscellaneous-vector-picture-image_9537360.png
 #EXTINF:-1 group-title="04TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΝ.ΜΑΚ ΘΡΑΚΗ" tvg-name="edtv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNqX24Ne1YsPA67yi90gUttikIoXs136_80jqpkfiVrQ&s=10",ΕΔ TV
 https://img.magnific.com/premium-vector/offline-icon-vector-illustration_449764-213.jpg
-EXTINF:-1 group-title="04TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΝ.ΜΑΚ ΘΡΑΚΗ" tvg-name="enachannel" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-ena.jpg?itok=IHt9wL3G",ENA CHANNEL
+#EXTINF:-1 group-title="04TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΝ.ΜΑΚ ΘΡΑΚΗ" tvg-name="enachannel" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-ena.jpg?itok=IHt9wL3G",ENA CHANNEL
 http://cdn5.smart-tv-data.com/local/ena_channel/mpeg.2ts
-EXTINF:-1 group-title="04TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΝ.ΜΑΚ ΘΡΑΚΗ" tvg-name="enachannel" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-ena.jpg?itok=IHt9wL3G",ENA CHANNEL BUP 2
+#EXTINF:-1 group-title="04TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΝ.ΜΑΚ ΘΡΑΚΗ" tvg-name="enachannel" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-ena.jpg?itok=IHt9wL3G",ENA CHANNEL BUP 2
 https://cdn5.smart-tv-data.com/local/ena_channel/manifest.mpd
 #EXTINF:-1 group-title="04TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΝ.ΜΑΚ ΘΡΑΚΗ" tvg-name="tileepiloges" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/epiloges-id-4050-2.png?itok=tFxFw8Au",ΕΠΙΛΟΓΕΣ TV
 https://gra1.crystalweb.net:1936/epilogestv/epilogestv/playlist.m3u8

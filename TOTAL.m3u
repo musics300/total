@@ -197,6 +197,8 @@ https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Astra
 https://ant.32bit.gr:5443/live/streams/for123456.m3u8
 #EXTINF:-1 group-title="07TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΘΕΣΣΑΛΙΑ" tvg-name="thessaliatv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/thessalia-tileorasi-id-4670.png?itok=hJ5WQKS7",ΘΕΣΣΑΛΙΑ TV
 https://thessaliachannel.gr:3850/live/thesstvlive.m3u8
+#EXTINF:-1 group-title="07TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΘΕΣΣΑΛΙΑ" tvg-name="smile" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-smile-plus.jpg?itok=mA2HucJP",SMILE+
+https://png.pngtree.com/png-clipart/20230804/original/pngtree-offline-offline-stamp-miscellaneous-vector-picture-image_9537360.png
 #EXTINF:-1 group-title="07TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΘΕΣΣΑΛΙΑ" tvg-name="trt" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-trt.jpg?itok=AJm-v21_",TRT TV
 https://av.hellasnet.tv/rst/trt/index.m3u8
 #EXTINF:-1 group-title="08TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-name="etv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-e-tv.jpg?itok=HD3hFjya",ETV

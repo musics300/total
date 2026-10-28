@@ -201,6 +201,8 @@ https://thessaliachannel.gr:3850/live/thesstvlive.m3u8
 https://png.pngtree.com/png-clipart/20230804/original/pngtree-offline-offline-stamp-miscellaneous-vector-picture-image_9537360.png
 #EXTINF:-1 group-title="07TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΘΕΣΣΑΛΙΑ" tvg-name="trt" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-trt.jpg?itok=AJm-v21_",TRT TV
 https://av.hellasnet.tv/rst/trt/index.m3u8
+#EXTINF:-1 group-title="08TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-name="enatv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-ena-kentrikis-elladas.jpg?itok=ToQmusfj",ENA TV
+https://png.pngtree.com/png-clipart/20230804/original/pngtree-offline-offline-stamp-miscellaneous-vector-picture-image_9537360.png
 #EXTINF:-1 group-title="08TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-name="etv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-e-tv.jpg?itok=HD3hFjya",ETV
 https://neon.streams.gr:8081/epsilontv/index.m3u8
 #EXTINF:-1 group-title="08TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-name="etv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-e-tv.jpg?itok=HD3hFjya",ETV BUP
@@ -209,6 +211,8 @@ https://cdn5.smart-tv-data.com/local/epsilontv/manifest.mpd
 http://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
 #EXTINF:-1 group-title="08TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-name="starke" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/star-ke-id-4810.png?itok=fhZRj_J9",STAR K.E. BUP
 http://195.226.218.165/tvstar/tvstar/mpeg.2ts
+#EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="art" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-art-4490.jpg?itok=vaK2rmaM",ART TV
+https://png.pngtree.com/png-clipart/20230804/original/pngtree-offline-offline-stamp-miscellaneous-vector-picture-image_9537360.png
 #EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="besttv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/best-id-4510.png?itok=c0r9E3_u",BEST TV
 https://push-int.siliconweb.com/bestTV/stream/playlist.m3u8
 #EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="besttv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/best-id-4510.png?itok=c0r9E3_u",BEST TV BUP
@@ -217,9 +221,9 @@ http://cdn5.smart-tv-data.com/best/hybrid3/best/mpeg.2ts
 https://opentv-livehybrid.siliconweb.com/openTvLive/bestTV/playlist.m3u8
 #EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="besttv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/best-id-4510.png?itok=c0r9E3_u",BEST TV BUP 3
 https://opentv-livehybrid.siliconweb.com/openTvLive/bestTV/manifest.mpd
-#EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/best-id-4510.png?itok=c0r9E3_u",BEST TV HYBRID 1
+#EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="besttv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/best-id-4510.png?itok=c0r9E3_u",BEST TV HYBRID 1
 http://cdn5.smart-tv-data.com/best/besttv/best/mpeg.2ts
-#EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/best-id-4510.png?itok=c0r9E3_u",BEST TV HYBRID 2
+#EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="besttv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/best-id-4510.png?itok=c0r9E3_u",BEST TV HYBRID 2
 http://cdn5.smart-tv-data.com/best/hybrid2/best/mpeg.2ts
 #EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="hlectratv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-ilektra.png?itok=00xp_UeE",HLEKTRA TV
 https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
@@ -234,17 +238,15 @@ https://raw.githubusercontent.com/jimgate07/grtv/master/streams/LePanto.m3u8
 #EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="lychnos" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-lyxnos.jpg?itok=Nujomokt",LYCHNOS
 https://thor.mental-media.gr:19360/imp/imp.m3u8
 #EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="lychnos" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-lyxnos.jpg?itok=Nujomokt",LYCHNOS BUP
+https://thor.mental-media.gr:19360/imp_abr/imp_abr_720p.m3u8  
+#EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="lychnos" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-lyxnos.jpg?itok=Nujomokt",LYCHNOS BUP 2
 https://www.youtube.com/channel/UC8WYI1OlMaNQiGmi8yFtGZg/live
 #EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="mesogeiostv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-mesogeios.jpg?itok=BHokIN7W",MESOGEIOS TV
 https://rtmp.win:3793/live/mesogeiostvlive.m3u8
 #EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="ort" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-opt-television.jpg?itok=N43jiq72",OPT TV
-https://fr.crystalweb.net:1936/ort/ort/playlist.m3u8
-#EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="rtpkentro" tvg-logo="https://digea.gr/cms/uploads/2021/11/image52-87.jpeg",RTP ΚΕΝΤΡΟ
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/rtpkentro/playlist.m3u8
-#EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="rtpkentro" tvg-logo="https://digea.gr/cms/uploads/2021/11/image52-87.jpeg",RTP ΚΕΝΤΡΟ BUP
-http://cdn5.smart-tv-data.com/local/rtpkentro/playlist.m3u8
+https://png.pngtree.com/png-clipart/20230804/original/pngtree-offline-offline-stamp-miscellaneous-vector-picture-image_9537360.png
 #EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="super" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-super.jpg?itok=GDn08W8Z",SUPER TV (NOT 24/7)
-https://www.youtube.com/channel/UC4OD3anBwEt0N_gYmkmrtJQ/live
+https://png.pngtree.com/png-clipart/20230804/original/pngtree-offline-offline-stamp-miscellaneous-vector-picture-image_9537360.png
 #EXTINF:-1 group-title="10TV ΠΕΡΙΦΕΡΕΙΑΚΑ Β.Α ΑΙΓΑΙΟ" tvg-name="aeolos" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-aeolos.png?itok=y6KgJav8",AEOLOS TV
 https://cdn.istoikona.com/aeolostv/live/chunks.m3u8
 #EXTINF:-1 group-title="10TV ΠΕΡΙΦΕΡΕΙΑΚΑ Β.Α ΑΙΓΑΙΟ" tvg-name="aeolos" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-aeolos.png?itok=y6KgJav8",AEOLOS TV BUP

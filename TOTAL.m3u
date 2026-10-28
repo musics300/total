@@ -194,9 +194,9 @@ https://live20.bozztv.com/akamaissh101/ssh101/astratv/playlist.m3u8
 #EXTINF:-1 group-title="07TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΘΕΣΣΑΛΙΑ" tvg-name="astratv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/astra-tv-id5-4680.png?itok=xngWornz",ASTRA TV BUP 2
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/Astra_TV_bup.m3u8
 #EXTINF:-1 group-title="07TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΘΕΣΣΑΛΙΑ" tvg-name="formediatv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-form-media-tv.jpg?itok=T1riFsvH",FORMEDIA TV
-https://mercury.32bit.gr:19360/formediatv/formediatv.m3u8
+https://ant.32bit.gr:5443/live/streams/for123456.m3u8
 #EXTINF:-1 group-title="07TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΘΕΣΣΑΛΙΑ" tvg-name="thessaliatv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/thessalia-tileorasi-id-4670.png?itok=hJ5WQKS7",ΘΕΣΣΑΛΙΑ TV
-https://raw.githubusercontent.com/jimgate07/grtv/master/streams/thessaliatv.m3u8
+https://thessaliachannel.gr:3850/live/thesstvlive.m3u8
 #EXTINF:-1 group-title="07TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΘΕΣΣΑΛΙΑ" tvg-name="trt" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-trt.jpg?itok=AJm-v21_",TRT TV
 https://av.hellasnet.tv/rst/trt/index.m3u8
 #EXTINF:-1 group-title="08TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΣΤΕΡΕΑ ΕΛΛΑΔΑ" tvg-name="etv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-e-tv.jpg?itok=HD3hFjya",ETV

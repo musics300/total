@@ -583,7 +583,7 @@ https://video.streams.ovh:1936/DiavataTV/DiavataTV/chunklist_w516443938.m3u8
 https://live.cast-control.eu/ekpdipso/ekpdipso/chunklist_w1039152407.m3u8
 #EXTINF:-1 group-title="20TV WEB TV" tvg-logo="",DTP
 https://raw.githubusercontent.com/jimgate07/grtv/refs/heads/master/streams/DTP.m3u8
-#EXTINF:-1 group-title="04TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΑΝ.ΜΑΚ ΘΡΑΚΗ" tvg-name="tvrodopi" tvg-logo="https://digea.gr/cms/uploads/2021/11/tv-rodopi.png",TV ΡΟΔΟΠΗ
+#EXTINF:-1 group-title="20TV WEB TV" tvg-name="tvrodopi" tvg-logo="https://digea.gr/cms/uploads/2021/11/tv-rodopi.png",TV ΡΟΔΟΠΗ
 https://eco.streams.ovh:8081/tvrodopi/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="20TV WEB TV" tvg-logo="",ELLADA TV
 https://tvstream.elladafm.gr:3989/live/elladasportstvlive.m3u8

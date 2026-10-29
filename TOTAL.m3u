@@ -301,10 +301,6 @@ https://cdn5.smart-tv-data.com/local/neatv/manifest.mpd
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
 #EXTINF:-1 group-title="13TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΡΗΤΗ" tvg-name="creta" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-creta-tv.png?itok=0Tc4TvJL",CRETA ΤΗΛΕΟΡΑΣΗ BUP 2
 https://cdn5.smart-tv-data.com/local/tvcreta/manifest.mpd
-#EXTINF:-1 group-title="13TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΡΗΤΗ" tvg-name="thlekriti" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/telekphth-id-5570.png?itok=VtePjmSV",TELEKPHTH
-https://neon.streams.gr:8081/telekriti/index.m3u8
-#EXTINF:-1 group-title="13TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΡΗΤΗ" tvg-name="thlekriti" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/telekphth-id-5570.png?itok=VtePjmSV",TELEKPHTH BUP
-http://cdn5.smart-tv-data.com/local/telekriti/playlist.m3u8
 #EXTINF:-1 group-title="13TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΡΗΤΗ" tvg-name="notostv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-notos-tv.jpg?itok=vnXCIRem",NOTOS TV
 https://png.pngtree.com/png-clipart/20230804/original/pngtree-offline-offline-stamp-miscellaneous-vector-picture-image_9537360.png
 #EXTINF:-1 group-title="13TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΡΗΤΗ" tvg-name="sitiatv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/sitia-tv-id-5630.png?itok=31a-AGxu",SITIA TV

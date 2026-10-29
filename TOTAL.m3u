@@ -269,7 +269,7 @@ https://png.pngtree.com/png-clipart/20230804/original/pngtree-offline-offline-st
 https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8
 #EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="aigaiotv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-aigaio.jpg?itok=9XEtraeE",AIGAIO TV BUP
 https://live20.bozztv.com/akamaissh101/ssh101/aigaiotv/playlist.m3u8
-#EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="iridatv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-aigaio.jpg?itok=9XEtraeE",IRIDA TV
+#EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="iridatv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/irida-id-5740.png?itok=ra6DAcyQ",IRIDA TV
 https://png.pngtree.com/png-clipart/20230804/original/pngtree-offline-offline-stamp-miscellaneous-vector-picture-image_9537360.png
 #EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="kostv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/kos-tv-id-5750.png?itok=p2V2lQVa",KOS TV
 https://eu1.streams.gr:8081/kostv/index.m3u8
@@ -277,7 +277,9 @@ https://eu1.streams.gr:8081/kostv/index.m3u8
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="samiakitv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-sat.jpg?itok=t6U0SZDR",SAMIAKI TV BUP
 https://cdn5.smart-tv-data.com/local/samiaki/manifest.mpd
-#EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="kosmos" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-sat.jpg?itok=t6U0SZDR",TV KOSMOS
+#EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="tharri" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-tharri-2.png?itok=isY_bPf-",THARRI TV
+https://png.pngtree.com/png-clipart/20230804/original/pngtree-offline-offline-stamp-miscellaneous-vector-picture-image_9537360.png
+#EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="kosmos" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/tv-kosmos-id-5760_.png?itok=LjgaKA1k",TV KOSMOS
 https://gra1.crystalweb.net:1936/tvkosmos/tvkosmos/chunklist_w2025415165.m3u8
 #EXTINF:-1 group-title="13TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΡΗΤΗ" tvg-name="krititv1" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-kriti1_0.png?itok=7ORr3i4B",KPHTH 1
 https://livetv.streams.ovh:8081/kriti/index.m3u8

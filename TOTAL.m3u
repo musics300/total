@@ -254,6 +254,8 @@ https://cdn.istoikona.com/aeolostv/live/playlist.m3u8
 #EXTINF:-1 group-title="10TV ΠΕΡΙΦΕΡΕΙΑΚΑ Β.Α ΑΙΓΑΙΟ" tvg-name="aeolos" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-aeolos.png?itok=y6KgJav8",AEOLOS TV BUP 2
 http://cdn5.smart-tv-data.com/local/aeolostv/manifest.mpd
 #EXTINF:-1 group-title="10TV ΠΕΡΙΦΕΡΕΙΑΚΑ Β.Α ΑΙΓΑΙΟ" tvg-name="alithiatv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-alitheia-tv.jpg?itok=PiUlb-8y",ΑΛΗΘΕΙΑ TV
+https://raw.githubusercontent.com/jimgate07/grtv/master/streams/alithiatv.m3u8
+#EXTINF:-1 group-title="10TV ΠΕΡΙΦΕΡΕΙΑΚΑ Β.Α ΑΙΓΑΙΟ" tvg-name="alithiatv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-alitheia-tv.jpg?itok=PiUlb-8y",ΑΛΗΘΕΙΑ TV BUP
 https://www.twitch.tv/alithiavideo
 #EXTINF:-1 group-title="10TV ΠΕΡΙΦΕΡΕΙΑΚΑ Β.Α ΑΙΓΑΙΟ" tvg-name="patridatv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/patrida-tv-id-5140.png?itok=Or9h8ORh",ΠΑΤΡΙΔΑ TV
 https://png.pngtree.com/png-clipart/20230804/original/pngtree-offline-offline-stamp-miscellaneous-vector-picture-image_9537360.png
@@ -267,18 +269,16 @@ https://png.pngtree.com/png-clipart/20230804/original/pngtree-offline-offline-st
 https://fr.crystalweb.net:1936/aigaiotv/aigaiotv/playlist.m3u8
 #EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="aigaiotv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-aigaio.jpg?itok=9XEtraeE",AIGAIO TV BUP
 https://live20.bozztv.com/akamaissh101/ssh101/aigaiotv/playlist.m3u8
+#EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="iridatv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-aigaio.jpg?itok=9XEtraeE",IRIDA TV
+https://png.pngtree.com/png-clipart/20230804/original/pngtree-offline-offline-stamp-miscellaneous-vector-picture-image_9537360.png
 #EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="kostv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/kos-tv-id-5750.png?itok=p2V2lQVa",KOS TV
 https://eu1.streams.gr:8081/kostv/index.m3u8
 #EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="samiakitv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-sat.jpg?itok=t6U0SZDR",SAMIAKI TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
 #EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="samiakitv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-sat.jpg?itok=t6U0SZDR",SAMIAKI TV BUP
 https://cdn5.smart-tv-data.com/local/samiaki/manifest.mpd
-#EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="kosmos" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/tv-kosmos-id-5760_.png?itok=LjgaKA1k",TV KOSMOS
-https://gra1.crystalweb.net:1936/tvkosmos/tvkosmos/playlist.m3u8
-#EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="kosmos" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/tv-kosmos-id-5760_.png?itok=LjgaKA1k",TV KOSMOS BUP
-https://raw.githubusercontent.com/jimgate07/grtv/master/streams/tvkosmosgr.m3u8
-#EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="aegeanlive" tvg-logo="n",AEGEAN LIVE
-https://2-fss-1.streamhoster.com/pl_148/203374-5742530-1/playlist.m3u8
+#EXTINF:-1 group-title="12TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΔΩΔΕΚΑΝΗΣΑ & ΣΑΜΟΣ" tvg-name="kosmos" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-sat.jpg?itok=t6U0SZDR",TV KOSMOS
+https://gra1.crystalweb.net:1936/tvkosmos/tvkosmos/chunklist_w2025415165.m3u8
 #EXTINF:-1 group-title="13TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΡΗΤΗ" tvg-name="krititv1" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-kriti1_0.png?itok=7ORr3i4B",KPHTH 1
 https://livetv.streams.ovh:8081/kriti/index.m3u8
 #EXTINF:-1 group-title="13TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΡΗΤΗ" tvg-name="krititv1" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-kriti1_0.png?itok=7ORr3i4B",KPHTH 1 BUP
@@ -299,14 +299,16 @@ https://live.neatv.gr:8888/hls/neatv.m3u8
 https://cdn5.smart-tv-data.com/local/neatv/manifest.mpd
 #EXTINF:-1 group-title="13TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΡΗΤΗ" tvg-name="creta" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-creta-tv.png?itok=0Tc4TvJL",CRETA ΤΗΛΕΟΡΑΣΗ
 http://live.streams.ovh:1935/tvcreta/tvcreta/playlist.m3u8
-#EXTINF:-1 group-title="13TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΡΗΤΗ" tvg-name="creta" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-creta-tv.png?itok=0Tc4TvJL",CRETA ΤΗΛΕΟΡΑΣΗ BUP
-http://cdn5.smart-tv-data.com/local/tvcreta/playlist.m3u8
 #EXTINF:-1 group-title="13TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΡΗΤΗ" tvg-name="creta" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-creta-tv.png?itok=0Tc4TvJL",CRETA ΤΗΛΕΟΡΑΣΗ BUP 2
 https://cdn5.smart-tv-data.com/local/tvcreta/manifest.mpd
 #EXTINF:-1 group-title="13TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΡΗΤΗ" tvg-name="thlekriti" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/telekphth-id-5570.png?itok=VtePjmSV",TELEKPHTH
 https://neon.streams.gr:8081/telekriti/index.m3u8
 #EXTINF:-1 group-title="13TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΡΗΤΗ" tvg-name="thlekriti" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/telekphth-id-5570.png?itok=VtePjmSV",TELEKPHTH BUP
 http://cdn5.smart-tv-data.com/local/telekriti/playlist.m3u8
+#EXTINF:-1 group-title="13TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΡΗΤΗ" tvg-name="notostv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-notos-tv.jpg?itok=vnXCIRem",NOTOS TV
+https://png.pngtree.com/png-clipart/20230804/original/pngtree-offline-offline-stamp-miscellaneous-vector-picture-image_9537360.png
+#EXTINF:-1 group-title="13TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΚΡΗΤΗ" tvg-name="sitiatv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/sitia-tv-id-5630.png?itok=31a-AGxu",SITIA TV
+https://png.pngtree.com/png-clipart/20230804/original/pngtree-offline-offline-stamp-miscellaneous-vector-picture-image_9537360.png
 #EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="alphacy" tvg-logo="https://www.imhbusiness.com/wp-content/uploads/2022/01/Untitled-7.jpg",ALPHA CY
 https://am8.cloudskep.com/alphacyp/acy/l4/fhd/chunks.m3u8?nimblesessionid=10888075&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDI2IDExOjA5OjM1IEFNJmhhc2hfdmFsdWU9V0NwUVh0QWZ6VGdhZzAvbGNMaGJRZz09JnZhbGlkbWludXRlcz0zMA==
 #EXTINF:-1 group-title="14TV ΠΑΓΚΥΠΡΙΑ" tvg-name="ant1cy" tvg-logo="https://yt3.googleusercontent.com/E835HrwxEu-O_kCw7Rug3LlfgUdqwSzt0_SBK6tuHwzRyJKlh5_9iWGA_TP5rdxCc51SUKQT=s900-c-k-c0x00ffffff-no-rj",ANT1 CY

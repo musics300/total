@@ -235,10 +235,6 @@ http://cdn5.smart-tv-data.com/best/hybrid3/best/mpeg.2ts
 https://opentv-livehybrid.siliconweb.com/openTvLive/bestTV/playlist.m3u8
 #EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="besttv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/best-id-4510.png?itok=c0r9E3_u",BEST TV BUP 3
 https://opentv-livehybrid.siliconweb.com/openTvLive/bestTV/manifest.mpd
-#EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="besttv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/best-id-4510.png?itok=c0r9E3_u",BEST TV HYBRID 1
-http://cdn5.smart-tv-data.com/best/besttv/best/mpeg.2ts
-#EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="besttv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/best-id-4510.png?itok=c0r9E3_u",BEST TV HYBRID 2
-http://cdn5.smart-tv-data.com/best/hybrid2/best/mpeg.2ts
 #EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="hlectratv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/logo-ilektra.png?itok=00xp_UeE",HLEKTRA TV
 https://live20.bozztv.com/giatv/giatv-hlektratv/hlektratv/playlist.m3u8
 #EXTINF:-1 group-title="09TV ΠΕΡΙΦΕΡΕΙΑΚΑ ΠΕΛΟΠΟΝΝΗΣΟΣ" tvg-name="ionian" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/ionian-id-4520.png?itok=ccHImTyJ",IONIAN CHANNEL
@@ -373,6 +369,10 @@ https://livestar.siliconweb.com/starvod/star_int/star_int.m3u8
 http://hbbtv.ert.gr/stream.php/v/vid_ertplay6_mpeg.2ts
 #EXTINF:-1 group-title="15TV ΔΙΕΘΝΗ" tvg-name="tv5" tvg-logo="https://logowik.com/content/uploads/images/tv5-monde-20211549.logowik.com.webp",TV5 EUROPE BUP 2
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/TV5/default/index.mpd
+#EXTINF:-1 group-title="16TV ΑΘΛΗΤΙΚΑ & HYBRID" tvg-name="besttv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/best-id-4510.png?itok=c0r9E3_u",BEST TV HYBRID 1
+http://cdn5.smart-tv-data.com/best/besttv/best/mpeg.2ts
+#EXTINF:-1 group-title="16TV ΑΘΛΗΤΙΚΑ & HYBRID" tvg-name="besttv" tvg-logo="https://www.digea.gr/sites/default/files/styles/tv_station/public/channel-logos/best-id-4510.png?itok=c0r9E3_u",BEST TV HYBRID 2
+http://cdn5.smart-tv-data.com/best/hybrid2/best/mpeg.2ts
 #EXTINF:-1 group-title="16TV ΑΘΛΗΤΙΚΑ & HYBRID" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA2OTdiYWEtNWEzYS00NmI2LWJlYzktZTQ3YzYyZjNmZGRmXkEyXkFqcGc@._V1_.jpg",01ERT NEWS 2
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTNews2/default/index.mpd
 #EXTINF:-1 group-title="16TV ΑΘΛΗΤΙΚΑ & HYBRID" tvg-name="" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTA2OTdiYWEtNWEzYS00NmI2LWJlYzktZTQ3YzYyZjNmZGRmXkEyXkFqcGc@._V1_.jpg",01ERT NEWS 3
